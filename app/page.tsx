@@ -225,7 +225,7 @@ export default function Home(): ReactElement {
     <div className="shell">
       <aside className="nav">
         <div>
-          <a className="brand" href="https://www.legawrite.ai" target="_blank" rel="noreferrer">
+          <a className="brand" href="https://www.legawrite.ai/">
             <img src="/legawrite-logo.svg" alt="Legawrite" width={200} height={56} />
           </a>
           <div className="logo">

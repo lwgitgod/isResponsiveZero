@@ -1,0 +1,22 @@
+export_4417_202204.csv (account nickname: BLV OPERATING)
+
+```csv
+posted,description,amount
+2022-04-28,POS CLOUDNINE HOSTING 9002,-869.76
+2022-04-29,Staples — Office supplies,-731.67
+2022-05-01,ACH CREDIT NORTHWIND OUTFITTERS,34823.62
+2022-05-02,ACH DEBIT UBER,-981.42
+2022-05-07,POS WEWORK 7756,-99.26
+2022-05-07,Customer payment — Parkside Clinics,1054.53
+2022-05-08,ACH DEBIT UBER,-8999.43
+2022-05-09,Bill pay: Keystone Insurance,-7581.14
+2022-05-11,Bill pay: Comcast Business,-772.17
+2022-05-12,Customer payment — Lumen Schools,17636.76
+2022-05-14,STRIPE TRANSFER ST-201931,19384.20
+2022-05-17,XFER 038826,-9628.88
+2022-05-18,Bill pay: Delta Air Lines,-2572.56
+2022-05-18,Comcast Business — Internet,-3721.39
+2022-05-24,Mobile deposit #6531,5592.83
+2022-05-27,STRIPE TRANSFER ST-087795,2421.48
+2022-05-28,Comcast Business — Internet,-1552.81
+```

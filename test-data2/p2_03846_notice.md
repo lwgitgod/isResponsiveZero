@@ -1,0 +1,3 @@
+CITY OF SACRAMENTO — PARKING CITATION #73712837
+Plate 8KLM321  Violation: Expired meter
+Fine $65.00  Due 05/26/2019

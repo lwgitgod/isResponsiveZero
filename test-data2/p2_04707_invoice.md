@@ -1,0 +1,4 @@
+CVS Pharmacy
+RX #8259360  qty 48
+Copay $21.89
+10/22/2020  ExtraCare 2922789237

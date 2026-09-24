@@ -1,0 +1,3 @@
+CITY OF TACOMA — PARKING CITATION #72266918
+Plate 2ABC701  Violation: Expired meter
+Fine $95.00  Due 12/08/2019

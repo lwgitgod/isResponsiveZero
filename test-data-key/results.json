@@ -1,0 +1,8395 @@
+[
+  {
+    "filename": "001_stock_ledger.md",
+    "status": "ok",
+    "chars": 377,
+    "responsive": true,
+    "responsive_probability": 0.99,
+    "rfps": [
+      "RFP_01",
+      "RFP_02",
+      "RFP_04",
+      "RFP_06"
+    ],
+    "rfp_scores": [
+      {
+        "rfp_id": "RFP_01",
+        "probability": 0.99
+      },
+      {
+        "rfp_id": "RFP_02",
+        "probability": 0.98
+      },
+      {
+        "rfp_id": "RFP_03",
+        "probability": 0.3
+      },
+      {
+        "rfp_id": "RFP_04",
+        "probability": 0.97
+      },
+      {
+        "rfp_id": "RFP_05",
+        "probability": 0.07
+      },
+      {
+        "rfp_id": "RFP_06",
+        "probability": 0.98
+      },
+      {
+        "rfp_id": "RFP_07",
+        "probability": 0.04
+      },
+      {
+        "rfp_id": "RFP_08",
+        "probability": 0.08
+      },
+      {
+        "rfp_id": "RFP_09",
+        "probability": 0.07
+      },
+      {
+        "rfp_id": "RFP_10",
+        "probability": 0.11
+      }
+    ],
+    "category": "Stock Certificate, Ledger or Cap Table",
+    "category_confidence": 1,
+    "category_low_confidence": false,
+    "model": "jev-1.13.0"
+  },
+  {
+    "filename": "002_articles_of_incorporation.md",
+    "status": "ok",
+    "chars": 382,
+    "responsive": true,
+    "responsive_probability": 0.99,
+    "rfps": [
+      "RFP_01",
+      "RFP_05",
+      "RFP_06"
+    ],
+    "rfp_scores": [
+      {
+        "rfp_id": "RFP_01",
+        "probability": 0.92
+      },
+      {
+        "rfp_id": "RFP_02",
+        "probability": 0.06
+      },
+      {
+        "rfp_id": "RFP_03",
+        "probability": 0.06
+      },
+      {
+        "rfp_id": "RFP_04",
+        "probability": 0.08
+      },
+      {
+        "rfp_id": "RFP_05",
+        "probability": 0.99
+      },
+      {
+        "rfp_id": "RFP_06",
+        "probability": 0.9
+      },
+      {
+        "rfp_id": "RFP_07",
+        "probability": 0.05
+      },
+      {
+        "rfp_id": "RFP_08",
+        "probability": 0.03
+      },
+      {
+        "rfp_id": "RFP_09",
+        "probability": 0.02
+      },
+      {
+        "rfp_id": "RFP_10",
+        "probability": 0.09
+      }
+    ],
+    "category": "Corporate Formation or Governance Document",
+    "category_confidence": 1,
+    "category_low_confidence": false,
+    "model": "jev-1.13.0"
+  },
+  {
+    "filename": "003_bank_statement_transfers.md",
+    "status": "ok",
+    "chars": 501,
+    "responsive": true,
+    "responsive_probability": 0.98,
+    "rfps": [
+      "RFP_08",
+      "RFP_09"
+    ],
+    "rfp_scores": [
+      {
+        "rfp_id": "RFP_01",
+        "probability": 0.06
+      },
+      {
+        "rfp_id": "RFP_02",
+        "probability": 0.02
+      },
+      {
+        "rfp_id": "RFP_03",
+        "probability": 0.02
+      },
+      {
+        "rfp_id": "RFP_04",
+        "probability": 0.1
+      },
+      {
+        "rfp_id": "RFP_05",
+        "probability": 0.01
+      },
+      {
+        "rfp_id": "RFP_06",
+        "probability": 0.03
+      },
+      {
+        "rfp_id": "RFP_07",
+        "probability": 0.02
+      },
+      {
+        "rfp_id": "RFP_08",
+        "probability": 0.98
+      },
+      {
+        "rfp_id": "RFP_09",
+        "probability": 0.96
+      },
+      {
+        "rfp_id": "RFP_10",
+        "probability": 0.07
+      }
+    ],
+    "category": "Bank Statement or Transaction Record",
+    "category_confidence": 1,
+    "category_low_confidence": false,
+    "model": "jev-1.13.0"
+  },
+  {
+    "filename": "004_board_minutes.md",
+    "status": "ok",
+    "chars": 467,
+    "responsive": true,
+    "responsive_probability": 0.98,
+    "rfps": [
+      "RFP_01",
+      "RFP_02",
+      "RFP_04",
+      "RFP_05",
+      "RFP_06"
+    ],
+    "rfp_scores": [
+      {
+        "rfp_id": "RFP_01",
+        "probability": 0.98
+      },
+      {
+        "rfp_id": "RFP_02",
+        "probability": 0.66
+      },
+      {
+        "rfp_id": "RFP_03",
+        "probability": 0.43
+      },
+      {
+        "rfp_id": "RFP_04",
+        "probability": 0.94
+      },
+      {
+        "rfp_id": "RFP_05",
+        "probability": 0.98
+      },
+      {
+        "rfp_id": "RFP_06",
+        "probability": 0.98
+      },
+      {
+        "rfp_id": "RFP_07",
+        "probability": 0.03
+      },
+      {
+        "rfp_id": "RFP_08",
+        "probability": 0.06
+      },
+      {
+        "rfp_id": "RFP_09",
+        "probability": 0.02
+      },
+      {
+        "rfp_id": "RFP_10",
+        "probability": 0.09
+      }
+    ],
+    "category": "Corporate Formation or Governance Document",
+    "category_confidence": 1,
+    "category_low_confidence": false,
+    "model": "jev-1.13.0"
+  },
+  {
+    "filename": "005_wire_confirmation.md",
+    "status": "ok",
+    "chars": 244,
+    "responsive": true,
+    "responsive_probability": 0.98,
+    "rfps": [
+      "RFP_08",
+      "RFP_09"
+    ],
+    "rfp_scores": [
+      {
+        "rfp_id": "RFP_01",
+        "probability": 0.07
+      },
+      {
+        "rfp_id": "RFP_02",
+        "probability": 0.02
+      },
+      {
+        "rfp_id": "RFP_03",
+        "probability": 0.03
+      },
+      {
+        "rfp_id": "RFP_04",
+        "probability": 0.13
+      },
+      {
+        "rfp_id": "RFP_05",
+        "probability": 0.01
+      },
+      {
+        "rfp_id": "RFP_06",
+        "probability": 0.02
+      },
+      {
+        "rfp_id": "RFP_07",
+        "probability": 0.03
+      },
+      {
+        "rfp_id": "RFP_08",
+        "probability": 0.98
+      },
+      {
+        "rfp_id": "RFP_09",
+        "probability": 0.92
+      },
+      {
+        "rfp_id": "RFP_10",
+        "probability": 0.08
+      }
+    ],
+    "category": "Bank Statement or Transaction Record",
+    "category_confidence": 1,
+    "category_low_confidence": false,
+    "model": "jev-1.13.0"
+  },
+  {
+    "filename": "006_general_ledger.md",
+    "status": "ok",
+    "chars": 365,
+    "responsive": true,
+    "responsive_probability": 0.95,
+    "rfps": [
+      "RFP_08",
+      "RFP_09"
+    ],
+    "rfp_scores": [
+      {
+        "rfp_id": "RFP_01",
+        "probability": 0.05
+      },
+      {
+        "rfp_id": "RFP_02",
+        "probability": 0.02
+      },
+      {
+        "rfp_id": "RFP_03",
+        "probability": 0.02
+      },
+      {
+        "rfp_id": "RFP_04",
+        "probability": 0.1
+      },
+      {
+        "rfp_id": "RFP_05",
+        "probability": 0.01
+      },
+      {
+        "rfp_id": "RFP_06",
+        "probability": 0.02
+      },
+      {
+        "rfp_id": "RFP_07",
+        "probability": 0.02
+      },
+      {
+        "rfp_id": "RFP_08",
+        "probability": 0.95
+      },
+      {
+        "rfp_id": "RFP_09",
+        "probability": 0.95
+      },
+      {
+        "rfp_id": "RFP_10",
+        "probability": 0.07
+      }
+    ],
+    "category": "Accounting Record or Financial Statement",
+    "category_confidence": 1,
+    "category_low_confidence": false,
+    "model": "jev-1.13.0"
+  },
+  {
+    "filename": "007_founder_agreement.md",
+    "status": "ok",
+    "chars": 515,
+    "responsive": true,
+    "responsive_probability": 0.99,
+    "rfps": [
+      "RFP_01",
+      "RFP_03",
+      "RFP_04",
+      "RFP_06"
+    ],
+    "rfp_scores": [
+      {
+        "rfp_id": "RFP_01",
+        "probability": 0.99
+      },
+      {
+        "rfp_id": "RFP_02",
+        "probability": 0.35
+      },
+      {
+        "rfp_id": "RFP_03",
+        "probability": 0.99
+      },
+      {
+        "rfp_id": "RFP_04",
+        "probability": 0.98
+      },
+      {
+        "rfp_id": "RFP_05",
+        "probability": 0.16
+      },
+      {
+        "rfp_id": "RFP_06",
+        "probability": 0.99
+      },
+      {
+        "rfp_id": "RFP_07",
+        "probability": 0.05
+      },
+      {
+        "rfp_id": "RFP_08",
+        "probability": 0.04
+      },
+      {
+        "rfp_id": "RFP_09",
+        "probability": 0.02
+      },
+      {
+        "rfp_id": "RFP_10",
+        "probability": 0.1
+      }
+    ],
+    "category": "Ownership or Equity Agreement",
+    "category_confidence": 1,
+    "category_low_confidence": false,
+    "model": "jev-1.13.0"
+  },
+  {
+    "filename": "008_subscription_agreement.md",
+    "status": "ok",
+    "chars": 330,
+    "responsive": true,
+    "responsive_probability": 0.98,
+    "rfps": [
+      "RFP_01",
+      "RFP_02",
+      "RFP_04",
+      "RFP_06"
+    ],
+    "rfp_scores": [
+      {
+        "rfp_id": "RFP_01",
+        "probability": 0.98
+      },
+      {
+        "rfp_id": "RFP_02",
+        "probability": 0.98
+      },
+      {
+        "rfp_id": "RFP_03",
+        "probability": 0.34
+      },
+      {
+        "rfp_id": "RFP_04",
+        "probability": 0.97
+      },
+      {
+        "rfp_id": "RFP_05",
+        "probability": 0.09
+      },
+      {
+        "rfp_id": "RFP_06",
+        "probability": 0.96
+      },
+      {
+        "rfp_id": "RFP_07",
+        "probability": 0.06
+      },
+      {
+        "rfp_id": "RFP_08",
+        "probability": 0.03
+      },
+      {
+        "rfp_id": "RFP_09",
+        "probability": 0.03
+      },
+      {
+        "rfp_id": "RFP_10",
+        "probability": 0.11
+      }
+    ],
+    "category": "Ownership or Equity Agreement",
+    "category_confidence": 1,
+    "category_low_confidence": false,
+    "model": "jev-1.13.0"
+  },
+  {
+    "filename": "009_cap_table.md",
+    "status": "ok",
+    "chars": 225,
+    "responsive": true,
+    "responsive_probability": 0.99,
+    "rfps": [
+      "RFP_01",
+      "RFP_02",
+      "RFP_06"
+    ],
+    "rfp_scores": [
+      {
+        "rfp_id": "RFP_01",
+        "probability": 0.98
+      },
+      {
+        "rfp_id": "RFP_02",
+        "probability": 0.99
+      },
+      {
+        "rfp_id": "RFP_03",
+        "probability": 0.47
+      },
+      {
+        "rfp_id": "RFP_04",
+        "probability": 0.12
+      },
+      {
+        "rfp_id": "RFP_05",
+        "probability": 0.06
+      },
+      {
+        "rfp_id": "RFP_06",
+        "probability": 0.98
+      },
+      {
+        "rfp_id": "RFP_07",
+        "probability": 0.06
+      },
+      {
+        "rfp_id": "RFP_08",
+        "probability": 0.03
+      },
+      {
+        "rfp_id": "RFP_09",
+        "probability": 0.05
+      },
+      {
+        "rfp_id": "RFP_10",
+        "probability": 0.09
+      }
+    ],
+    "category": "Stock Certificate, Ledger or Cap Table",
+    "category_confidence": 1,
+    "category_low_confidence": false,
+    "model": "jev-1.13.0"
+  },
+  {
+    "filename": "010_bylaws.md",
+    "status": "ok",
+    "chars": 317,
+    "responsive": true,
+    "responsive_probability": 0.98,
+    "rfps": [
+      "RFP_05"
+    ],
+    "rfp_scores": [
+      {
+        "rfp_id": "RFP_01",
+        "probability": 0.19
+      },
+      {
+        "rfp_id": "RFP_02",
+        "probability": 0.03
+      },
+      {
+        "rfp_id": "RFP_03",
+        "probability": 0.04
+      },
+      {
+        "rfp_id": "RFP_04",
+        "probability": 0.05
+      },
+      {
+        "rfp_id": "RFP_05",
+        "probability": 0.98
+      },
+      {
+        "rfp_id": "RFP_06",
+        "probability": 0.04
+      },
+      {
+        "rfp_id": "RFP_07",
+        "probability": 0.03
+      },
+      {
+        "rfp_id": "RFP_08",
+        "probability": 0.03
+      },
+      {
+        "rfp_id": "RFP_09",
+        "probability": 0.02
+      },
+      {
+        "rfp_id": "RFP_10",
+        "probability": 0.06
+      }
+    ],
+    "category": "Corporate Formation or Governance Document",
+    "category_confidence": 1,
+    "category_low_confidence": false,
+    "model": "jev-1.13.0"
+  },
+  {
+    "filename": "011_stock_ledger.md",
+    "status": "ok",
+    "chars": 377,
+    "responsive": true,
+    "responsive_probability": 0.99,
+    "rfps": [
+      "RFP_01",
+      "RFP_02",
+      "RFP_04",
+      "RFP_06"
+    ],
+    "rfp_scores": [
+      {
+        "rfp_id": "RFP_01",
+        "probability": 0.99
+      },
+      {
+        "rfp_id": "RFP_02",
+        "probability": 0.98
+      },
+      {
+        "rfp_id": "RFP_03",
+        "probability": 0.34
+      },
+      {
+        "rfp_id": "RFP_04",
+        "probability": 0.97
+      },
+      {
+        "rfp_id": "RFP_05",
+        "probability": 0.07
+      },
+      {
+        "rfp_id": "RFP_06",
+        "probability": 0.98
+      },
+      {
+        "rfp_id": "RFP_07",
+        "probability": 0.04
+      },
+      {
+        "rfp_id": "RFP_08",
+        "probability": 0.08
+      },
+      {
+        "rfp_id": "RFP_09",
+        "probability": 0.06
+      },
+      {
+        "rfp_id": "RFP_10",
+        "probability": 0.1
+      }
+    ],
+    "category": "Stock Certificate, Ledger or Cap Table",
+    "category_confidence": 1,
+    "category_low_confidence": false,
+    "model": "jev-1.13.0"
+  },
+  {
+    "filename": "012_articles_of_incorporation.md",
+    "status": "ok",
+    "chars": 382,
+    "responsive": true,
+    "responsive_probability": 0.99,
+    "rfps": [
+      "RFP_01",
+      "RFP_05",
+      "RFP_06"
+    ],
+    "rfp_scores": [
+      {
+        "rfp_id": "RFP_01",
+        "probability": 0.91
+      },
+      {
+        "rfp_id": "RFP_02",
+        "probability": 0.07
+      },
+      {
+        "rfp_id": "RFP_03",
+        "probability": 0.06
+      },
+      {
+        "rfp_id": "RFP_04",
+        "probability": 0.07
+      },
+      {
+        "rfp_id": "RFP_05",
+        "probability": 0.99
+      },
+      {
+        "rfp_id": "RFP_06",
+        "probability": 0.89
+      },
+      {
+        "rfp_id": "RFP_07",
+        "probability": 0.05
+      },
+      {
+        "rfp_id": "RFP_08",
+        "probability": 0.03
+      },
+      {
+        "rfp_id": "RFP_09",
+        "probability": 0.02
+      },
+      {
+        "rfp_id": "RFP_10",
+        "probability": 0.09
+      }
+    ],
+    "category": "Corporate Formation or Governance Document",
+    "category_confidence": 1,
+    "category_low_confidence": false,
+    "model": "jev-1.13.0"
+  },
+  {
+    "filename": "013_bank_statement_transfers.md",
+    "status": "ok",
+    "chars": 500,
+    "responsive": true,
+    "responsive_probability": 0.98,
+    "rfps": [
+      "RFP_08",
+      "RFP_09"
+    ],
+    "rfp_scores": [
+      {
+        "rfp_id": "RFP_01",
+        "probability": 0.06
+      },
+      {
+        "rfp_id": "RFP_02",
+        "probability": 0.02
+      },
+      {
+        "rfp_id": "RFP_03",
+        "probability": 0.03
+      },
+      {
+        "rfp_id": "RFP_04",
+        "probability": 0.11
+      },
+      {
+        "rfp_id": "RFP_05",
+        "probability": 0.01
+      },
+      {
+        "rfp_id": "RFP_06",
+        "probability": 0.03
+      },
+      {
+        "rfp_id": "RFP_07",
+        "probability": 0.02
+      },
+      {
+        "rfp_id": "RFP_08",
+        "probability": 0.98
+      },
+      {
+        "rfp_id": "RFP_09",
+        "probability": 0.96
+      },
+      {
+        "rfp_id": "RFP_10",
+        "probability": 0.06
+      }
+    ],
+    "category": "Bank Statement or Transaction Record",
+    "category_confidence": 1,
+    "category_low_confidence": false,
+    "model": "jev-1.13.0"
+  },
+  {
+    "filename": "014_board_minutes.md",
+    "status": "ok",
+    "chars": 467,
+    "responsive": true,
+    "responsive_probability": 0.98,
+    "rfps": [
+      "RFP_01",
+      "RFP_02",
+      "RFP_04",
+      "RFP_05",
+      "RFP_06"
+    ],
+    "rfp_scores": [
+      {
+        "rfp_id": "RFP_01",
+        "probability": 0.98
+      },
+      {
+        "rfp_id": "RFP_02",
+        "probability": 0.68
+      },
+      {
+        "rfp_id": "RFP_03",
+        "probability": 0.42
+      },
+      {
+        "rfp_id": "RFP_04",
+        "probability": 0.94
+      },
+      {
+        "rfp_id": "RFP_05",
+        "probability": 0.98
+      },
+      {
+        "rfp_id": "RFP_06",
+        "probability": 0.98
+      },
+      {
+        "rfp_id": "RFP_07",
+        "probability": 0.03
+      },
+      {
+        "rfp_id": "RFP_08",
+        "probability": 0.06
+      },
+      {
+        "rfp_id": "RFP_09",
+        "probability": 0.02
+      },
+      {
+        "rfp_id": "RFP_10",
+        "probability": 0.09
+      }
+    ],
+    "category": "Corporate Formation or Governance Document",
+    "category_confidence": 1,
+    "category_low_confidence": false,
+    "model": "jev-1.13.0"
+  },
+  {
+    "filename": "015_wire_confirmation.md",
+    "status": "ok",
+    "chars": 244,
+    "responsive": true,
+    "responsive_probability": 0.98,
+    "rfps": [
+      "RFP_08",
+      "RFP_09"
+    ],
+    "rfp_scores": [
+      {
+        "rfp_id": "RFP_01",
+        "probability": 0.07
+      },
+      {
+        "rfp_id": "RFP_02",
+        "probability": 0.02
+      },
+      {
+        "rfp_id": "RFP_03",
+        "probability": 0.02
+      },
+      {
+        "rfp_id": "RFP_04",
+        "probability": 0.14
+      },
+      {
+        "rfp_id": "RFP_05",
+        "probability": 0.01
+      },
+      {
+        "rfp_id": "RFP_06",
+        "probability": 0.02
+      },
+      {
+        "rfp_id": "RFP_07",
+        "probability": 0.03
+      },
+      {
+        "rfp_id": "RFP_08",
+        "probability": 0.98
+      },
+      {
+        "rfp_id": "RFP_09",
+        "probability": 0.91
+      },
+      {
+        "rfp_id": "RFP_10",
+        "probability": 0.08
+      }
+    ],
+    "category": "Bank Statement or Transaction Record",
+    "category_confidence": 1,
+    "category_low_confidence": false,
+    "model": "jev-1.13.0"
+  },
+  {
+    "filename": "016_general_ledger.md",
+    "status": "ok",
+    "chars": 365,
+    "responsive": true,
+    "responsive_probability": 0.96,
+    "rfps": [
+      "RFP_08",
+      "RFP_09"
+    ],
+    "rfp_scores": [
+      {
+        "rfp_id": "RFP_01",
+        "probability": 0.05
+      },
+      {
+        "rfp_id": "RFP_02",
+        "probability": 0.02
+      },
+      {
+        "rfp_id": "RFP_03",
+        "probability": 0.02
+      },
+      {
+        "rfp_id": "RFP_04",
+        "probability": 0.11
+      },
+      {
+        "rfp_id": "RFP_05",
+        "probability": 0.01
+      },
+      {
+        "rfp_id": "RFP_06",
+        "probability": 0.02
+      },
+      {
+        "rfp_id": "RFP_07",
+        "probability": 0.02
+      },
+      {
+        "rfp_id": "RFP_08",
+        "probability": 0.95
+      },
+      {
+        "rfp_id": "RFP_09",
+        "probability": 0.96
+      },
+      {
+        "rfp_id": "RFP_10",
+        "probability": 0.06
+      }
+    ],
+    "category": "Accounting Record or Financial Statement",
+    "category_confidence": 1,
+    "category_low_confidence": false,
+    "model": "jev-1.13.0"
+  },
+  {
+    "filename": "017_founder_agreement.md",
+    "status": "ok",
+    "chars": 515,
+    "responsive": true,
+    "responsive_probability": 0.99,
+    "rfps": [
+      "RFP_01",
+      "RFP_03",
+      "RFP_04",
+      "RFP_06"
+    ],
+    "rfp_scores": [
+      {
+        "rfp_id": "RFP_01",
+        "probability": 0.99
+      },
+      {
+        "rfp_id": "RFP_02",
+        "probability": 0.34
+      },
+      {
+        "rfp_id": "RFP_03",
+        "probability": 0.98
+      },
+      {
+        "rfp_id": "RFP_04",
+        "probability": 0.98
+      },
+      {
+        "rfp_id": "RFP_05",
+        "probability": 0.14
+      },
+      {
+        "rfp_id": "RFP_06",
+        "probability": 0.99
+      },
+      {
+        "rfp_id": "RFP_07",
+        "probability": 0.04
+      },
+      {
+        "rfp_id": "RFP_08",
+        "probability": 0.04
+      },
+      {
+        "rfp_id": "RFP_09",
+        "probability": 0.02
+      },
+      {
+        "rfp_id": "RFP_10",
+        "probability": 0.1
+      }
+    ],
+    "category": "Ownership or Equity Agreement",
+    "category_confidence": 1,
+    "category_low_confidence": false,
+    "model": "jev-1.13.0"
+  },
+  {
+    "filename": "018_subscription_agreement.md",
+    "status": "ok",
+    "chars": 330,
+    "responsive": true,
+    "responsive_probability": 0.98,
+    "rfps": [
+      "RFP_01",
+      "RFP_02",
+      "RFP_04",
+      "RFP_06"
+    ],
+    "rfp_scores": [
+      {
+        "rfp_id": "RFP_01",
+        "probability": 0.98
+      },
+      {
+        "rfp_id": "RFP_02",
+        "probability": 0.98
+      },
+      {
+        "rfp_id": "RFP_03",
+        "probability": 0.36
+      },
+      {
+        "rfp_id": "RFP_04",
+        "probability": 0.97
+      },
+      {
+        "rfp_id": "RFP_05",
+        "probability": 0.08
+      },
+      {
+        "rfp_id": "RFP_06",
+        "probability": 0.96
+      },
+      {
+        "rfp_id": "RFP_07",
+        "probability": 0.06
+      },
+      {
+        "rfp_id": "RFP_08",
+        "probability": 0.04
+      },
+      {
+        "rfp_id": "RFP_09",
+        "probability": 0.03
+      },
+      {
+        "rfp_id": "RFP_10",
+        "probability": 0.1
+      }
+    ],
+    "category": "Ownership or Equity Agreement",
+    "category_confidence": 1,
+    "category_low_confidence": false,
+    "model": "jev-1.13.0"
+  },
+  {
+    "filename": "019_cap_table.md",
+    "status": "ok",
+    "chars": 225,
+    "responsive": true,
+    "responsive_probability": 0.98,
+    "rfps": [
+      "RFP_01",
+      "RFP_02",
+      "RFP_06"
+    ],
+    "rfp_scores": [
+      {
+        "rfp_id": "RFP_01",
+        "probability": 0.98
+      },
+      {
+        "rfp_id": "RFP_02",
+        "probability": 0.98
+      },
+      {
+        "rfp_id": "RFP_03",
+        "probability": 0.46
+      },
+      {
+        "rfp_id": "RFP_04",
+        "probability": 0.11
+      },
+      {
+        "rfp_id": "RFP_05",
+        "probability": 0.05
+      },
+      {
+        "rfp_id": "RFP_06",
+        "probability": 0.98
+      },
+      {
+        "rfp_id": "RFP_07",
+        "probability": 0.06
+      },
+      {
+        "rfp_id": "RFP_08",
+        "probability": 0.03
+      },
+      {
+        "rfp_id": "RFP_09",
+        "probability": 0.04
+      },
+      {
+        "rfp_id": "RFP_10",
+        "probability": 0.08
+      }
+    ],
+    "category": "Stock Certificate, Ledger or Cap Table",
+    "category_confidence": 1,
+    "category_low_confidence": false,
+    "model": "jev-1.13.0"
+  },
+  {
+    "filename": "020_bylaws.md",
+    "status": "ok",
+    "chars": 319,
+    "responsive": true,
+    "responsive_probability": 0.98,
+    "rfps": [
+      "RFP_05"
+    ],
+    "rfp_scores": [
+      {
+        "rfp_id": "RFP_01",
+        "probability": 0.2
+      },
+      {
+        "rfp_id": "RFP_02",
+        "probability": 0.03
+      },
+      {
+        "rfp_id": "RFP_03",
+        "probability": 0.04
+      },
+      {
+        "rfp_id": "RFP_04",
+        "probability": 0.05
+      },
+      {
+        "rfp_id": "RFP_05",
+        "probability": 0.98
+      },
+      {
+        "rfp_id": "RFP_06",
+        "probability": 0.04
+      },
+      {
+        "rfp_id": "RFP_07",
+        "probability": 0.02
+      },
+      {
+        "rfp_id": "RFP_08",
+        "probability": 0.03
+      },
+      {
+        "rfp_id": "RFP_09",
+        "probability": 0.02
+      },
+      {
+        "rfp_id": "RFP_10",
+        "probability": 0.06
+      }
+    ],
+    "category": "Corporate Formation or Governance Document",
+    "category_confidence": 1,
+    "category_low_confidence": false,
+    "model": "jev-1.13.0"
+  },
+  {
+    "filename": "021_stock_ledger.md",
+    "status": "ok",
+    "chars": 377,
+    "responsive": true,
+    "responsive_probability": 0.99,
+    "rfps": [
+      "RFP_01",
+      "RFP_02",
+      "RFP_04",
+      "RFP_06"
+    ],
+    "rfp_scores": [
+      {
+        "rfp_id": "RFP_01",
+        "probability": 0.98
+      },
+      {
+        "rfp_id": "RFP_02",
+        "probability": 0.99
+      },
+      {
+        "rfp_id": "RFP_03",
+        "probability": 0.28
+      },
+      {
+        "rfp_id": "RFP_04",
+        "probability": 0.97
+      },
+      {
+        "rfp_id": "RFP_05",
+        "probability": 0.07
+      },
+      {
+        "rfp_id": "RFP_06",
+        "probability": 0.98
+      },
+      {
+        "rfp_id": "RFP_07",
+        "probability": 0.04
+      },
+      {
+        "rfp_id": "RFP_08",
+        "probability": 0.08
+      },
+      {
+        "rfp_id": "RFP_09",
+        "probability": 0.06
+      },
+      {
+        "rfp_id": "RFP_10",
+        "probability": 0.11
+      }
+    ],
+    "category": "Stock Certificate, Ledger or Cap Table",
+    "category_confidence": 1,
+    "category_low_confidence": false,
+    "model": "jev-1.13.0"
+  },
+  {
+    "filename": "022_articles_of_incorporation.md",
+    "status": "ok",
+    "chars": 382,
+    "responsive": true,
+    "responsive_probability": 0.99,
+    "rfps": [
+      "RFP_01",
+      "RFP_05",
+      "RFP_06"
+    ],
+    "rfp_scores": [
+      {
+        "rfp_id": "RFP_01",
+        "probability": 0.92
+      },
+      {
+        "rfp_id": "RFP_02",
+        "probability": 0.06
+      },
+      {
+        "rfp_id": "RFP_03",
+        "probability": 0.06
+      },
+      {
+        "rfp_id": "RFP_04",
+        "probability": 0.07
+      },
+      {
+        "rfp_id": "RFP_05",
+        "probability": 0.99
+      },
+      {
+        "rfp_id": "RFP_06",
+        "probability": 0.9
+      },
+      {
+        "rfp_id": "RFP_07",
+        "probability": 0.05
+      },
+      {
+        "rfp_id": "RFP_08",
+        "probability": 0.03
+      },
+      {
+        "rfp_id": "RFP_09",
+        "probability": 0.02
+      },
+      {
+        "rfp_id": "RFP_10",
+        "probability": 0.09
+      }
+    ],
+    "category": "Corporate Formation or Governance Document",
+    "category_confidence": 1,
+    "category_low_confidence": false,
+    "model": "jev-1.13.0"
+  },
+  {
+    "filename": "023_bank_statement_transfers.md",
+    "status": "ok",
+    "chars": 498,
+    "responsive": true,
+    "responsive_probability": 0.98,
+    "rfps": [
+      "RFP_08",
+      "RFP_09"
+    ],
+    "rfp_scores": [
+      {
+        "rfp_id": "RFP_01",
+        "probability": 0.06
+      },
+      {
+        "rfp_id": "RFP_02",
+        "probability": 0.02
+      },
+      {
+        "rfp_id": "RFP_03",
+        "probability": 0.02
+      },
+      {
+        "rfp_id": "RFP_04",
+        "probability": 0.09
+      },
+      {
+        "rfp_id": "RFP_05",
+        "probability": 0.01
+      },
+      {
+        "rfp_id": "RFP_06",
+        "probability": 0.02
+      },
+      {
+        "rfp_id": "RFP_07",
+        "probability": 0.02
+      },
+      {
+        "rfp_id": "RFP_08",
+        "probability": 0.98
+      },
+      {
+        "rfp_id": "RFP_09",
+        "probability": 0.96
+      },
+      {
+        "rfp_id": "RFP_10",
+        "probability": 0.07
+      }
+    ],
+    "category": "Bank Statement or Transaction Record",
+    "category_confidence": 1,
+    "category_low_confidence": false,
+    "model": "jev-1.13.0"
+  },
+  {
+    "filename": "024_board_minutes.md",
+    "status": "ok",
+    "chars": 467,
+    "responsive": true,
+    "responsive_probability": 0.98,
+    "rfps": [
+      "RFP_01",
+      "RFP_02",
+      "RFP_04",
+      "RFP_05",
+      "RFP_06"
+    ],
+    "rfp_scores": [
+      {
+        "rfp_id": "RFP_01",
+        "probability": 0.98
+      },
+      {
+        "rfp_id": "RFP_02",
+        "probability": 0.66
+      },
+      {
+        "rfp_id": "RFP_03",
+        "probability": 0.45
+      },
+      {
+        "rfp_id": "RFP_04",
+        "probability": 0.94
+      },
+      {
+        "rfp_id": "RFP_05",
+        "probability": 0.98
+      },
+      {
+        "rfp_id": "RFP_06",
+        "probability": 0.98
+      },
+      {
+        "rfp_id": "RFP_07",
+        "probability": 0.03
+      },
+      {
+        "rfp_id": "RFP_08",
+        "probability": 0.06
+      },
+      {
+        "rfp_id": "RFP_09",
+        "probability": 0.02
+      },
+      {
+        "rfp_id": "RFP_10",
+        "probability": 0.09
+      }
+    ],
+    "category": "Corporate Formation or Governance Document",
+    "category_confidence": 1,
+    "category_low_confidence": false,
+    "model": "jev-1.13.0"
+  },
+  {
+    "filename": "025_wire_confirmation.md",
+    "status": "ok",
+    "chars": 244,
+    "responsive": true,
+    "responsive_probability": 0.98,
+    "rfps": [
+      "RFP_08",
+      "RFP_09"
+    ],
+    "rfp_scores": [
+      {
+        "rfp_id": "RFP_01",
+        "probability": 0.07
+      },
+      {
+        "rfp_id": "RFP_02",
+        "probability": 0.02
+      },
+      {
+        "rfp_id": "RFP_03",
+        "probability": 0.02
+      },
+      {
+        "rfp_id": "RFP_04",
+        "probability": 0.11
+      },
+      {
+        "rfp_id": "RFP_05",
+        "probability": 0.01
+      },
+      {
+        "rfp_id": "RFP_06",
+        "probability": 0.02
+      },
+      {
+        "rfp_id": "RFP_07",
+        "probability": 0.03
+      },
+      {
+        "rfp_id": "RFP_08",
+        "probability": 0.98
+      },
+      {
+        "rfp_id": "RFP_09",
+        "probability": 0.93
+      },
+      {
+        "rfp_id": "RFP_10",
+        "probability": 0.08
+      }
+    ],
+    "category": "Bank Statement or Transaction Record",
+    "category_confidence": 1,
+    "category_low_confidence": false,
+    "model": "jev-1.13.0"
+  },
+  {
+    "filename": "026_general_ledger.md",
+    "status": "ok",
+    "chars": 365,
+    "responsive": true,
+    "responsive_probability": 0.96,
+    "rfps": [
+      "RFP_08",
+      "RFP_09"
+    ],
+    "rfp_scores": [
+      {
+        "rfp_id": "RFP_01",
+        "probability": 0.05
+      },
+      {
+        "rfp_id": "RFP_02",
+        "probability": 0.02
+      },
+      {
+        "rfp_id": "RFP_03",
+        "probability": 0.02
+      },
+      {
+        "rfp_id": "RFP_04",
+        "probability": 0.1
+      },
+      {
+        "rfp_id": "RFP_05",
+        "probability": 0.02
+      },
+      {
+        "rfp_id": "RFP_06",
+        "probability": 0.02
+      },
+      {
+        "rfp_id": "RFP_07",
+        "probability": 0.02
+      },
+      {
+        "rfp_id": "RFP_08",
+        "probability": 0.94
+      },
+      {
+        "rfp_id": "RFP_09",
+        "probability": 0.96
+      },
+      {
+        "rfp_id": "RFP_10",
+        "probability": 0.06
+      }
+    ],
+    "category": "Accounting Record or Financial Statement",
+    "category_confidence": 1,
+    "category_low_confidence": false,
+    "model": "jev-1.13.0"
+  },
+  {
+    "filename": "027_founder_agreement.md",
+    "status": "ok",
+    "chars": 515,
+    "responsive": true,
+    "responsive_probability": 0.99,
+    "rfps": [
+      "RFP_01",
+      "RFP_03",
+      "RFP_04",
+      "RFP_06"
+    ],
+    "rfp_scores": [
+      {
+        "rfp_id": "RFP_01",
+        "probability": 0.99
+      },
+      {
+        "rfp_id": "RFP_02",
+        "probability": 0.33
+      },
+      {
+        "rfp_id": "RFP_03",
+        "probability": 0.98
+      },
+      {
+        "rfp_id": "RFP_04",
+        "probability": 0.98
+      },
+      {
+        "rfp_id": "RFP_05",
+        "probability": 0.15
+      },
+      {
+        "rfp_id": "RFP_06",
+        "probability": 0.99
+      },
+      {
+        "rfp_id": "RFP_07",
+        "probability": 0.04
+      },
+      {
+        "rfp_id": "RFP_08",
+        "probability": 0.04
+      },
+      {
+        "rfp_id": "RFP_09",
+        "probability": 0.02
+      },
+      {
+        "rfp_id": "RFP_10",
+        "probability": 0.09
+      }
+    ],
+    "category": "Ownership or Equity Agreement",
+    "category_confidence": 1,
+    "category_low_confidence": false,
+    "model": "jev-1.13.0"
+  },
+  {
+    "filename": "028_subscription_agreement.md",
+    "status": "ok",
+    "chars": 330,
+    "responsive": true,
+    "responsive_probability": 0.98,
+    "rfps": [
+      "RFP_01",
+      "RFP_02",
+      "RFP_04",
+      "RFP_06"
+    ],
+    "rfp_scores": [
+      {
+        "rfp_id": "RFP_01",
+        "probability": 0.98
+      },
+      {
+        "rfp_id": "RFP_02",
+        "probability": 0.98
+      },
+      {
+        "rfp_id": "RFP_03",
+        "probability": 0.36
+      },
+      {
+        "rfp_id": "RFP_04",
+        "probability": 0.97
+      },
+      {
+        "rfp_id": "RFP_05",
+        "probability": 0.08
+      },
+      {
+        "rfp_id": "RFP_06",
+        "probability": 0.95
+      },
+      {
+        "rfp_id": "RFP_07",
+        "probability": 0.06
+      },
+      {
+        "rfp_id": "RFP_08",
+        "probability": 0.03
+      },
+      {
+        "rfp_id": "RFP_09",
+        "probability": 0.03
+      },
+      {
+        "rfp_id": "RFP_10",
+        "probability": 0.11
+      }
+    ],
+    "category": "Ownership or Equity Agreement",
+    "category_confidence": 1,
+    "category_low_confidence": false,
+    "model": "jev-1.13.0"
+  },
+  {
+    "filename": "029_cap_table.md",
+    "status": "ok",
+    "chars": 225,
+    "responsive": true,
+    "responsive_probability": 0.98,
+    "rfps": [
+      "RFP_01",
+      "RFP_02",
+      "RFP_06"
+    ],
+    "rfp_scores": [
+      {
+        "rfp_id": "RFP_01",
+        "probability": 0.98
+      },
+      {
+        "rfp_id": "RFP_02",
+        "probability": 0.98
+      },
+      {
+        "rfp_id": "RFP_03",
+        "probability": 0.48
+      },
+      {
+        "rfp_id": "RFP_04",
+        "probability": 0.13
+      },
+      {
+        "rfp_id": "RFP_05",
+        "probability": 0.06
+      },
+      {
+        "rfp_id": "RFP_06",
+        "probability": 0.98
+      },
+      {
+        "rfp_id": "RFP_07",
+        "probability": 0.06
+      },
+      {
+        "rfp_id": "RFP_08",
+        "probability": 0.04
+      },
+      {
+        "rfp_id": "RFP_09",
+        "probability": 0.04
+      },
+      {
+        "rfp_id": "RFP_10",
+        "probability": 0.09
+      }
+    ],
+    "category": "Stock Certificate, Ledger or Cap Table",
+    "category_confidence": 1,
+    "category_low_confidence": false,
+    "model": "jev-1.13.0"
+  },
+  {
+    "filename": "030_bylaws.md",
+    "status": "ok",
+    "chars": 317,
+    "responsive": true,
+    "responsive_probability": 0.98,
+    "rfps": [
+      "RFP_05"
+    ],
+    "rfp_scores": [
+      {
+        "rfp_id": "RFP_01",
+        "probability": 0.19
+      },
+      {
+        "rfp_id": "RFP_02",
+        "probability": 0.03
+      },
+      {
+        "rfp_id": "RFP_03",
+        "probability": 0.04
+      },
+      {
+        "rfp_id": "RFP_04",
+        "probability": 0.05
+      },
+      {
+        "rfp_id": "RFP_05",
+        "probability": 0.98
+      },
+      {
+        "rfp_id": "RFP_06",
+        "probability": 0.04
+      },
+      {
+        "rfp_id": "RFP_07",
+        "probability": 0.03
+      },
+      {
+        "rfp_id": "RFP_08",
+        "probability": 0.03
+      },
+      {
+        "rfp_id": "RFP_09",
+        "probability": 0.02
+      },
+      {
+        "rfp_id": "RFP_10",
+        "probability": 0.06
+      }
+    ],
+    "category": "Corporate Formation or Governance Document",
+    "category_confidence": 1,
+    "category_low_confidence": false,
+    "model": "jev-1.13.0"
+  },
+  {
+    "filename": "031_email_ownership_split.md",
+    "status": "ok",
+    "chars": 287,
+    "responsive": true,
+    "responsive_probability": 0.97,
+    "rfps": [
+      "RFP_01",
+      "RFP_03",
+      "RFP_04",
+      "RFP_06",
+      "RFP_10"
+    ],
+    "rfp_scores": [
+      {
+        "rfp_id": "RFP_01",
+        "probability": 0.95
+      },
+      {
+        "rfp_id": "RFP_02",
+        "probability": 0.09
+      },
+      {
+        "rfp_id": "RFP_03",
+        "probability": 0.97
+      },
+      {
+        "rfp_id": "RFP_04",
+        "probability": 0.95
+      },
+      {
+        "rfp_id": "RFP_05",
+        "probability": 0.02
+      },
+      {
+        "rfp_id": "RFP_06",
+        "probability": 0.92
+      },
+      {
+        "rfp_id": "RFP_07",
+        "probability": 0.03
+      },
+      {
+        "rfp_id": "RFP_08",
+        "probability": 0.09
+      },
+      {
+        "rfp_id": "RFP_09",
+        "probability": 0.03
+      },
+      {
+        "rfp_id": "RFP_10",
+        "probability": 0.6
+      }
+    ],
+    "category": "Email or Message",
+    "category_confidence": 0.99,
+    "category_low_confidence": false,
+    "model": "jev-1.13.0"
+  },
+  {
+    "filename": "032_email_blake_to_investor.md",
+    "status": "ok",
+    "chars": 259,
+    "responsive": true,
+    "responsive_probability": 0.98,
+    "rfps": [
+      "RFP_01",
+      "RFP_03",
+      "RFP_07"
+    ],
+    "rfp_scores": [
+      {
+        "rfp_id": "RFP_01",
+        "probability": 0.98
+      },
+      {
+        "rfp_id": "RFP_02",
+        "probability": 0.11
+      },
+      {
+        "rfp_id": "RFP_03",
+        "probability": 0.57
+      },
+      {
+        "rfp_id": "RFP_04",
+        "probability": 0.11
+      },
+      {
+        "rfp_id": "RFP_05",
+        "probability": 0.03
+      },
+      {
+        "rfp_id": "RFP_06",
+        "probability": 0.02
+      },
+      {
+        "rfp_id": "RFP_07",
+        "probability": 0.97
+      },
+      {
+        "rfp_id": "RFP_08",
+        "probability": 0.06
+      },
+      {
+        "rfp_id": "RFP_09",
+        "probability": 0.02
+      },
+      {
+        "rfp_id": "RFP_10",
+        "probability": 0.21
+      }
+    ],
+    "category": "Email or Message",
+    "category_confidence": 1,
+    "category_low_confidence": false,
+    "model": "jev-1.13.0"
+  },
+  {
+    "filename": "033_email_seed_contribution.md",
+    "status": "ok",
+    "chars": 253,
+    "responsive": true,
+    "responsive_probability": 0.97,
+    "rfps": [
+      "RFP_01",
+      "RFP_04",
+      "RFP_06"
+    ],
+    "rfp_scores": [
+      {
+        "rfp_id": "RFP_01",
+        "probability": 0.88
+      },
+      {
+        "rfp_id": "RFP_02",
+        "probability": 0.07
+      },
+      {
+        "rfp_id": "RFP_03",
+        "probability": 0.14
+      },
+      {
+        "rfp_id": "RFP_04",
+        "probability": 0.97
+      },
+      {
+        "rfp_id": "RFP_05",
+        "probability": 0.02
+      },
+      {
+        "rfp_id": "RFP_06",
+        "probability": 0.92
+      },
+      {
+        "rfp_id": "RFP_07",
+        "probability": 0.02
+      },
+      {
+        "rfp_id": "RFP_08",
+        "probability": 0.02
+      },
+      {
+        "rfp_id": "RFP_09",
+        "probability": 0.09
+      },
+      {
+        "rfp_id": "RFP_10",
+        "probability": 0.13
+      }
+    ],
+    "category": "Email or Message",
+    "category_confidence": 1,
+    "category_low_confidence": false,
+    "model": "jev-1.13.0"
+  },
+  {
+    "filename": "034_email_dispute.md",
+    "status": "ok",
+    "chars": 268,
+    "responsive": true,
+    "responsive_probability": 0.98,
+    "rfps": [
+      "RFP_01",
+      "RFP_03",
+      "RFP_06",
+      "RFP_10"
+    ],
+    "rfp_scores": [
+      {
+        "rfp_id": "RFP_01",
+        "probability": 0.96
+      },
+      {
+        "rfp_id": "RFP_02",
+        "probability": 0.1
+      },
+      {
+        "rfp_id": "RFP_03",
+        "probability": 0.73
+      },
+      {
+        "rfp_id": "RFP_04",
+        "probability": 0.12
+      },
+      {
+        "rfp_id": "RFP_05",
+        "probability": 0.02
+      },
+      {
+        "rfp_id": "RFP_06",
+        "probability": 0.9
+      },
+      {
+        "rfp_id": "RFP_07",
+        "probability": 0.23
+      },
+      {
+        "rfp_id": "RFP_08",
+        "probability": 0.13
+      },
+      {
+        "rfp_id": "RFP_09",
+        "probability": 0.02
+      },
+      {
+        "rfp_id": "RFP_10",
+        "probability": 0.98
+      }
+    ],
+    "category": "Email or Message",
+    "category_confidence": 1,
+    "category_low_confidence": false,
+    "model": "jev-1.13.0"
+  },
+  {
+    "filename": "035_dilution_notice.md",
+    "status": "ok",
+    "chars": 337,
+    "responsive": true,
+    "responsive_probability": 0.97,
+    "rfps": [
+      "RFP_01",
+      "RFP_02",
+      "RFP_05",
+      "RFP_06",
+      "RFP_08",
+      "RFP_10"
+    ],
+    "rfp_scores": [
+      {
+        "rfp_id": "RFP_01",
+        "probability": 0.97
+      },
+      {
+        "rfp_id": "RFP_02",
+        "probability": 0.88
+      },
+      {
+        "rfp_id": "RFP_03",
+        "probability": 0.27
+      },
+      {
+        "rfp_id": "RFP_04",
+        "probability": 0.3
+      },
+      {
+        "rfp_id": "RFP_05",
+        "probability": 0.96
+      },
+      {
+        "rfp_id": "RFP_06",
+        "probability": 0.86
+      },
+      {
+        "rfp_id": "RFP_07",
+        "probability": 0.08
+      },
+      {
+        "rfp_id": "RFP_08",
+        "probability": 0.77
+      },
+      {
+        "rfp_id": "RFP_09",
+        "probability": 0.02
+      },
+      {
+        "rfp_id": "RFP_10",
+        "probability": 0.97
+      }
+    ],
+    "category": "Corporate Formation or Governance Document",
+    "category_confidence": 1,
+    "category_low_confidence": false,
+    "model": "jev-1.13.0"
+  },
+  {
+    "filename": "036_text_messages_percentages.md",
+    "status": "ok",
+    "chars": 189,
+    "responsive": true,
+    "responsive_probability": 0.97,
+    "rfps": [
+      "RFP_01",
+      "RFP_03",
+      "RFP_06"
+    ],
+    "rfp_scores": [
+      {
+        "rfp_id": "RFP_01",
+        "probability": 0.94
+      },
+      {
+        "rfp_id": "RFP_02",
+        "probability": 0.05
+      },
+      {
+        "rfp_id": "RFP_03",
+        "probability": 0.97
+      },
+      {
+        "rfp_id": "RFP_04",
+        "probability": 0.15
+      },
+      {
+        "rfp_id": "RFP_05",
+        "probability": 0.02
+      },
+      {
+        "rfp_id": "RFP_06",
+        "probability": 0.88
+      },
+      {
+        "rfp_id": "RFP_07",
+        "probability": 0.06
+      },
+      {
+        "rfp_id": "RFP_08",
+        "probability": 0.04
+      },
+      {
+        "rfp_id": "RFP_09",
+        "probability": 0.02
+      },
+      {
+        "rfp_id": "RFP_10",
+        "probability": 0.17
+      }
+    ],
+    "category": "Email or Message",
+    "category_confidence": 1,
+    "category_low_confidence": false,
+    "model": "jev-1.13.0"
+  },
+  {
+    "filename": "037_bank_loan_application.md",
+    "status": "ok",
+    "chars": 191,
+    "responsive": true,
+    "responsive_probability": 0.97,
+    "rfps": [
+      "RFP_01",
+      "RFP_07"
+    ],
+    "rfp_scores": [
+      {
+        "rfp_id": "RFP_01",
+        "probability": 0.97
+      },
+      {
+        "rfp_id": "RFP_02",
+        "probability": 0.33
+      },
+      {
+        "rfp_id": "RFP_03",
+        "probability": 0.3
+      },
+      {
+        "rfp_id": "RFP_04",
+        "probability": 0.11
+      },
+      {
+        "rfp_id": "RFP_05",
+        "probability": 0.04
+      },
+      {
+        "rfp_id": "RFP_06",
+        "probability": 0.02
+      },
+      {
+        "rfp_id": "RFP_07",
+        "probability": 0.89
+      },
+      {
+        "rfp_id": "RFP_08",
+        "probability": 0.06
+      },
+      {
+        "rfp_id": "RFP_09",
+        "probability": 0.03
+      },
+      {
+        "rfp_id": "RFP_10",
+        "probability": 0.12
+      }
+    ],
+    "category": "Other Business Document",
+    "category_confidence": 0.93,
+    "category_low_confidence": false,
+    "model": "jev-1.13.0"
+  },
+  {
+    "filename": "038_email_expense_questions.md",
+    "status": "ok",
+    "chars": 262,
+    "responsive": true,
+    "responsive_probability": 0.95,
+    "rfps": [
+      "RFP_08",
+      "RFP_09"
+    ],
+    "rfp_scores": [
+      {
+        "rfp_id": "RFP_01",
+        "probability": 0.06
+      },
+      {
+        "rfp_id": "RFP_02",
+        "probability": 0.02
+      },
+      {
+        "rfp_id": "RFP_03",
+        "probability": 0.03
+      },
+      {
+        "rfp_id": "RFP_04",
+        "probability": 0.13
+      },
+      {
+        "rfp_id": "RFP_05",
+        "probability": 0.01
+      },
+      {
+        "rfp_id": "RFP_06",
+        "probability": 0.02
+      },
+      {
+        "rfp_id": "RFP_07",
+        "probability": 0.02
+      },
+      {
+        "rfp_id": "RFP_08",
+        "probability": 0.95
+      },
+      {
+        "rfp_id": "RFP_09",
+        "probability": 0.55
+      },
+      {
+        "rfp_id": "RFP_10",
+        "probability": 0.09
+      }
+    ],
+    "category": "Email or Message",
+    "category_confidence": 1,
+    "category_low_confidence": false,
+    "model": "jev-1.13.0"
+  },
+  {
+    "filename": "039_linkedin_cofounder.md",
+    "status": "ok",
+    "chars": 153,
+    "responsive": true,
+    "responsive_probability": 0.96,
+    "rfps": [
+      "RFP_01",
+      "RFP_06"
+    ],
+    "rfp_scores": [
+      {
+        "rfp_id": "RFP_01",
+        "probability": 0.86
+      },
+      {
+        "rfp_id": "RFP_02",
+        "probability": 0.02
+      },
+      {
+        "rfp_id": "RFP_03",
+        "probability": 0.04
+      },
+      {
+        "rfp_id": "RFP_04",
+        "probability": 0.45
+      },
+      {
+        "rfp_id": "RFP_05",
+        "probability": 0.02
+      },
+      {
+        "rfp_id": "RFP_06",
+        "probability": 0.96
+      },
+      {
+        "rfp_id": "RFP_07",
+        "probability": 0.06
+      },
+      {
+        "rfp_id": "RFP_08",
+        "probability": 0.02
+      },
+      {
+        "rfp_id": "RFP_09",
+        "probability": 0.01
+      },
+      {
+        "rfp_id": "RFP_10",
+        "probability": 0.06
+      }
+    ],
+    "category": "Marketing, Newsletter or Spam",
+    "category_confidence": 0.9,
+    "category_low_confidence": false,
+    "model": "jev-1.13.0"
+  },
+  {
+    "filename": "040_demand_letter.md",
+    "status": "ok",
+    "chars": 281,
+    "responsive": true,
+    "responsive_probability": 0.98,
+    "rfps": [
+      "RFP_01",
+      "RFP_06",
+      "RFP_10"
+    ],
+    "rfp_scores": [
+      {
+        "rfp_id": "RFP_01",
+        "probability": 0.94
+      },
+      {
+        "rfp_id": "RFP_02",
+        "probability": 0.03
+      },
+      {
+        "rfp_id": "RFP_03",
+        "probability": 0.33
+      },
+      {
+        "rfp_id": "RFP_04",
+        "probability": 0.12
+      },
+      {
+        "rfp_id": "RFP_05",
+        "probability": 0.02
+      },
+      {
+        "rfp_id": "RFP_06",
+        "probability": 0.98
+      },
+      {
+        "rfp_id": "RFP_07",
+        "probability": 0.03
+      },
+      {
+        "rfp_id": "RFP_08",
+        "probability": 0.31
+      },
+      {
+        "rfp_id": "RFP_09",
+        "probability": 0.02
+      },
+      {
+        "rfp_id": "RFP_10",
+        "probability": 0.95
+      }
+    ],
+    "category": "Other Business Document",
+    "category_confidence": 0.79,
+    "category_low_confidence": false,
+    "model": "jev-1.13.0"
+  },
+  {
+    "filename": "041_email_ownership_split.md",
+    "status": "ok",
+    "chars": 287,
+    "responsive": true,
+    "responsive_probability": 0.98,
+    "rfps": [
+      "RFP_01",
+      "RFP_03",
+      "RFP_04",
+      "RFP_06",
+      "RFP_10"
+    ],
+    "rfp_scores": [
+      {
+        "rfp_id": "RFP_01",
+        "probability": 0.95
+      },
+      {
+        "rfp_id": "RFP_02",
+        "probability": 0.1
+      },
+      {
+        "rfp_id": "RFP_03",
+        "probability": 0.98
+      },
+      {
+        "rfp_id": "RFP_04",
+        "probability": 0.95
+      },
+      {
+        "rfp_id": "RFP_05",
+        "probability": 0.02
+      },
+      {
+        "rfp_id": "RFP_06",
+        "probability": 0.92
+      },
+      {
+        "rfp_id": "RFP_07",
+        "probability": 0.03
+      },
+      {
+        "rfp_id": "RFP_08",
+        "probability": 0.1
+      },
+      {
+        "rfp_id": "RFP_09",
+        "probability": 0.03
+      },
+      {
+        "rfp_id": "RFP_10",
+        "probability": 0.6
+      }
+    ],
+    "category": "Email or Message",
+    "category_confidence": 0.98,
+    "category_low_confidence": false,
+    "model": "jev-1.13.0"
+  },
+  {
+    "filename": "042_email_blake_to_investor.md",
+    "status": "ok",
+    "chars": 254,
+    "responsive": true,
+    "responsive_probability": 0.97,
+    "rfps": [
+      "RFP_01",
+      "RFP_03",
+      "RFP_07"
+    ],
+    "rfp_scores": [
+      {
+        "rfp_id": "RFP_01",
+        "probability": 0.97
+      },
+      {
+        "rfp_id": "RFP_02",
+        "probability": 0.12
+      },
+      {
+        "rfp_id": "RFP_03",
+        "probability": 0.6
+      },
+      {
+        "rfp_id": "RFP_04",
+        "probability": 0.11
+      },
+      {
+        "rfp_id": "RFP_05",
+        "probability": 0.03
+      },
+      {
+        "rfp_id": "RFP_06",
+        "probability": 0.02
+      },
+      {
+        "rfp_id": "RFP_07",
+        "probability": 0.97
+      },
+      {
+        "rfp_id": "RFP_08",
+        "probability": 0.05
+      },
+      {
+        "rfp_id": "RFP_09",
+        "probability": 0.02
+      },
+      {
+        "rfp_id": "RFP_10",
+        "probability": 0.21
+      }
+    ],
+    "category": "Email or Message",
+    "category_confidence": 1,
+    "category_low_confidence": false,
+    "model": "jev-1.13.0"
+  },
+  {
+    "filename": "043_email_seed_contribution.md",
+    "status": "ok",
+    "chars": 253,
+    "responsive": true,
+    "responsive_probability": 0.97,
+    "rfps": [
+      "RFP_01",
+      "RFP_04",
+      "RFP_06"
+    ],
+    "rfp_scores": [
+      {
+        "rfp_id": "RFP_01",
+        "probability": 0.89
+      },
+      {
+        "rfp_id": "RFP_02",
+        "probability": 0.07
+      },
+      {
+        "rfp_id": "RFP_03",
+        "probability": 0.14
+      },
+      {
+        "rfp_id": "RFP_04",
+        "probability": 0.97
+      },
+      {
+        "rfp_id": "RFP_05",
+        "probability": 0.02
+      },
+      {
+        "rfp_id": "RFP_06",
+        "probability": 0.92
+      },
+      {
+        "rfp_id": "RFP_07",
+        "probability": 0.02
+      },
+      {
+        "rfp_id": "RFP_08",
+        "probability": 0.03
+      },
+      {
+        "rfp_id": "RFP_09",
+        "probability": 0.09
+      },
+      {
+        "rfp_id": "RFP_10",
+        "probability": 0.12
+      }
+    ],
+    "category": "Email or Message",
+    "category_confidence": 1,
+    "category_low_confidence": false,
+    "model": "jev-1.13.0"
+  },
+  {
+    "filename": "044_email_dispute.md",
+    "status": "ok",
+    "chars": 268,
+    "responsive": true,
+    "responsive_probability": 0.98,
+    "rfps": [
+      "RFP_01",
+      "RFP_03",
+      "RFP_06",
+      "RFP_10"
+    ],
+    "rfp_scores": [
+      {
+        "rfp_id": "RFP_01",
+        "probability": 0.96
+      },
+      {
+        "rfp_id": "RFP_02",
+        "probability": 0.1
+      },
+      {
+        "rfp_id": "RFP_03",
+        "probability": 0.75
+      },
+      {
+        "rfp_id": "RFP_04",
+        "probability": 0.12
+      },
+      {
+        "rfp_id": "RFP_05",
+        "probability": 0.02
+      },
+      {
+        "rfp_id": "RFP_06",
+        "probability": 0.9
+      },
+      {
+        "rfp_id": "RFP_07",
+        "probability": 0.23
+      },
+      {
+        "rfp_id": "RFP_08",
+        "probability": 0.12
+      },
+      {
+        "rfp_id": "RFP_09",
+        "probability": 0.01
+      },
+      {
+        "rfp_id": "RFP_10",
+        "probability": 0.98
+      }
+    ],
+    "category": "Email or Message",
+    "category_confidence": 1,
+    "category_low_confidence": false,
+    "model": "jev-1.13.0"
+  },
+  {
+    "filename": "045_dilution_notice.md",
+    "status": "ok",
+    "chars": 337,
+    "responsive": true,
+    "responsive_probability": 0.97,
+    "rfps": [
+      "RFP_01",
+      "RFP_02",
+      "RFP_05",
+      "RFP_06",
+      "RFP_08",
+      "RFP_10"
+    ],
+    "rfp_scores": [
+      {
+        "rfp_id": "RFP_01",
+        "probability": 0.97
+      },
+      {
+        "rfp_id": "RFP_02",
+        "probability": 0.89
+      },
+      {
+        "rfp_id": "RFP_03",
+        "probability": 0.26
+      },
+      {
+        "rfp_id": "RFP_04",
+        "probability": 0.3
+      },
+      {
+        "rfp_id": "RFP_05",
+        "probability": 0.97
+      },
+      {
+        "rfp_id": "RFP_06",
+        "probability": 0.85
+      },
+      {
+        "rfp_id": "RFP_07",
+        "probability": 0.08
+      },
+      {
+        "rfp_id": "RFP_08",
+        "probability": 0.73
+      },
+      {
+        "rfp_id": "RFP_09",
+        "probability": 0.02
+      },
+      {
+        "rfp_id": "RFP_10",
+        "probability": 0.97
+      }
+    ],
+    "category": "Corporate Formation or Governance Document",
+    "category_confidence": 1,
+    "category_low_confidence": false,
+    "model": "jev-1.13.0"
+  },
+  {
+    "filename": "046_text_messages_percentages.md",
+    "status": "ok",
+    "chars": 189,
+    "responsive": true,
+    "responsive_probability": 0.97,
+    "rfps": [
+      "RFP_01",
+      "RFP_03",
+      "RFP_06"
+    ],
+    "rfp_scores": [
+      {
+        "rfp_id": "RFP_01",
+        "probability": 0.95
+      },
+      {
+        "rfp_id": "RFP_02",
+        "probability": 0.05
+      },
+      {
+        "rfp_id": "RFP_03",
+        "probability": 0.97
+      },
+      {
+        "rfp_id": "RFP_04",
+        "probability": 0.14
+      },
+      {
+        "rfp_id": "RFP_05",
+        "probability": 0.02
+      },
+      {
+        "rfp_id": "RFP_06",
+        "probability": 0.88
+      },
+      {
+        "rfp_id": "RFP_07",
+        "probability": 0.06
+      },
+      {
+        "rfp_id": "RFP_08",
+        "probability": 0.04
+      },
+      {
+        "rfp_id": "RFP_09",
+        "probability": 0.02
+      },
+      {
+        "rfp_id": "RFP_10",
+        "probability": 0.17
+      }
+    ],
+    "category": "Email or Message",
+    "category_confidence": 1,
+    "category_low_confidence": false,
+    "model": "jev-1.13.0"
+  },
+  {
+    "filename": "047_bank_loan_application.md",
+    "status": "ok",
+    "chars": 191,
+    "responsive": true,
+    "responsive_probability": 0.97,
+    "rfps": [
+      "RFP_01",
+      "RFP_07"
+    ],
+    "rfp_scores": [
+      {
+        "rfp_id": "RFP_01",
+        "probability": 0.97
+      },
+      {
+        "rfp_id": "RFP_02",
+        "probability": 0.33
+      },
+      {
+        "rfp_id": "RFP_03",
+        "probability": 0.33
+      },
+      {
+        "rfp_id": "RFP_04",
+        "probability": 0.1
+      },
+      {
+        "rfp_id": "RFP_05",
+        "probability": 0.04
+      },
+      {
+        "rfp_id": "RFP_06",
+        "probability": 0.02
+      },
+      {
+        "rfp_id": "RFP_07",
+        "probability": 0.89
+      },
+      {
+        "rfp_id": "RFP_08",
+        "probability": 0.06
+      },
+      {
+        "rfp_id": "RFP_09",
+        "probability": 0.03
+      },
+      {
+        "rfp_id": "RFP_10",
+        "probability": 0.12
+      }
+    ],
+    "category": "Other Business Document",
+    "category_confidence": 0.91,
+    "category_low_confidence": false,
+    "model": "jev-1.13.0"
+  },
+  {
+    "filename": "048_email_expense_questions.md",
+    "status": "ok",
+    "chars": 256,
+    "responsive": true,
+    "responsive_probability": 0.92,
+    "rfps": [
+      "RFP_08",
+      "RFP_09"
+    ],
+    "rfp_scores": [
+      {
+        "rfp_id": "RFP_01",
+        "probability": 0.06
+      },
+      {
+        "rfp_id": "RFP_02",
+        "probability": 0.02
+      },
+      {
+        "rfp_id": "RFP_03",
+        "probability": 0.02
+      },
+      {
+        "rfp_id": "RFP_04",
+        "probability": 0.13
+      },
+      {
+        "rfp_id": "RFP_05",
+        "probability": 0.01
+      },
+      {
+        "rfp_id": "RFP_06",
+        "probability": 0.02
+      },
+      {
+        "rfp_id": "RFP_07",
+        "probability": 0.02
+      },
+      {
+        "rfp_id": "RFP_08",
+        "probability": 0.92
+      },
+      {
+        "rfp_id": "RFP_09",
+        "probability": 0.52
+      },
+      {
+        "rfp_id": "RFP_10",
+        "probability": 0.1
+      }
+    ],
+    "category": "Email or Message",
+    "category_confidence": 1,
+    "category_low_confidence": false,
+    "model": "jev-1.13.0"
+  },
+  {
+    "filename": "049_linkedin_cofounder.md",
+    "status": "ok",
+    "chars": 153,
+    "responsive": true,
+    "responsive_probability": 0.96,
+    "rfps": [
+      "RFP_01",
+      "RFP_06"
+    ],
+    "rfp_scores": [
+      {
+        "rfp_id": "RFP_01",
+        "probability": 0.86
+      },
+      {
+        "rfp_id": "RFP_02",
+        "probability": 0.02
+      },
+      {
+        "rfp_id": "RFP_03",
+        "probability": 0.04
+      },
+      {
+        "rfp_id": "RFP_04",
+        "probability": 0.44
+      },
+      {
+        "rfp_id": "RFP_05",
+        "probability": 0.02
+      },
+      {
+        "rfp_id": "RFP_06",
+        "probability": 0.96
+      },
+      {
+        "rfp_id": "RFP_07",
+        "probability": 0.05
+      },
+      {
+        "rfp_id": "RFP_08",
+        "probability": 0.02
+      },
+      {
+        "rfp_id": "RFP_09",
+        "probability": 0.01
+      },
+      {
+        "rfp_id": "RFP_10",
+        "probability": 0.06
+      }
+    ],
+    "category": "Marketing, Newsletter or Spam",
+    "category_confidence": 0.92,
+    "category_low_confidence": false,
+    "model": "jev-1.13.0"
+  },
+  {
+    "filename": "050_demand_letter.md",
+    "status": "ok",
+    "chars": 281,
+    "responsive": true,
+    "responsive_probability": 0.97,
+    "rfps": [
+      "RFP_01",
+      "RFP_06",
+      "RFP_10"
+    ],
+    "rfp_scores": [
+      {
+        "rfp_id": "RFP_01",
+        "probability": 0.93
+      },
+      {
+        "rfp_id": "RFP_02",
+        "probability": 0.03
+      },
+      {
+        "rfp_id": "RFP_03",
+        "probability": 0.33
+      },
+      {
+        "rfp_id": "RFP_04",
+        "probability": 0.11
+      },
+      {
+        "rfp_id": "RFP_05",
+        "probability": 0.02
+      },
+      {
+        "rfp_id": "RFP_06",
+        "probability": 0.97
+      },
+      {
+        "rfp_id": "RFP_07",
+        "probability": 0.04
+      },
+      {
+        "rfp_id": "RFP_08",
+        "probability": 0.29
+      },
+      {
+        "rfp_id": "RFP_09",
+        "probability": 0.02
+      },
+      {
+        "rfp_id": "RFP_10",
+        "probability": 0.96
+      }
+    ],
+    "category": "Other Business Document",
+    "category_confidence": 0.81,
+    "category_low_confidence": false,
+    "model": "jev-1.13.0"
+  },
+  {
+    "filename": "051_email_ownership_split.md",
+    "status": "ok",
+    "chars": 287,
+    "responsive": true,
+    "responsive_probability": 0.97,
+    "rfps": [
+      "RFP_01",
+      "RFP_03",
+      "RFP_04",
+      "RFP_06",
+      "RFP_10"
+    ],
+    "rfp_scores": [
+      {
+        "rfp_id": "RFP_01",
+        "probability": 0.94
+      },
+      {
+        "rfp_id": "RFP_02",
+        "probability": 0.09
+      },
+      {
+        "rfp_id": "RFP_03",
+        "probability": 0.97
+      },
+      {
+        "rfp_id": "RFP_04",
+        "probability": 0.95
+      },
+      {
+        "rfp_id": "RFP_05",
+        "probability": 0.02
+      },
+      {
+        "rfp_id": "RFP_06",
+        "probability": 0.91
+      },
+      {
+        "rfp_id": "RFP_07",
+        "probability": 0.03
+      },
+      {
+        "rfp_id": "RFP_08",
+        "probability": 0.09
+      },
+      {
+        "rfp_id": "RFP_09",
+        "probability": 0.03
+      },
+      {
+        "rfp_id": "RFP_10",
+        "probability": 0.59
+      }
+    ],
+    "category": "Email or Message",
+    "category_confidence": 0.98,
+    "category_low_confidence": false,
+    "model": "jev-1.13.0"
+  },
+  {
+    "filename": "052_email_blake_to_investor.md",
+    "status": "ok",
+    "chars": 261,
+    "responsive": true,
+    "responsive_probability": 0.98,
+    "rfps": [
+      "RFP_01",
+      "RFP_03",
+      "RFP_07"
+    ],
+    "rfp_scores": [
+      {
+        "rfp_id": "RFP_01",
+        "probability": 0.97
+      },
+      {
+        "rfp_id": "RFP_02",
+        "probability": 0.11
+      },
+      {
+        "rfp_id": "RFP_03",
+        "probability": 0.53
+      },
+      {
+        "rfp_id": "RFP_04",
+        "probability": 0.12
+      },
+      {
+        "rfp_id": "RFP_05",
+        "probability": 0.03
+      },
+      {
+        "rfp_id": "RFP_06",
+        "probability": 0.02
+      },
+      {
+        "rfp_id": "RFP_07",
+        "probability": 0.98
+      },
+      {
+        "rfp_id": "RFP_08",
+        "probability": 0.05
+      },
+      {
+        "rfp_id": "RFP_09",
+        "probability": 0.02
+      },
+      {
+        "rfp_id": "RFP_10",
+        "probability": 0.17
+      }
+    ],
+    "category": "Email or Message",
+    "category_confidence": 1,
+    "category_low_confidence": false,
+    "model": "jev-1.13.0"
+  },
+  {
+    "filename": "053_email_seed_contribution.md",
+    "status": "ok",
+    "chars": 253,
+    "responsive": true,
+    "responsive_probability": 0.97,
+    "rfps": [
+      "RFP_01",
+      "RFP_04",
+      "RFP_06"
+    ],
+    "rfp_scores": [
+      {
+        "rfp_id": "RFP_01",
+        "probability": 0.91
+      },
+      {
+        "rfp_id": "RFP_02",
+        "probability": 0.08
+      },
+      {
+        "rfp_id": "RFP_03",
+        "probability": 0.15
+      },
+      {
+        "rfp_id": "RFP_04",
+        "probability": 0.97
+      },
+      {
+        "rfp_id": "RFP_05",
+        "probability": 0.02
+      },
+      {
+        "rfp_id": "RFP_06",
+        "probability": 0.93
+      },
+      {
+        "rfp_id": "RFP_07",
+        "probability": 0.02
+      },
+      {
+        "rfp_id": "RFP_08",
+        "probability": 0.02
+      },
+      {
+        "rfp_id": "RFP_09",
+        "probability": 0.07
+      },
+      {
+        "rfp_id": "RFP_10",
+        "probability": 0.13
+      }
+    ],
+    "category": "Email or Message",
+    "category_confidence": 1,
+    "category_low_confidence": false,
+    "model": "jev-1.13.0"
+  },
+  {
+    "filename": "054_email_dispute.md",
+    "status": "ok",
+    "chars": 268,
+    "responsive": true,
+    "responsive_probability": 0.98,
+    "rfps": [
+      "RFP_01",
+      "RFP_03",
+      "RFP_06",
+      "RFP_10"
+    ],
+    "rfp_scores": [
+      {
+        "rfp_id": "RFP_01",
+        "probability": 0.96
+      },
+      {
+        "rfp_id": "RFP_02",
+        "probability": 0.11
+      },
+      {
+        "rfp_id": "RFP_03",
+        "probability": 0.73
+      },
+      {
+        "rfp_id": "RFP_04",
+        "probability": 0.12
+      },
+      {
+        "rfp_id": "RFP_05",
+        "probability": 0.02
+      },
+      {
+        "rfp_id": "RFP_06",
+        "probability": 0.91
+      },
+      {
+        "rfp_id": "RFP_07",
+        "probability": 0.21
+      },
+      {
+        "rfp_id": "RFP_08",
+        "probability": 0.12
+      },
+      {
+        "rfp_id": "RFP_09",
+        "probability": 0.02
+      },
+      {
+        "rfp_id": "RFP_10",
+        "probability": 0.98
+      }
+    ],
+    "category": "Email or Message",
+    "category_confidence": 1,
+    "category_low_confidence": false,
+    "model": "jev-1.13.0"
+  },
+  {
+    "filename": "055_dilution_notice.md",
+    "status": "ok",
+    "chars": 337,
+    "responsive": true,
+    "responsive_probability": 0.97,
+    "rfps": [
+      "RFP_01",
+      "RFP_02",
+      "RFP_05",
+      "RFP_06",
+      "RFP_08",
+      "RFP_10"
+    ],
+    "rfp_scores": [
+      {
+        "rfp_id": "RFP_01",
+        "probability": 0.97
+      },
+      {
+        "rfp_id": "RFP_02",
+        "probability": 0.89
+      },
+      {
+        "rfp_id": "RFP_03",
+        "probability": 0.28
+      },
+      {
+        "rfp_id": "RFP_04",
+        "probability": 0.29
+      },
+      {
+        "rfp_id": "RFP_05",
+        "probability": 0.96
+      },
+      {
+        "rfp_id": "RFP_06",
+        "probability": 0.85
+      },
+      {
+        "rfp_id": "RFP_07",
+        "probability": 0.09
+      },
+      {
+        "rfp_id": "RFP_08",
+        "probability": 0.76
+      },
+      {
+        "rfp_id": "RFP_09",
+        "probability": 0.02
+      },
+      {
+        "rfp_id": "RFP_10",
+        "probability": 0.97
+      }
+    ],
+    "category": "Corporate Formation or Governance Document",
+    "category_confidence": 1,
+    "category_low_confidence": false,
+    "model": "jev-1.13.0"
+  },
+  {
+    "filename": "056_text_messages_percentages.md",
+    "status": "ok",
+    "chars": 189,
+    "responsive": true,
+    "responsive_probability": 0.97,
+    "rfps": [
+      "RFP_01",
+      "RFP_03",
+      "RFP_06"
+    ],
+    "rfp_scores": [
+      {
+        "rfp_id": "RFP_01",
+        "probability": 0.94
+      },
+      {
+        "rfp_id": "RFP_02",
+        "probability": 0.06
+      },
+      {
+        "rfp_id": "RFP_03",
+        "probability": 0.97
+      },
+      {
+        "rfp_id": "RFP_04",
+        "probability": 0.13
+      },
+      {
+        "rfp_id": "RFP_05",
+        "probability": 0.02
+      },
+      {
+        "rfp_id": "RFP_06",
+        "probability": 0.88
+      },
+      {
+        "rfp_id": "RFP_07",
+        "probability": 0.06
+      },
+      {
+        "rfp_id": "RFP_08",
+        "probability": 0.04
+      },
+      {
+        "rfp_id": "RFP_09",
+        "probability": 0.02
+      },
+      {
+        "rfp_id": "RFP_10",
+        "probability": 0.17
+      }
+    ],
+    "category": "Email or Message",
+    "category_confidence": 0.99,
+    "category_low_confidence": false,
+    "model": "jev-1.13.0"
+  },
+  {
+    "filename": "057_bank_loan_application.md",
+    "status": "ok",
+    "chars": 190,
+    "responsive": true,
+    "responsive_probability": 0.97,
+    "rfps": [
+      "RFP_01",
+      "RFP_07"
+    ],
+    "rfp_scores": [
+      {
+        "rfp_id": "RFP_01",
+        "probability": 0.97
+      },
+      {
+        "rfp_id": "RFP_02",
+        "probability": 0.34
+      },
+      {
+        "rfp_id": "RFP_03",
+        "probability": 0.32
+      },
+      {
+        "rfp_id": "RFP_04",
+        "probability": 0.11
+      },
+      {
+        "rfp_id": "RFP_05",
+        "probability": 0.05
+      },
+      {
+        "rfp_id": "RFP_06",
+        "probability": 0.02
+      },
+      {
+        "rfp_id": "RFP_07",
+        "probability": 0.87
+      },
+      {
+        "rfp_id": "RFP_08",
+        "probability": 0.06
+      },
+      {
+        "rfp_id": "RFP_09",
+        "probability": 0.03
+      },
+      {
+        "rfp_id": "RFP_10",
+        "probability": 0.12
+      }
+    ],
+    "category": "Other Business Document",
+    "category_confidence": 0.9,
+    "category_low_confidence": false,
+    "model": "jev-1.13.0"
+  },
+  {
+    "filename": "058_email_expense_questions.md",
+    "status": "ok",
+    "chars": 261,
+    "responsive": true,
+    "responsive_probability": 0.94,
+    "rfps": [
+      "RFP_08",
+      "RFP_09"
+    ],
+    "rfp_scores": [
+      {
+        "rfp_id": "RFP_01",
+        "probability": 0.06
+      },
+      {
+        "rfp_id": "RFP_02",
+        "probability": 0.02
+      },
+      {
+        "rfp_id": "RFP_03",
+        "probability": 0.03
+      },
+      {
+        "rfp_id": "RFP_04",
+        "probability": 0.13
+      },
+      {
+        "rfp_id": "RFP_05",
+        "probability": 0.01
+      },
+      {
+        "rfp_id": "RFP_06",
+        "probability": 0.02
+      },
+      {
+        "rfp_id": "RFP_07",
+        "probability": 0.02
+      },
+      {
+        "rfp_id": "RFP_08",
+        "probability": 0.94
+      },
+      {
+        "rfp_id": "RFP_09",
+        "probability": 0.53
+      },
+      {
+        "rfp_id": "RFP_10",
+        "probability": 0.09
+      }
+    ],
+    "category": "Email or Message",
+    "category_confidence": 1,
+    "category_low_confidence": false,
+    "model": "jev-1.13.0"
+  },
+  {
+    "filename": "059_linkedin_cofounder.md",
+    "status": "ok",
+    "chars": 153,
+    "responsive": true,
+    "responsive_probability": 0.96,
+    "rfps": [
+      "RFP_01",
+      "RFP_06"
+    ],
+    "rfp_scores": [
+      {
+        "rfp_id": "RFP_01",
+        "probability": 0.87
+      },
+      {
+        "rfp_id": "RFP_02",
+        "probability": 0.02
+      },
+      {
+        "rfp_id": "RFP_03",
+        "probability": 0.04
+      },
+      {
+        "rfp_id": "RFP_04",
+        "probability": 0.43
+      },
+      {
+        "rfp_id": "RFP_05",
+        "probability": 0.02
+      },
+      {
+        "rfp_id": "RFP_06",
+        "probability": 0.96
+      },
+      {
+        "rfp_id": "RFP_07",
+        "probability": 0.06
+      },
+      {
+        "rfp_id": "RFP_08",
+        "probability": 0.02
+      },
+      {
+        "rfp_id": "RFP_09",
+        "probability": 0.01
+      },
+      {
+        "rfp_id": "RFP_10",
+        "probability": 0.06
+      }
+    ],
+    "category": "Marketing, Newsletter or Spam",
+    "category_confidence": 0.91,
+    "category_low_confidence": false,
+    "model": "jev-1.13.0"
+  },
+  {
+    "filename": "060_demand_letter.md",
+    "status": "ok",
+    "chars": 281,
+    "responsive": true,
+    "responsive_probability": 0.98,
+    "rfps": [
+      "RFP_01",
+      "RFP_06",
+      "RFP_10"
+    ],
+    "rfp_scores": [
+      {
+        "rfp_id": "RFP_01",
+        "probability": 0.93
+      },
+      {
+        "rfp_id": "RFP_02",
+        "probability": 0.03
+      },
+      {
+        "rfp_id": "RFP_03",
+        "probability": 0.32
+      },
+      {
+        "rfp_id": "RFP_04",
+        "probability": 0.12
+      },
+      {
+        "rfp_id": "RFP_05",
+        "probability": 0.02
+      },
+      {
+        "rfp_id": "RFP_06",
+        "probability": 0.98
+      },
+      {
+        "rfp_id": "RFP_07",
+        "probability": 0.03
+      },
+      {
+        "rfp_id": "RFP_08",
+        "probability": 0.31
+      },
+      {
+        "rfp_id": "RFP_09",
+        "probability": 0.02
+      },
+      {
+        "rfp_id": "RFP_10",
+        "probability": 0.96
+      }
+    ],
+    "category": "Other Business Document",
+    "category_confidence": 0.81,
+    "category_low_confidence": false,
+    "model": "jev-1.13.0"
+  },
+  {
+    "filename": "061_calendar_note.md",
+    "status": "ok",
+    "chars": 96,
+    "responsive": true,
+    "responsive_probability": 0.61,
+    "rfps": [
+      "RFP_01",
+      "RFP_03",
+      "RFP_10"
+    ],
+    "rfp_scores": [
+      {
+        "rfp_id": "RFP_01",
+        "probability": 0.59
+      },
+      {
+        "rfp_id": "RFP_02",
+        "probability": 0.04
+      },
+      {
+        "rfp_id": "RFP_03",
+        "probability": 0.61
+      },
+      {
+        "rfp_id": "RFP_04",
+        "probability": 0.14
+      },
+      {
+        "rfp_id": "RFP_05",
+        "probability": 0.02
+      },
+      {
+        "rfp_id": "RFP_06",
+        "probability": 0.03
+      },
+      {
+        "rfp_id": "RFP_07",
+        "probability": 0.05
+      },
+      {
+        "rfp_id": "RFP_08",
+        "probability": 0.1
+      },
+      {
+        "rfp_id": "RFP_09",
+        "probability": 0.02
+      },
+      {
+        "rfp_id": "RFP_10",
+        "probability": 0.57
+      }
+    ],
+    "category": "Other Business Document",
+    "category_confidence": 0.43,
+    "category_low_confidence": false,
+    "model": "jev-1.13.0"
+  },
+  {
+    "filename": "062_chat_car.md",
+    "status": "ok",
+    "chars": 100,
+    "responsive": true,
+    "responsive_probability": 0.66,
+    "rfps": [
+      "RFP_08"
+    ],
+    "rfp_scores": [
+      {
+        "rfp_id": "RFP_01",
+        "probability": 0.1
+      },
+      {
+        "rfp_id": "RFP_02",
+        "probability": 0.02
+      },
+      {
+        "rfp_id": "RFP_03",
+        "probability": 0.03
+      },
+      {
+        "rfp_id": "RFP_04",
+        "probability": 0.08
+      },
+      {
+        "rfp_id": "RFP_05",
+        "probability": 0.01
+      },
+      {
+        "rfp_id": "RFP_06",
+        "probability": 0.06
+      },
+      {
+        "rfp_id": "RFP_07",
+        "probability": 0.03
+      },
+      {
+        "rfp_id": "RFP_08",
+        "probability": 0.66
+      },
+      {
+        "rfp_id": "RFP_09",
+        "probability": 0.02
+      },
+      {
+        "rfp_id": "RFP_10",
+        "probability": 0.09
+      }
+    ],
+    "category": "Email or Message",
+    "category_confidence": 0.92,
+    "category_low_confidence": false,
+    "model": "jev-1.13.0"
+  },
+  {
+    "filename": "063_expense_report.md",
+    "status": "ok",
+    "chars": 244,
+    "responsive": true,
+    "responsive_probability": 0.82,
+    "rfps": [
+      "RFP_08"
+    ],
+    "rfp_scores": [
+      {
+        "rfp_id": "RFP_01",
+        "probability": 0.04
+      },
+      {
+        "rfp_id": "RFP_02",
+        "probability": 0.02
+      },
+      {
+        "rfp_id": "RFP_03",
+        "probability": 0.02
+      },
+      {
+        "rfp_id": "RFP_04",
+        "probability": 0.07
+      },
+      {
+        "rfp_id": "RFP_05",
+        "probability": 0.01
+      },
+      {
+        "rfp_id": "RFP_06",
+        "probability": 0.02
+      },
+      {
+        "rfp_id": "RFP_07",
+        "probability": 0.02
+      },
+      {
+        "rfp_id": "RFP_08",
+        "probability": 0.82
+      },
+      {
+        "rfp_id": "RFP_09",
+        "probability": 0.48
+      },
+      {
+        "rfp_id": "RFP_10",
+        "probability": 0.05
+      }
+    ],
+    "category": "Other Business Document",
+    "category_confidence": 0.63,
+    "category_low_confidence": false,
+    "model": "jev-1.13.0"
+  },
+  {
+    "filename": "064_email_passing_founder.md",
+    "status": "ok",
+    "chars": 157,
+    "responsive": true,
+    "responsive_probability": 0.84,
+    "rfps": [
+      "RFP_01",
+      "RFP_06"
+    ],
+    "rfp_scores": [
+      {
+        "rfp_id": "RFP_01",
+        "probability": 0.55
+      },
+      {
+        "rfp_id": "RFP_02",
+        "probability": 0.02
+      },
+      {
+        "rfp_id": "RFP_03",
+        "probability": 0.03
+      },
+      {
+        "rfp_id": "RFP_04",
+        "probability": 0.05
+      },
+      {
+        "rfp_id": "RFP_05",
+        "probability": 0.01
+      },
+      {
+        "rfp_id": "RFP_06",
+        "probability": 0.84
+      },
+      {
+        "rfp_id": "RFP_07",
+        "probability": 0.02
+      },
+      {
+        "rfp_id": "RFP_08",
+        "probability": 0.02
+      },
+      {
+        "rfp_id": "RFP_09",
+        "probability": 0.01
+      },
+      {
+        "rfp_id": "RFP_10",
+        "probability": 0.04
+      }
+    ],
+    "category": "Email or Message",
+    "category_confidence": 0.85,
+    "category_low_confidence": false,
+    "model": "jev-1.13.0"
+  },
+  {
+    "filename": "065_accountant_voicemail.md",
+    "status": "ok",
+    "chars": 140,
+    "responsive": false,
+    "responsive_probability": 0.06,
+    "rfps": [],
+    "rfp_scores": [
+      {
+        "rfp_id": "RFP_01",
+        "probability": 0.04
+      },
+      {
+        "rfp_id": "RFP_02",
+        "probability": 0.02
+      },
+      {
+        "rfp_id": "RFP_03",
+        "probability": 0.02
+      },
+      {
+        "rfp_id": "RFP_04",
+        "probability": 0.05
+      },
+      {
+        "rfp_id": "RFP_05",
+        "probability": 0.01
+      },
+      {
+        "rfp_id": "RFP_06",
+        "probability": 0.02
+      },
+      {
+        "rfp_id": "RFP_07",
+        "probability": 0.02
+      },
+      {
+        "rfp_id": "RFP_08",
+        "probability": 0.06
+      },
+      {
+        "rfp_id": "RFP_09",
+        "probability": 0.04
+      },
+      {
+        "rfp_id": "RFP_10",
+        "probability": 0.03
+      }
+    ],
+    "category": "Email or Message",
+    "category_confidence": 1,
+    "category_low_confidence": false,
+    "model": "jev-1.13.0"
+  },
+  {
+    "filename": "066_calendar_note.md",
+    "status": "ok",
+    "chars": 96,
+    "responsive": true,
+    "responsive_probability": 0.57,
+    "rfps": [
+      "RFP_01",
+      "RFP_03",
+      "RFP_10"
+    ],
+    "rfp_scores": [
+      {
+        "rfp_id": "RFP_01",
+        "probability": 0.53
+      },
+      {
+        "rfp_id": "RFP_02",
+        "probability": 0.04
+      },
+      {
+        "rfp_id": "RFP_03",
+        "probability": 0.55
+      },
+      {
+        "rfp_id": "RFP_04",
+        "probability": 0.12
+      },
+      {
+        "rfp_id": "RFP_05",
+        "probability": 0.02
+      },
+      {
+        "rfp_id": "RFP_06",
+        "probability": 0.03
+      },
+      {
+        "rfp_id": "RFP_07",
+        "probability": 0.05
+      },
+      {
+        "rfp_id": "RFP_08",
+        "probability": 0.09
+      },
+      {
+        "rfp_id": "RFP_09",
+        "probability": 0.02
+      },
+      {
+        "rfp_id": "RFP_10",
+        "probability": 0.57
+      }
+    ],
+    "category": "Other Business Document",
+    "category_confidence": 0.41,
+    "category_low_confidence": false,
+    "model": "jev-1.13.0"
+  },
+  {
+    "filename": "067_chat_car.md",
+    "status": "ok",
+    "chars": 102,
+    "responsive": true,
+    "responsive_probability": 0.66,
+    "rfps": [
+      "RFP_08"
+    ],
+    "rfp_scores": [
+      {
+        "rfp_id": "RFP_01",
+        "probability": 0.12
+      },
+      {
+        "rfp_id": "RFP_02",
+        "probability": 0.02
+      },
+      {
+        "rfp_id": "RFP_03",
+        "probability": 0.03
+      },
+      {
+        "rfp_id": "RFP_04",
+        "probability": 0.1
+      },
+      {
+        "rfp_id": "RFP_05",
+        "probability": 0.01
+      },
+      {
+        "rfp_id": "RFP_06",
+        "probability": 0.06
+      },
+      {
+        "rfp_id": "RFP_07",
+        "probability": 0.03
+      },
+      {
+        "rfp_id": "RFP_08",
+        "probability": 0.66
+      },
+      {
+        "rfp_id": "RFP_09",
+        "probability": 0.02
+      },
+      {
+        "rfp_id": "RFP_10",
+        "probability": 0.08
+      }
+    ],
+    "category": "Email or Message",
+    "category_confidence": 0.93,
+    "category_low_confidence": false,
+    "model": "jev-1.13.0"
+  },
+  {
+    "filename": "068_expense_report.md",
+    "status": "ok",
+    "chars": 244,
+    "responsive": true,
+    "responsive_probability": 0.83,
+    "rfps": [
+      "RFP_08"
+    ],
+    "rfp_scores": [
+      {
+        "rfp_id": "RFP_01",
+        "probability": 0.04
+      },
+      {
+        "rfp_id": "RFP_02",
+        "probability": 0.02
+      },
+      {
+        "rfp_id": "RFP_03",
+        "probability": 0.02
+      },
+      {
+        "rfp_id": "RFP_04",
+        "probability": 0.07
+      },
+      {
+        "rfp_id": "RFP_05",
+        "probability": 0.01
+      },
+      {
+        "rfp_id": "RFP_06",
+        "probability": 0.02
+      },
+      {
+        "rfp_id": "RFP_07",
+        "probability": 0.02
+      },
+      {
+        "rfp_id": "RFP_08",
+        "probability": 0.83
+      },
+      {
+        "rfp_id": "RFP_09",
+        "probability": 0.49
+      },
+      {
+        "rfp_id": "RFP_10",
+        "probability": 0.04
+      }
+    ],
+    "category": "Other Business Document",
+    "category_confidence": 0.66,
+    "category_low_confidence": false,
+    "model": "jev-1.13.0"
+  },
+  {
+    "filename": "069_email_passing_founder.md",
+    "status": "ok",
+    "chars": 156,
+    "responsive": true,
+    "responsive_probability": 0.86,
+    "rfps": [
+      "RFP_01",
+      "RFP_06"
+    ],
+    "rfp_scores": [
+      {
+        "rfp_id": "RFP_01",
+        "probability": 0.56
+      },
+      {
+        "rfp_id": "RFP_02",
+        "probability": 0.02
+      },
+      {
+        "rfp_id": "RFP_03",
+        "probability": 0.03
+      },
+      {
+        "rfp_id": "RFP_04",
+        "probability": 0.05
+      },
+      {
+        "rfp_id": "RFP_05",
+        "probability": 0.01
+      },
+      {
+        "rfp_id": "RFP_06",
+        "probability": 0.86
+      },
+      {
+        "rfp_id": "RFP_07",
+        "probability": 0.02
+      },
+      {
+        "rfp_id": "RFP_08",
+        "probability": 0.02
+      },
+      {
+        "rfp_id": "RFP_09",
+        "probability": 0.01
+      },
+      {
+        "rfp_id": "RFP_10",
+        "probability": 0.04
+      }
+    ],
+    "category": "Email or Message",
+    "category_confidence": 0.86,
+    "category_low_confidence": false,
+    "model": "jev-1.13.0"
+  },
+  {
+    "filename": "070_accountant_voicemail.md",
+    "status": "ok",
+    "chars": 143,
+    "responsive": false,
+    "responsive_probability": 0.07,
+    "rfps": [],
+    "rfp_scores": [
+      {
+        "rfp_id": "RFP_01",
+        "probability": 0.05
+      },
+      {
+        "rfp_id": "RFP_02",
+        "probability": 0.02
+      },
+      {
+        "rfp_id": "RFP_03",
+        "probability": 0.02
+      },
+      {
+        "rfp_id": "RFP_04",
+        "probability": 0.06
+      },
+      {
+        "rfp_id": "RFP_05",
+        "probability": 0.01
+      },
+      {
+        "rfp_id": "RFP_06",
+        "probability": 0.02
+      },
+      {
+        "rfp_id": "RFP_07",
+        "probability": 0.02
+      },
+      {
+        "rfp_id": "RFP_08",
+        "probability": 0.07
+      },
+      {
+        "rfp_id": "RFP_09",
+        "probability": 0.04
+      },
+      {
+        "rfp_id": "RFP_10",
+        "probability": 0.04
+      }
+    ],
+    "category": "Email or Message",
+    "category_confidence": 1,
+    "category_low_confidence": false,
+    "model": "jev-1.13.0"
+  },
+  {
+    "filename": "071_calendar_note.md",
+    "status": "ok",
+    "chars": 96,
+    "responsive": true,
+    "responsive_probability": 0.56,
+    "rfps": [
+      "RFP_01",
+      "RFP_03",
+      "RFP_10"
+    ],
+    "rfp_scores": [
+      {
+        "rfp_id": "RFP_01",
+        "probability": 0.52
+      },
+      {
+        "rfp_id": "RFP_02",
+        "probability": 0.04
+      },
+      {
+        "rfp_id": "RFP_03",
+        "probability": 0.56
+      },
+      {
+        "rfp_id": "RFP_04",
+        "probability": 0.13
+      },
+      {
+        "rfp_id": "RFP_05",
+        "probability": 0.02
+      },
+      {
+        "rfp_id": "RFP_06",
+        "probability": 0.03
+      },
+      {
+        "rfp_id": "RFP_07",
+        "probability": 0.05
+      },
+      {
+        "rfp_id": "RFP_08",
+        "probability": 0.09
+      },
+      {
+        "rfp_id": "RFP_09",
+        "probability": 0.02
+      },
+      {
+        "rfp_id": "RFP_10",
+        "probability": 0.56
+      }
+    ],
+    "category": "Email or Message",
+    "category_confidence": 0.45,
+    "category_low_confidence": false,
+    "model": "jev-1.13.0"
+  },
+  {
+    "filename": "072_chat_car.md",
+    "status": "ok",
+    "chars": 101,
+    "responsive": true,
+    "responsive_probability": 0.7,
+    "rfps": [
+      "RFP_08"
+    ],
+    "rfp_scores": [
+      {
+        "rfp_id": "RFP_01",
+        "probability": 0.09
+      },
+      {
+        "rfp_id": "RFP_02",
+        "probability": 0.02
+      },
+      {
+        "rfp_id": "RFP_03",
+        "probability": 0.03
+      },
+      {
+        "rfp_id": "RFP_04",
+        "probability": 0.09
+      },
+      {
+        "rfp_id": "RFP_05",
+        "probability": 0.01
+      },
+      {
+        "rfp_id": "RFP_06",
+        "probability": 0.06
+      },
+      {
+        "rfp_id": "RFP_07",
+        "probability": 0.03
+      },
+      {
+        "rfp_id": "RFP_08",
+        "probability": 0.7
+      },
+      {
+        "rfp_id": "RFP_09",
+        "probability": 0.02
+      },
+      {
+        "rfp_id": "RFP_10",
+        "probability": 0.08
+      }
+    ],
+    "category": "Email or Message",
+    "category_confidence": 0.93,
+    "category_low_confidence": false,
+    "model": "jev-1.13.0"
+  },
+  {
+    "filename": "073_expense_report.md",
+    "status": "ok",
+    "chars": 243,
+    "responsive": true,
+    "responsive_probability": 0.83,
+    "rfps": [
+      "RFP_08"
+    ],
+    "rfp_scores": [
+      {
+        "rfp_id": "RFP_01",
+        "probability": 0.04
+      },
+      {
+        "rfp_id": "RFP_02",
+        "probability": 0.02
+      },
+      {
+        "rfp_id": "RFP_03",
+        "probability": 0.02
+      },
+      {
+        "rfp_id": "RFP_04",
+        "probability": 0.07
+      },
+      {
+        "rfp_id": "RFP_05",
+        "probability": 0.01
+      },
+      {
+        "rfp_id": "RFP_06",
+        "probability": 0.02
+      },
+      {
+        "rfp_id": "RFP_07",
+        "probability": 0.02
+      },
+      {
+        "rfp_id": "RFP_08",
+        "probability": 0.83
+      },
+      {
+        "rfp_id": "RFP_09",
+        "probability": 0.48
+      },
+      {
+        "rfp_id": "RFP_10",
+        "probability": 0.04
+      }
+    ],
+    "category": "Other Business Document",
+    "category_confidence": 0.62,
+    "category_low_confidence": false,
+    "model": "jev-1.13.0"
+  },
+  {
+    "filename": "074_email_passing_founder.md",
+    "status": "ok",
+    "chars": 157,
+    "responsive": true,
+    "responsive_probability": 0.88,
+    "rfps": [
+      "RFP_01",
+      "RFP_06"
+    ],
+    "rfp_scores": [
+      {
+        "rfp_id": "RFP_01",
+        "probability": 0.57
+      },
+      {
+        "rfp_id": "RFP_02",
+        "probability": 0.02
+      },
+      {
+        "rfp_id": "RFP_03",
+        "probability": 0.03
+      },
+      {
+        "rfp_id": "RFP_04",
+        "probability": 0.05
+      },
+      {
+        "rfp_id": "RFP_05",
+        "probability": 0.01
+      },
+      {
+        "rfp_id": "RFP_06",
+        "probability": 0.88
+      },
+      {
+        "rfp_id": "RFP_07",
+        "probability": 0.02
+      },
+      {
+        "rfp_id": "RFP_08",
+        "probability": 0.02
+      },
+      {
+        "rfp_id": "RFP_09",
+        "probability": 0.01
+      },
+      {
+        "rfp_id": "RFP_10",
+        "probability": 0.04
+      }
+    ],
+    "category": "Email or Message",
+    "category_confidence": 0.88,
+    "category_low_confidence": false,
+    "model": "jev-1.13.0"
+  },
+  {
+    "filename": "075_accountant_voicemail.md",
+    "status": "ok",
+    "chars": 142,
+    "responsive": false,
+    "responsive_probability": 0.05,
+    "rfps": [],
+    "rfp_scores": [
+      {
+        "rfp_id": "RFP_01",
+        "probability": 0.04
+      },
+      {
+        "rfp_id": "RFP_02",
+        "probability": 0.02
+      },
+      {
+        "rfp_id": "RFP_03",
+        "probability": 0.02
+      },
+      {
+        "rfp_id": "RFP_04",
+        "probability": 0.05
+      },
+      {
+        "rfp_id": "RFP_05",
+        "probability": 0.01
+      },
+      {
+        "rfp_id": "RFP_06",
+        "probability": 0.02
+      },
+      {
+        "rfp_id": "RFP_07",
+        "probability": 0.02
+      },
+      {
+        "rfp_id": "RFP_08",
+        "probability": 0.05
+      },
+      {
+        "rfp_id": "RFP_09",
+        "probability": 0.04
+      },
+      {
+        "rfp_id": "RFP_10",
+        "probability": 0.04
+      }
+    ],
+    "category": "Email or Message",
+    "category_confidence": 0.99,
+    "category_low_confidence": false,
+    "model": "jev-1.13.0"
+  },
+  {
+    "filename": "076_calendar_note.md",
+    "status": "ok",
+    "chars": 96,
+    "responsive": true,
+    "responsive_probability": 0.58,
+    "rfps": [
+      "RFP_01",
+      "RFP_03",
+      "RFP_10"
+    ],
+    "rfp_scores": [
+      {
+        "rfp_id": "RFP_01",
+        "probability": 0.53
+      },
+      {
+        "rfp_id": "RFP_02",
+        "probability": 0.04
+      },
+      {
+        "rfp_id": "RFP_03",
+        "probability": 0.58
+      },
+      {
+        "rfp_id": "RFP_04",
+        "probability": 0.13
+      },
+      {
+        "rfp_id": "RFP_05",
+        "probability": 0.02
+      },
+      {
+        "rfp_id": "RFP_06",
+        "probability": 0.03
+      },
+      {
+        "rfp_id": "RFP_07",
+        "probability": 0.05
+      },
+      {
+        "rfp_id": "RFP_08",
+        "probability": 0.1
+      },
+      {
+        "rfp_id": "RFP_09",
+        "probability": 0.01
+      },
+      {
+        "rfp_id": "RFP_10",
+        "probability": 0.58
+      }
+    ],
+    "category": "Email or Message",
+    "category_confidence": 0.41,
+    "category_low_confidence": false,
+    "model": "jev-1.13.0"
+  },
+  {
+    "filename": "077_chat_car.md",
+    "status": "ok",
+    "chars": 102,
+    "responsive": true,
+    "responsive_probability": 0.69,
+    "rfps": [
+      "RFP_08"
+    ],
+    "rfp_scores": [
+      {
+        "rfp_id": "RFP_01",
+        "probability": 0.11
+      },
+      {
+        "rfp_id": "RFP_02",
+        "probability": 0.02
+      },
+      {
+        "rfp_id": "RFP_03",
+        "probability": 0.03
+      },
+      {
+        "rfp_id": "RFP_04",
+        "probability": 0.08
+      },
+      {
+        "rfp_id": "RFP_05",
+        "probability": 0.01
+      },
+      {
+        "rfp_id": "RFP_06",
+        "probability": 0.07
+      },
+      {
+        "rfp_id": "RFP_07",
+        "probability": 0.03
+      },
+      {
+        "rfp_id": "RFP_08",
+        "probability": 0.69
+      },
+      {
+        "rfp_id": "RFP_09",
+        "probability": 0.02
+      },
+      {
+        "rfp_id": "RFP_10",
+        "probability": 0.09
+      }
+    ],
+    "category": "Email or Message",
+    "category_confidence": 0.94,
+    "category_low_confidence": false,
+    "model": "jev-1.13.0"
+  },
+  {
+    "filename": "078_expense_report.md",
+    "status": "ok",
+    "chars": 244,
+    "responsive": true,
+    "responsive_probability": 0.83,
+    "rfps": [
+      "RFP_08"
+    ],
+    "rfp_scores": [
+      {
+        "rfp_id": "RFP_01",
+        "probability": 0.04
+      },
+      {
+        "rfp_id": "RFP_02",
+        "probability": 0.02
+      },
+      {
+        "rfp_id": "RFP_03",
+        "probability": 0.02
+      },
+      {
+        "rfp_id": "RFP_04",
+        "probability": 0.07
+      },
+      {
+        "rfp_id": "RFP_05",
+        "probability": 0.01
+      },
+      {
+        "rfp_id": "RFP_06",
+        "probability": 0.02
+      },
+      {
+        "rfp_id": "RFP_07",
+        "probability": 0.02
+      },
+      {
+        "rfp_id": "RFP_08",
+        "probability": 0.83
+      },
+      {
+        "rfp_id": "RFP_09",
+        "probability": 0.47
+      },
+      {
+        "rfp_id": "RFP_10",
+        "probability": 0.04
+      }
+    ],
+    "category": "Other Business Document",
+    "category_confidence": 0.62,
+    "category_low_confidence": false,
+    "model": "jev-1.13.0"
+  },
+  {
+    "filename": "079_email_passing_founder.md",
+    "status": "ok",
+    "chars": 155,
+    "responsive": true,
+    "responsive_probability": 0.86,
+    "rfps": [
+      "RFP_01",
+      "RFP_06"
+    ],
+    "rfp_scores": [
+      {
+        "rfp_id": "RFP_01",
+        "probability": 0.6
+      },
+      {
+        "rfp_id": "RFP_02",
+        "probability": 0.02
+      },
+      {
+        "rfp_id": "RFP_03",
+        "probability": 0.03
+      },
+      {
+        "rfp_id": "RFP_04",
+        "probability": 0.05
+      },
+      {
+        "rfp_id": "RFP_05",
+        "probability": 0.01
+      },
+      {
+        "rfp_id": "RFP_06",
+        "probability": 0.86
+      },
+      {
+        "rfp_id": "RFP_07",
+        "probability": 0.02
+      },
+      {
+        "rfp_id": "RFP_08",
+        "probability": 0.02
+      },
+      {
+        "rfp_id": "RFP_09",
+        "probability": 0.01
+      },
+      {
+        "rfp_id": "RFP_10",
+        "probability": 0.04
+      }
+    ],
+    "category": "Email or Message",
+    "category_confidence": 0.89,
+    "category_low_confidence": false,
+    "model": "jev-1.13.0"
+  },
+  {
+    "filename": "080_accountant_voicemail.md",
+    "status": "ok",
+    "chars": 143,
+    "responsive": false,
+    "responsive_probability": 0.07,
+    "rfps": [],
+    "rfp_scores": [
+      {
+        "rfp_id": "RFP_01",
+        "probability": 0.05
+      },
+      {
+        "rfp_id": "RFP_02",
+        "probability": 0.02
+      },
+      {
+        "rfp_id": "RFP_03",
+        "probability": 0.02
+      },
+      {
+        "rfp_id": "RFP_04",
+        "probability": 0.06
+      },
+      {
+        "rfp_id": "RFP_05",
+        "probability": 0.01
+      },
+      {
+        "rfp_id": "RFP_06",
+        "probability": 0.02
+      },
+      {
+        "rfp_id": "RFP_07",
+        "probability": 0.02
+      },
+      {
+        "rfp_id": "RFP_08",
+        "probability": 0.07
+      },
+      {
+        "rfp_id": "RFP_09",
+        "probability": 0.04
+      },
+      {
+        "rfp_id": "RFP_10",
+        "probability": 0.04
+      }
+    ],
+    "category": "Email or Message",
+    "category_confidence": 1,
+    "category_low_confidence": false,
+    "model": "jev-1.13.0"
+  },
+  {
+    "filename": "081_newsletter.md",
+    "status": "ok",
+    "chars": 78,
+    "responsive": false,
+    "responsive_probability": 0.02,
+    "rfps": [],
+    "rfp_scores": [
+      {
+        "rfp_id": "RFP_01",
+        "probability": 0.01
+      },
+      {
+        "rfp_id": "RFP_02",
+        "probability": 0.01
+      },
+      {
+        "rfp_id": "RFP_03",
+        "probability": 0.02
+      },
+      {
+        "rfp_id": "RFP_04",
+        "probability": 0.02
+      },
+      {
+        "rfp_id": "RFP_05",
+        "probability": 0.01
+      },
+      {
+        "rfp_id": "RFP_06",
+        "probability": 0.01
+      },
+      {
+        "rfp_id": "RFP_07",
+        "probability": 0.01
+      },
+      {
+        "rfp_id": "RFP_08",
+        "probability": 0.01
+      },
+      {
+        "rfp_id": "RFP_09",
+        "probability": 0.01
+      },
+      {
+        "rfp_id": "RFP_10",
+        "probability": 0.02
+      }
+    ],
+    "category": "Marketing, Newsletter or Spam",
+    "category_confidence": 1,
+    "category_low_confidence": false,
+    "model": "jev-1.13.0"
+  },
+  {
+    "filename": "082_lunch_order.md",
+    "status": "ok",
+    "chars": 76,
+    "responsive": false,
+    "responsive_probability": 0.02,
+    "rfps": [],
+    "rfp_scores": [
+      {
+        "rfp_id": "RFP_01",
+        "probability": 0.01
+      },
+      {
+        "rfp_id": "RFP_02",
+        "probability": 0.01
+      },
+      {
+        "rfp_id": "RFP_03",
+        "probability": 0.01
+      },
+      {
+        "rfp_id": "RFP_04",
+        "probability": 0.02
+      },
+      {
+        "rfp_id": "RFP_05",
+        "probability": 0.01
+      },
+      {
+        "rfp_id": "RFP_06",
+        "probability": 0.01
+      },
+      {
+        "rfp_id": "RFP_07",
+        "probability": 0.01
+      },
+      {
+        "rfp_id": "RFP_08",
+        "probability": 0.02
+      },
+      {
+        "rfp_id": "RFP_09",
+        "probability": 0.01
+      },
+      {
+        "rfp_id": "RFP_10",
+        "probability": 0.01
+      }
+    ],
+    "category": "Email or Message",
+    "category_confidence": 0.52,
+    "category_low_confidence": false,
+    "model": "jev-1.13.0"
+  },
+  {
+    "filename": "083_vendor_spam.md",
+    "status": "ok",
+    "chars": 126,
+    "responsive": false,
+    "responsive_probability": 0.01,
+    "rfps": [],
+    "rfp_scores": [
+      {
+        "rfp_id": "RFP_01",
+        "probability": 0.01
+      },
+      {
+        "rfp_id": "RFP_02",
+        "probability": 0.01
+      },
+      {
+        "rfp_id": "RFP_03",
+        "probability": 0.01
+      },
+      {
+        "rfp_id": "RFP_04",
+        "probability": 0.01
+      },
+      {
+        "rfp_id": "RFP_05",
+        "probability": 0.01
+      },
+      {
+        "rfp_id": "RFP_06",
+        "probability": 0.01
+      },
+      {
+        "rfp_id": "RFP_07",
+        "probability": 0.01
+      },
+      {
+        "rfp_id": "RFP_08",
+        "probability": 0.01
+      },
+      {
+        "rfp_id": "RFP_09",
+        "probability": 0.01
+      },
+      {
+        "rfp_id": "RFP_10",
+        "probability": 0.01
+      }
+    ],
+    "category": "Marketing, Newsletter or Spam",
+    "category_confidence": 1,
+    "category_low_confidence": false,
+    "model": "jev-1.13.0"
+  },
+  {
+    "filename": "084_chitchat.md",
+    "status": "ok",
+    "chars": 100,
+    "responsive": false,
+    "responsive_probability": 0.02,
+    "rfps": [],
+    "rfp_scores": [
+      {
+        "rfp_id": "RFP_01",
+        "probability": 0.01
+      },
+      {
+        "rfp_id": "RFP_02",
+        "probability": 0.01
+      },
+      {
+        "rfp_id": "RFP_03",
+        "probability": 0.01
+      },
+      {
+        "rfp_id": "RFP_04",
+        "probability": 0.02
+      },
+      {
+        "rfp_id": "RFP_05",
+        "probability": 0.01
+      },
+      {
+        "rfp_id": "RFP_06",
+        "probability": 0.01
+      },
+      {
+        "rfp_id": "RFP_07",
+        "probability": 0.01
+      },
+      {
+        "rfp_id": "RFP_08",
+        "probability": 0.01
+      },
+      {
+        "rfp_id": "RFP_09",
+        "probability": 0.01
+      },
+      {
+        "rfp_id": "RFP_10",
+        "probability": 0.02
+      }
+    ],
+    "category": "Personal or Social Communication",
+    "category_confidence": 0.94,
+    "category_low_confidence": false,
+    "model": "jev-1.13.0"
+  },
+  {
+    "filename": "085_hvac_maintenance.md",
+    "status": "ok",
+    "chars": 126,
+    "responsive": false,
+    "responsive_probability": 0.02,
+    "rfps": [],
+    "rfp_scores": [
+      {
+        "rfp_id": "RFP_01",
+        "probability": 0.01
+      },
+      {
+        "rfp_id": "RFP_02",
+        "probability": 0.01
+      },
+      {
+        "rfp_id": "RFP_03",
+        "probability": 0.01
+      },
+      {
+        "rfp_id": "RFP_04",
+        "probability": 0.02
+      },
+      {
+        "rfp_id": "RFP_05",
+        "probability": 0.01
+      },
+      {
+        "rfp_id": "RFP_06",
+        "probability": 0.01
+      },
+      {
+        "rfp_id": "RFP_07",
+        "probability": 0.01
+      },
+      {
+        "rfp_id": "RFP_08",
+        "probability": 0.01
+      },
+      {
+        "rfp_id": "RFP_09",
+        "probability": 0.01
+      },
+      {
+        "rfp_id": "RFP_10",
+        "probability": 0.01
+      }
+    ],
+    "category": "Other Business Document",
+    "category_confidence": 0.75,
+    "category_low_confidence": false,
+    "model": "jev-1.13.0"
+  },
+  {
+    "filename": "086_other_company_bank.md",
+    "status": "ok",
+    "chars": 153,
+    "responsive": false,
+    "responsive_probability": 0.03,
+    "rfps": [],
+    "rfp_scores": [
+      {
+        "rfp_id": "RFP_01",
+        "probability": 0.02
+      },
+      {
+        "rfp_id": "RFP_02",
+        "probability": 0.01
+      },
+      {
+        "rfp_id": "RFP_03",
+        "probability": 0.02
+      },
+      {
+        "rfp_id": "RFP_04",
+        "probability": 0.02
+      },
+      {
+        "rfp_id": "RFP_05",
+        "probability": 0.01
+      },
+      {
+        "rfp_id": "RFP_06",
+        "probability": 0.01
+      },
+      {
+        "rfp_id": "RFP_07",
+        "probability": 0.01
+      },
+      {
+        "rfp_id": "RFP_08",
+        "probability": 0.02
+      },
+      {
+        "rfp_id": "RFP_09",
+        "probability": 0.03
+      },
+      {
+        "rfp_id": "RFP_10",
+        "probability": 0.02
+      }
+    ],
+    "category": "Accounting Record or Financial Statement",
+    "category_confidence": 0.74,
+    "category_low_confidence": false,
+    "model": "jev-1.13.0"
+  },
+  {
+    "filename": "087_holiday_party.md",
+    "status": "ok",
+    "chars": 104,
+    "responsive": false,
+    "responsive_probability": 0.02,
+    "rfps": [],
+    "rfp_scores": [
+      {
+        "rfp_id": "RFP_01",
+        "probability": 0.01
+      },
+      {
+        "rfp_id": "RFP_02",
+        "probability": 0.01
+      },
+      {
+        "rfp_id": "RFP_03",
+        "probability": 0.01
+      },
+      {
+        "rfp_id": "RFP_04",
+        "probability": 0.02
+      },
+      {
+        "rfp_id": "RFP_05",
+        "probability": 0.01
+      },
+      {
+        "rfp_id": "RFP_06",
+        "probability": 0.01
+      },
+      {
+        "rfp_id": "RFP_07",
+        "probability": 0.01
+      },
+      {
+        "rfp_id": "RFP_08",
+        "probability": 0.01
+      },
+      {
+        "rfp_id": "RFP_09",
+        "probability": 0.01
+      },
+      {
+        "rfp_id": "RFP_10",
+        "probability": 0.01
+      }
+    ],
+    "category": "Other Business Document",
+    "category_confidence": 0.72,
+    "category_low_confidence": false,
+    "model": "jev-1.13.0"
+  },
+  {
+    "filename": "088_it_password_reset.md",
+    "status": "ok",
+    "chars": 120,
+    "responsive": false,
+    "responsive_probability": 0.02,
+    "rfps": [],
+    "rfp_scores": [
+      {
+        "rfp_id": "RFP_01",
+        "probability": 0.01
+      },
+      {
+        "rfp_id": "RFP_02",
+        "probability": 0.01
+      },
+      {
+        "rfp_id": "RFP_03",
+        "probability": 0.01
+      },
+      {
+        "rfp_id": "RFP_04",
+        "probability": 0.02
+      },
+      {
+        "rfp_id": "RFP_05",
+        "probability": 0.01
+      },
+      {
+        "rfp_id": "RFP_06",
+        "probability": 0.01
+      },
+      {
+        "rfp_id": "RFP_07",
+        "probability": 0.01
+      },
+      {
+        "rfp_id": "RFP_08",
+        "probability": 0.01
+      },
+      {
+        "rfp_id": "RFP_09",
+        "probability": 0.01
+      },
+      {
+        "rfp_id": "RFP_10",
+        "probability": 0.01
+      }
+    ],
+    "category": "Email or Message",
+    "category_confidence": 1,
+    "category_low_confidence": false,
+    "model": "jev-1.13.0"
+  },
+  {
+    "filename": "089_gym_receipt.md",
+    "status": "ok",
+    "chars": 78,
+    "responsive": false,
+    "responsive_probability": 0.03,
+    "rfps": [],
+    "rfp_scores": [
+      {
+        "rfp_id": "RFP_01",
+        "probability": 0.01
+      },
+      {
+        "rfp_id": "RFP_02",
+        "probability": 0.01
+      },
+      {
+        "rfp_id": "RFP_03",
+        "probability": 0.01
+      },
+      {
+        "rfp_id": "RFP_04",
+        "probability": 0.02
+      },
+      {
+        "rfp_id": "RFP_05",
+        "probability": 0.01
+      },
+      {
+        "rfp_id": "RFP_06",
+        "probability": 0.01
+      },
+      {
+        "rfp_id": "RFP_07",
+        "probability": 0.01
+      },
+      {
+        "rfp_id": "RFP_08",
+        "probability": 0.02
+      },
+      {
+        "rfp_id": "RFP_09",
+        "probability": 0.03
+      },
+      {
+        "rfp_id": "RFP_10",
+        "probability": 0.01
+      }
+    ],
+    "category": "Invoice or Receipt",
+    "category_confidence": 1,
+    "category_low_confidence": false,
+    "model": "jev-1.13.0"
+  },
+  {
+    "filename": "090_recipe_share.md",
+    "status": "ok",
+    "chars": 79,
+    "responsive": false,
+    "responsive_probability": 0.01,
+    "rfps": [],
+    "rfp_scores": [
+      {
+        "rfp_id": "RFP_01",
+        "probability": 0.01
+      },
+      {
+        "rfp_id": "RFP_02",
+        "probability": 0.01
+      },
+      {
+        "rfp_id": "RFP_03",
+        "probability": 0.01
+      },
+      {
+        "rfp_id": "RFP_04",
+        "probability": 0.01
+      },
+      {
+        "rfp_id": "RFP_05",
+        "probability": 0.01
+      },
+      {
+        "rfp_id": "RFP_06",
+        "probability": 0.01
+      },
+      {
+        "rfp_id": "RFP_07",
+        "probability": 0.01
+      },
+      {
+        "rfp_id": "RFP_08",
+        "probability": 0.01
+      },
+      {
+        "rfp_id": "RFP_09",
+        "probability": 0.01
+      },
+      {
+        "rfp_id": "RFP_10",
+        "probability": 0.01
+      }
+    ],
+    "category": "None of the above",
+    "category_confidence": 0.52,
+    "category_low_confidence": false,
+    "model": "jev-1.13.0"
+  },
+  {
+    "filename": "091_newsletter.md",
+    "status": "ok",
+    "chars": 87,
+    "responsive": false,
+    "responsive_probability": 0.03,
+    "rfps": [],
+    "rfp_scores": [
+      {
+        "rfp_id": "RFP_01",
+        "probability": 0.02
+      },
+      {
+        "rfp_id": "RFP_02",
+        "probability": 0.01
+      },
+      {
+        "rfp_id": "RFP_03",
+        "probability": 0.02
+      },
+      {
+        "rfp_id": "RFP_04",
+        "probability": 0.03
+      },
+      {
+        "rfp_id": "RFP_05",
+        "probability": 0.01
+      },
+      {
+        "rfp_id": "RFP_06",
+        "probability": 0.01
+      },
+      {
+        "rfp_id": "RFP_07",
+        "probability": 0.02
+      },
+      {
+        "rfp_id": "RFP_08",
+        "probability": 0.02
+      },
+      {
+        "rfp_id": "RFP_09",
+        "probability": 0.01
+      },
+      {
+        "rfp_id": "RFP_10",
+        "probability": 0.02
+      }
+    ],
+    "category": "Marketing, Newsletter or Spam",
+    "category_confidence": 1,
+    "category_low_confidence": false,
+    "model": "jev-1.13.0"
+  },
+  {
+    "filename": "092_lunch_order.md",
+    "status": "ok",
+    "chars": 85,
+    "responsive": false,
+    "responsive_probability": 0.02,
+    "rfps": [],
+    "rfp_scores": [
+      {
+        "rfp_id": "RFP_01",
+        "probability": 0.01
+      },
+      {
+        "rfp_id": "RFP_02",
+        "probability": 0.01
+      },
+      {
+        "rfp_id": "RFP_03",
+        "probability": 0.01
+      },
+      {
+        "rfp_id": "RFP_04",
+        "probability": 0.02
+      },
+      {
+        "rfp_id": "RFP_05",
+        "probability": 0.01
+      },
+      {
+        "rfp_id": "RFP_06",
+        "probability": 0.01
+      },
+      {
+        "rfp_id": "RFP_07",
+        "probability": 0.01
+      },
+      {
+        "rfp_id": "RFP_08",
+        "probability": 0.02
+      },
+      {
+        "rfp_id": "RFP_09",
+        "probability": 0.01
+      },
+      {
+        "rfp_id": "RFP_10",
+        "probability": 0.01
+      }
+    ],
+    "category": "Email or Message",
+    "category_confidence": 0.55,
+    "category_low_confidence": false,
+    "model": "jev-1.13.0"
+  },
+  {
+    "filename": "093_vendor_spam.md",
+    "status": "ok",
+    "chars": 115,
+    "responsive": false,
+    "responsive_probability": 0.01,
+    "rfps": [],
+    "rfp_scores": [
+      {
+        "rfp_id": "RFP_01",
+        "probability": 0.01
+      },
+      {
+        "rfp_id": "RFP_02",
+        "probability": 0.01
+      },
+      {
+        "rfp_id": "RFP_03",
+        "probability": 0.01
+      },
+      {
+        "rfp_id": "RFP_04",
+        "probability": 0.01
+      },
+      {
+        "rfp_id": "RFP_05",
+        "probability": 0.01
+      },
+      {
+        "rfp_id": "RFP_06",
+        "probability": 0.01
+      },
+      {
+        "rfp_id": "RFP_07",
+        "probability": 0.01
+      },
+      {
+        "rfp_id": "RFP_08",
+        "probability": 0.01
+      },
+      {
+        "rfp_id": "RFP_09",
+        "probability": 0.01
+      },
+      {
+        "rfp_id": "RFP_10",
+        "probability": 0.01
+      }
+    ],
+    "category": "Marketing, Newsletter or Spam",
+    "category_confidence": 1,
+    "category_low_confidence": false,
+    "model": "jev-1.13.0"
+  },
+  {
+    "filename": "094_chitchat.md",
+    "status": "ok",
+    "chars": 109,
+    "responsive": false,
+    "responsive_probability": 0.02,
+    "rfps": [],
+    "rfp_scores": [
+      {
+        "rfp_id": "RFP_01",
+        "probability": 0.01
+      },
+      {
+        "rfp_id": "RFP_02",
+        "probability": 0.01
+      },
+      {
+        "rfp_id": "RFP_03",
+        "probability": 0.01
+      },
+      {
+        "rfp_id": "RFP_04",
+        "probability": 0.02
+      },
+      {
+        "rfp_id": "RFP_05",
+        "probability": 0.01
+      },
+      {
+        "rfp_id": "RFP_06",
+        "probability": 0.01
+      },
+      {
+        "rfp_id": "RFP_07",
+        "probability": 0.01
+      },
+      {
+        "rfp_id": "RFP_08",
+        "probability": 0.01
+      },
+      {
+        "rfp_id": "RFP_09",
+        "probability": 0.01
+      },
+      {
+        "rfp_id": "RFP_10",
+        "probability": 0.01
+      }
+    ],
+    "category": "Personal or Social Communication",
+    "category_confidence": 0.95,
+    "category_low_confidence": false,
+    "model": "jev-1.13.0"
+  },
+  {
+    "filename": "095_hvac_maintenance.md",
+    "status": "ok",
+    "chars": 126,
+    "responsive": false,
+    "responsive_probability": 0.01,
+    "rfps": [],
+    "rfp_scores": [
+      {
+        "rfp_id": "RFP_01",
+        "probability": 0.01
+      },
+      {
+        "rfp_id": "RFP_02",
+        "probability": 0.01
+      },
+      {
+        "rfp_id": "RFP_03",
+        "probability": 0.01
+      },
+      {
+        "rfp_id": "RFP_04",
+        "probability": 0.01
+      },
+      {
+        "rfp_id": "RFP_05",
+        "probability": 0.01
+      },
+      {
+        "rfp_id": "RFP_06",
+        "probability": 0.01
+      },
+      {
+        "rfp_id": "RFP_07",
+        "probability": 0.01
+      },
+      {
+        "rfp_id": "RFP_08",
+        "probability": 0.01
+      },
+      {
+        "rfp_id": "RFP_09",
+        "probability": 0.01
+      },
+      {
+        "rfp_id": "RFP_10",
+        "probability": 0.01
+      }
+    ],
+    "category": "Other Business Document",
+    "category_confidence": 0.75,
+    "category_low_confidence": false,
+    "model": "jev-1.13.0"
+  },
+  {
+    "filename": "096_other_company_bank.md",
+    "status": "ok",
+    "chars": 152,
+    "responsive": false,
+    "responsive_probability": 0.03,
+    "rfps": [],
+    "rfp_scores": [
+      {
+        "rfp_id": "RFP_01",
+        "probability": 0.02
+      },
+      {
+        "rfp_id": "RFP_02",
+        "probability": 0.01
+      },
+      {
+        "rfp_id": "RFP_03",
+        "probability": 0.02
+      },
+      {
+        "rfp_id": "RFP_04",
+        "probability": 0.03
+      },
+      {
+        "rfp_id": "RFP_05",
+        "probability": 0.01
+      },
+      {
+        "rfp_id": "RFP_06",
+        "probability": 0.01
+      },
+      {
+        "rfp_id": "RFP_07",
+        "probability": 0.01
+      },
+      {
+        "rfp_id": "RFP_08",
+        "probability": 0.02
+      },
+      {
+        "rfp_id": "RFP_09",
+        "probability": 0.03
+      },
+      {
+        "rfp_id": "RFP_10",
+        "probability": 0.02
+      }
+    ],
+    "category": "Accounting Record or Financial Statement",
+    "category_confidence": 0.65,
+    "category_low_confidence": false,
+    "model": "jev-1.13.0"
+  },
+  {
+    "filename": "097_holiday_party.md",
+    "status": "ok",
+    "chars": 99,
+    "responsive": false,
+    "responsive_probability": 0.02,
+    "rfps": [],
+    "rfp_scores": [
+      {
+        "rfp_id": "RFP_01",
+        "probability": 0.01
+      },
+      {
+        "rfp_id": "RFP_02",
+        "probability": 0.01
+      },
+      {
+        "rfp_id": "RFP_03",
+        "probability": 0.01
+      },
+      {
+        "rfp_id": "RFP_04",
+        "probability": 0.02
+      },
+      {
+        "rfp_id": "RFP_05",
+        "probability": 0.01
+      },
+      {
+        "rfp_id": "RFP_06",
+        "probability": 0.01
+      },
+      {
+        "rfp_id": "RFP_07",
+        "probability": 0.01
+      },
+      {
+        "rfp_id": "RFP_08",
+        "probability": 0.01
+      },
+      {
+        "rfp_id": "RFP_09",
+        "probability": 0.01
+      },
+      {
+        "rfp_id": "RFP_10",
+        "probability": 0.01
+      }
+    ],
+    "category": "Other Business Document",
+    "category_confidence": 0.76,
+    "category_low_confidence": false,
+    "model": "jev-1.13.0"
+  },
+  {
+    "filename": "098_it_password_reset.md",
+    "status": "ok",
+    "chars": 118,
+    "responsive": false,
+    "responsive_probability": 0.02,
+    "rfps": [],
+    "rfp_scores": [
+      {
+        "rfp_id": "RFP_01",
+        "probability": 0.01
+      },
+      {
+        "rfp_id": "RFP_02",
+        "probability": 0.01
+      },
+      {
+        "rfp_id": "RFP_03",
+        "probability": 0.01
+      },
+      {
+        "rfp_id": "RFP_04",
+        "probability": 0.02
+      },
+      {
+        "rfp_id": "RFP_05",
+        "probability": 0.01
+      },
+      {
+        "rfp_id": "RFP_06",
+        "probability": 0.01
+      },
+      {
+        "rfp_id": "RFP_07",
+        "probability": 0.01
+      },
+      {
+        "rfp_id": "RFP_08",
+        "probability": 0.01
+      },
+      {
+        "rfp_id": "RFP_09",
+        "probability": 0.01
+      },
+      {
+        "rfp_id": "RFP_10",
+        "probability": 0.01
+      }
+    ],
+    "category": "Email or Message",
+    "category_confidence": 1,
+    "category_low_confidence": false,
+    "model": "jev-1.13.0"
+  },
+  {
+    "filename": "099_gym_receipt.md",
+    "status": "ok",
+    "chars": 76,
+    "responsive": false,
+    "responsive_probability": 0.05,
+    "rfps": [],
+    "rfp_scores": [
+      {
+        "rfp_id": "RFP_01",
+        "probability": 0.01
+      },
+      {
+        "rfp_id": "RFP_02",
+        "probability": 0.01
+      },
+      {
+        "rfp_id": "RFP_03",
+        "probability": 0.01
+      },
+      {
+        "rfp_id": "RFP_04",
+        "probability": 0.02
+      },
+      {
+        "rfp_id": "RFP_05",
+        "probability": 0.01
+      },
+      {
+        "rfp_id": "RFP_06",
+        "probability": 0.01
+      },
+      {
+        "rfp_id": "RFP_07",
+        "probability": 0.01
+      },
+      {
+        "rfp_id": "RFP_08",
+        "probability": 0.03
+      },
+      {
+        "rfp_id": "RFP_09",
+        "probability": 0.05
+      },
+      {
+        "rfp_id": "RFP_10",
+        "probability": 0.01
+      }
+    ],
+    "category": "Invoice or Receipt",
+    "category_confidence": 1,
+    "category_low_confidence": false,
+    "model": "jev-1.13.0"
+  },
+  {
+    "filename": "100_recipe_share.md",
+    "status": "ok",
+    "chars": 78,
+    "responsive": false,
+    "responsive_probability": 0.01,
+    "rfps": [],
+    "rfp_scores": [
+      {
+        "rfp_id": "RFP_01",
+        "probability": 0.01
+      },
+      {
+        "rfp_id": "RFP_02",
+        "probability": 0.01
+      },
+      {
+        "rfp_id": "RFP_03",
+        "probability": 0.01
+      },
+      {
+        "rfp_id": "RFP_04",
+        "probability": 0.01
+      },
+      {
+        "rfp_id": "RFP_05",
+        "probability": 0.01
+      },
+      {
+        "rfp_id": "RFP_06",
+        "probability": 0.01
+      },
+      {
+        "rfp_id": "RFP_07",
+        "probability": 0.01
+      },
+      {
+        "rfp_id": "RFP_08",
+        "probability": 0.01
+      },
+      {
+        "rfp_id": "RFP_09",
+        "probability": 0.01
+      },
+      {
+        "rfp_id": "RFP_10",
+        "probability": 0.01
+      }
+    ],
+    "category": "Personal or Social Communication",
+    "category_confidence": 0.7,
+    "category_low_confidence": false,
+    "model": "jev-1.13.0"
+  },
+  {
+    "filename": "101_newsletter.md",
+    "status": "ok",
+    "chars": 84,
+    "responsive": false,
+    "responsive_probability": 0.02,
+    "rfps": [],
+    "rfp_scores": [
+      {
+        "rfp_id": "RFP_01",
+        "probability": 0.02
+      },
+      {
+        "rfp_id": "RFP_02",
+        "probability": 0.02
+      },
+      {
+        "rfp_id": "RFP_03",
+        "probability": 0.02
+      },
+      {
+        "rfp_id": "RFP_04",
+        "probability": 0.02
+      },
+      {
+        "rfp_id": "RFP_05",
+        "probability": 0.01
+      },
+      {
+        "rfp_id": "RFP_06",
+        "probability": 0.01
+      },
+      {
+        "rfp_id": "RFP_07",
+        "probability": 0.02
+      },
+      {
+        "rfp_id": "RFP_08",
+        "probability": 0.02
+      },
+      {
+        "rfp_id": "RFP_09",
+        "probability": 0.01
+      },
+      {
+        "rfp_id": "RFP_10",
+        "probability": 0.02
+      }
+    ],
+    "category": "Marketing, Newsletter or Spam",
+    "category_confidence": 1,
+    "category_low_confidence": false,
+    "model": "jev-1.13.0"
+  },
+  {
+    "filename": "102_lunch_order.md",
+    "status": "ok",
+    "chars": 76,
+    "responsive": false,
+    "responsive_probability": 0.02,
+    "rfps": [],
+    "rfp_scores": [
+      {
+        "rfp_id": "RFP_01",
+        "probability": 0.01
+      },
+      {
+        "rfp_id": "RFP_02",
+        "probability": 0.01
+      },
+      {
+        "rfp_id": "RFP_03",
+        "probability": 0.01
+      },
+      {
+        "rfp_id": "RFP_04",
+        "probability": 0.02
+      },
+      {
+        "rfp_id": "RFP_05",
+        "probability": 0.01
+      },
+      {
+        "rfp_id": "RFP_06",
+        "probability": 0.01
+      },
+      {
+        "rfp_id": "RFP_07",
+        "probability": 0.01
+      },
+      {
+        "rfp_id": "RFP_08",
+        "probability": 0.02
+      },
+      {
+        "rfp_id": "RFP_09",
+        "probability": 0.01
+      },
+      {
+        "rfp_id": "RFP_10",
+        "probability": 0.01
+      }
+    ],
+    "category": "Email or Message",
+    "category_confidence": 0.5,
+    "category_low_confidence": false,
+    "model": "jev-1.13.0"
+  },
+  {
+    "filename": "103_vendor_spam.md",
+    "status": "ok",
+    "chars": 118,
+    "responsive": false,
+    "responsive_probability": 0.02,
+    "rfps": [],
+    "rfp_scores": [
+      {
+        "rfp_id": "RFP_01",
+        "probability": 0.02
+      },
+      {
+        "rfp_id": "RFP_02",
+        "probability": 0.01
+      },
+      {
+        "rfp_id": "RFP_03",
+        "probability": 0.02
+      },
+      {
+        "rfp_id": "RFP_04",
+        "probability": 0.02
+      },
+      {
+        "rfp_id": "RFP_05",
+        "probability": 0.01
+      },
+      {
+        "rfp_id": "RFP_06",
+        "probability": 0.02
+      },
+      {
+        "rfp_id": "RFP_07",
+        "probability": 0.01
+      },
+      {
+        "rfp_id": "RFP_08",
+        "probability": 0.02
+      },
+      {
+        "rfp_id": "RFP_09",
+        "probability": 0.01
+      },
+      {
+        "rfp_id": "RFP_10",
+        "probability": 0.02
+      }
+    ],
+    "category": "Marketing, Newsletter or Spam",
+    "category_confidence": 0.95,
+    "category_low_confidence": false,
+    "model": "jev-1.13.0"
+  },
+  {
+    "filename": "104_chitchat.md",
+    "status": "ok",
+    "chars": 102,
+    "responsive": false,
+    "responsive_probability": 0.02,
+    "rfps": [],
+    "rfp_scores": [
+      {
+        "rfp_id": "RFP_01",
+        "probability": 0.01
+      },
+      {
+        "rfp_id": "RFP_02",
+        "probability": 0.01
+      },
+      {
+        "rfp_id": "RFP_03",
+        "probability": 0.01
+      },
+      {
+        "rfp_id": "RFP_04",
+        "probability": 0.02
+      },
+      {
+        "rfp_id": "RFP_05",
+        "probability": 0.01
+      },
+      {
+        "rfp_id": "RFP_06",
+        "probability": 0.01
+      },
+      {
+        "rfp_id": "RFP_07",
+        "probability": 0.01
+      },
+      {
+        "rfp_id": "RFP_08",
+        "probability": 0.01
+      },
+      {
+        "rfp_id": "RFP_09",
+        "probability": 0.01
+      },
+      {
+        "rfp_id": "RFP_10",
+        "probability": 0.01
+      }
+    ],
+    "category": "Personal or Social Communication",
+    "category_confidence": 0.95,
+    "category_low_confidence": false,
+    "model": "jev-1.13.0"
+  },
+  {
+    "filename": "105_hvac_maintenance.md",
+    "status": "ok",
+    "chars": 126,
+    "responsive": false,
+    "responsive_probability": 0.01,
+    "rfps": [],
+    "rfp_scores": [
+      {
+        "rfp_id": "RFP_01",
+        "probability": 0.01
+      },
+      {
+        "rfp_id": "RFP_02",
+        "probability": 0.01
+      },
+      {
+        "rfp_id": "RFP_03",
+        "probability": 0.01
+      },
+      {
+        "rfp_id": "RFP_04",
+        "probability": 0.01
+      },
+      {
+        "rfp_id": "RFP_05",
+        "probability": 0.01
+      },
+      {
+        "rfp_id": "RFP_06",
+        "probability": 0.01
+      },
+      {
+        "rfp_id": "RFP_07",
+        "probability": 0.01
+      },
+      {
+        "rfp_id": "RFP_08",
+        "probability": 0.01
+      },
+      {
+        "rfp_id": "RFP_09",
+        "probability": 0.01
+      },
+      {
+        "rfp_id": "RFP_10",
+        "probability": 0.01
+      }
+    ],
+    "category": "Other Business Document",
+    "category_confidence": 0.75,
+    "category_low_confidence": false,
+    "model": "jev-1.13.0"
+  },
+  {
+    "filename": "106_other_company_bank.md",
+    "status": "ok",
+    "chars": 153,
+    "responsive": false,
+    "responsive_probability": 0.03,
+    "rfps": [],
+    "rfp_scores": [
+      {
+        "rfp_id": "RFP_01",
+        "probability": 0.01
+      },
+      {
+        "rfp_id": "RFP_02",
+        "probability": 0.01
+      },
+      {
+        "rfp_id": "RFP_03",
+        "probability": 0.01
+      },
+      {
+        "rfp_id": "RFP_04",
+        "probability": 0.02
+      },
+      {
+        "rfp_id": "RFP_05",
+        "probability": 0.01
+      },
+      {
+        "rfp_id": "RFP_06",
+        "probability": 0.01
+      },
+      {
+        "rfp_id": "RFP_07",
+        "probability": 0.01
+      },
+      {
+        "rfp_id": "RFP_08",
+        "probability": 0.02
+      },
+      {
+        "rfp_id": "RFP_09",
+        "probability": 0.03
+      },
+      {
+        "rfp_id": "RFP_10",
+        "probability": 0.02
+      }
+    ],
+    "category": "Accounting Record or Financial Statement",
+    "category_confidence": 0.7,
+    "category_low_confidence": false,
+    "model": "jev-1.13.0"
+  },
+  {
+    "filename": "107_holiday_party.md",
+    "status": "ok",
+    "chars": 104,
+    "responsive": false,
+    "responsive_probability": 0.02,
+    "rfps": [],
+    "rfp_scores": [
+      {
+        "rfp_id": "RFP_01",
+        "probability": 0.01
+      },
+      {
+        "rfp_id": "RFP_02",
+        "probability": 0.01
+      },
+      {
+        "rfp_id": "RFP_03",
+        "probability": 0.01
+      },
+      {
+        "rfp_id": "RFP_04",
+        "probability": 0.02
+      },
+      {
+        "rfp_id": "RFP_05",
+        "probability": 0.01
+      },
+      {
+        "rfp_id": "RFP_06",
+        "probability": 0.01
+      },
+      {
+        "rfp_id": "RFP_07",
+        "probability": 0.01
+      },
+      {
+        "rfp_id": "RFP_08",
+        "probability": 0.01
+      },
+      {
+        "rfp_id": "RFP_09",
+        "probability": 0.01
+      },
+      {
+        "rfp_id": "RFP_10",
+        "probability": 0.01
+      }
+    ],
+    "category": "Other Business Document",
+    "category_confidence": 0.68,
+    "category_low_confidence": false,
+    "model": "jev-1.13.0"
+  },
+  {
+    "filename": "108_it_password_reset.md",
+    "status": "ok",
+    "chars": 119,
+    "responsive": false,
+    "responsive_probability": 0.02,
+    "rfps": [],
+    "rfp_scores": [
+      {
+        "rfp_id": "RFP_01",
+        "probability": 0.01
+      },
+      {
+        "rfp_id": "RFP_02",
+        "probability": 0.01
+      },
+      {
+        "rfp_id": "RFP_03",
+        "probability": 0.01
+      },
+      {
+        "rfp_id": "RFP_04",
+        "probability": 0.02
+      },
+      {
+        "rfp_id": "RFP_05",
+        "probability": 0.01
+      },
+      {
+        "rfp_id": "RFP_06",
+        "probability": 0.01
+      },
+      {
+        "rfp_id": "RFP_07",
+        "probability": 0.01
+      },
+      {
+        "rfp_id": "RFP_08",
+        "probability": 0.01
+      },
+      {
+        "rfp_id": "RFP_09",
+        "probability": 0.01
+      },
+      {
+        "rfp_id": "RFP_10",
+        "probability": 0.01
+      }
+    ],
+    "category": "Email or Message",
+    "category_confidence": 1,
+    "category_low_confidence": false,
+    "model": "jev-1.13.0"
+  },
+  {
+    "filename": "109_gym_receipt.md",
+    "status": "ok",
+    "chars": 77,
+    "responsive": false,
+    "responsive_probability": 0.04,
+    "rfps": [],
+    "rfp_scores": [
+      {
+        "rfp_id": "RFP_01",
+        "probability": 0.01
+      },
+      {
+        "rfp_id": "RFP_02",
+        "probability": 0.01
+      },
+      {
+        "rfp_id": "RFP_03",
+        "probability": 0.01
+      },
+      {
+        "rfp_id": "RFP_04",
+        "probability": 0.03
+      },
+      {
+        "rfp_id": "RFP_05",
+        "probability": 0.01
+      },
+      {
+        "rfp_id": "RFP_06",
+        "probability": 0.01
+      },
+      {
+        "rfp_id": "RFP_07",
+        "probability": 0.01
+      },
+      {
+        "rfp_id": "RFP_08",
+        "probability": 0.03
+      },
+      {
+        "rfp_id": "RFP_09",
+        "probability": 0.04
+      },
+      {
+        "rfp_id": "RFP_10",
+        "probability": 0.01
+      }
+    ],
+    "category": "Invoice or Receipt",
+    "category_confidence": 1,
+    "category_low_confidence": false,
+    "model": "jev-1.13.0"
+  },
+  {
+    "filename": "110_recipe_share.md",
+    "status": "ok",
+    "chars": 76,
+    "responsive": false,
+    "responsive_probability": 0.01,
+    "rfps": [],
+    "rfp_scores": [
+      {
+        "rfp_id": "RFP_01",
+        "probability": 0.01
+      },
+      {
+        "rfp_id": "RFP_02",
+        "probability": 0.01
+      },
+      {
+        "rfp_id": "RFP_03",
+        "probability": 0.01
+      },
+      {
+        "rfp_id": "RFP_04",
+        "probability": 0.01
+      },
+      {
+        "rfp_id": "RFP_05",
+        "probability": 0.01
+      },
+      {
+        "rfp_id": "RFP_06",
+        "probability": 0.01
+      },
+      {
+        "rfp_id": "RFP_07",
+        "probability": 0.01
+      },
+      {
+        "rfp_id": "RFP_08",
+        "probability": 0.01
+      },
+      {
+        "rfp_id": "RFP_09",
+        "probability": 0.01
+      },
+      {
+        "rfp_id": "RFP_10",
+        "probability": 0.01
+      }
+    ],
+    "category": "None of the above",
+    "category_confidence": 0.55,
+    "category_low_confidence": false,
+    "model": "jev-1.13.0"
+  },
+  {
+    "filename": "111_newsletter.md",
+    "status": "ok",
+    "chars": 85,
+    "responsive": false,
+    "responsive_probability": 0.02,
+    "rfps": [],
+    "rfp_scores": [
+      {
+        "rfp_id": "RFP_01",
+        "probability": 0.02
+      },
+      {
+        "rfp_id": "RFP_02",
+        "probability": 0.01
+      },
+      {
+        "rfp_id": "RFP_03",
+        "probability": 0.02
+      },
+      {
+        "rfp_id": "RFP_04",
+        "probability": 0.02
+      },
+      {
+        "rfp_id": "RFP_05",
+        "probability": 0.01
+      },
+      {
+        "rfp_id": "RFP_06",
+        "probability": 0.01
+      },
+      {
+        "rfp_id": "RFP_07",
+        "probability": 0.01
+      },
+      {
+        "rfp_id": "RFP_08",
+        "probability": 0.01
+      },
+      {
+        "rfp_id": "RFP_09",
+        "probability": 0.01
+      },
+      {
+        "rfp_id": "RFP_10",
+        "probability": 0.02
+      }
+    ],
+    "category": "Marketing, Newsletter or Spam",
+    "category_confidence": 1,
+    "category_low_confidence": false,
+    "model": "jev-1.13.0"
+  },
+  {
+    "filename": "112_lunch_order.md",
+    "status": "ok",
+    "chars": 92,
+    "responsive": false,
+    "responsive_probability": 0.02,
+    "rfps": [],
+    "rfp_scores": [
+      {
+        "rfp_id": "RFP_01",
+        "probability": 0.01
+      },
+      {
+        "rfp_id": "RFP_02",
+        "probability": 0.01
+      },
+      {
+        "rfp_id": "RFP_03",
+        "probability": 0.01
+      },
+      {
+        "rfp_id": "RFP_04",
+        "probability": 0.02
+      },
+      {
+        "rfp_id": "RFP_05",
+        "probability": 0.01
+      },
+      {
+        "rfp_id": "RFP_06",
+        "probability": 0.01
+      },
+      {
+        "rfp_id": "RFP_07",
+        "probability": 0.01
+      },
+      {
+        "rfp_id": "RFP_08",
+        "probability": 0.02
+      },
+      {
+        "rfp_id": "RFP_09",
+        "probability": 0.01
+      },
+      {
+        "rfp_id": "RFP_10",
+        "probability": 0.01
+      }
+    ],
+    "category": "Email or Message",
+    "category_confidence": 0.51,
+    "category_low_confidence": false,
+    "model": "jev-1.13.0"
+  },
+  {
+    "filename": "113_vendor_spam.md",
+    "status": "ok",
+    "chars": 120,
+    "responsive": false,
+    "responsive_probability": 0.02,
+    "rfps": [],
+    "rfp_scores": [
+      {
+        "rfp_id": "RFP_01",
+        "probability": 0.01
+      },
+      {
+        "rfp_id": "RFP_02",
+        "probability": 0.01
+      },
+      {
+        "rfp_id": "RFP_03",
+        "probability": 0.01
+      },
+      {
+        "rfp_id": "RFP_04",
+        "probability": 0.02
+      },
+      {
+        "rfp_id": "RFP_05",
+        "probability": 0.01
+      },
+      {
+        "rfp_id": "RFP_06",
+        "probability": 0.01
+      },
+      {
+        "rfp_id": "RFP_07",
+        "probability": 0.01
+      },
+      {
+        "rfp_id": "RFP_08",
+        "probability": 0.01
+      },
+      {
+        "rfp_id": "RFP_09",
+        "probability": 0.01
+      },
+      {
+        "rfp_id": "RFP_10",
+        "probability": 0.01
+      }
+    ],
+    "category": "Marketing, Newsletter or Spam",
+    "category_confidence": 1,
+    "category_low_confidence": false,
+    "model": "jev-1.13.0"
+  },
+  {
+    "filename": "114_chitchat.md",
+    "status": "ok",
+    "chars": 108,
+    "responsive": false,
+    "responsive_probability": 0.02,
+    "rfps": [],
+    "rfp_scores": [
+      {
+        "rfp_id": "RFP_01",
+        "probability": 0.01
+      },
+      {
+        "rfp_id": "RFP_02",
+        "probability": 0.01
+      },
+      {
+        "rfp_id": "RFP_03",
+        "probability": 0.01
+      },
+      {
+        "rfp_id": "RFP_04",
+        "probability": 0.02
+      },
+      {
+        "rfp_id": "RFP_05",
+        "probability": 0.01
+      },
+      {
+        "rfp_id": "RFP_06",
+        "probability": 0.01
+      },
+      {
+        "rfp_id": "RFP_07",
+        "probability": 0.01
+      },
+      {
+        "rfp_id": "RFP_08",
+        "probability": 0.01
+      },
+      {
+        "rfp_id": "RFP_09",
+        "probability": 0.01
+      },
+      {
+        "rfp_id": "RFP_10",
+        "probability": 0.02
+      }
+    ],
+    "category": "Personal or Social Communication",
+    "category_confidence": 0.95,
+    "category_low_confidence": false,
+    "model": "jev-1.13.0"
+  },
+  {
+    "filename": "115_hvac_maintenance.md",
+    "status": "ok",
+    "chars": 126,
+    "responsive": false,
+    "responsive_probability": 0.01,
+    "rfps": [],
+    "rfp_scores": [
+      {
+        "rfp_id": "RFP_01",
+        "probability": 0.01
+      },
+      {
+        "rfp_id": "RFP_02",
+        "probability": 0.01
+      },
+      {
+        "rfp_id": "RFP_03",
+        "probability": 0.01
+      },
+      {
+        "rfp_id": "RFP_04",
+        "probability": 0.01
+      },
+      {
+        "rfp_id": "RFP_05",
+        "probability": 0.01
+      },
+      {
+        "rfp_id": "RFP_06",
+        "probability": 0.01
+      },
+      {
+        "rfp_id": "RFP_07",
+        "probability": 0.01
+      },
+      {
+        "rfp_id": "RFP_08",
+        "probability": 0.01
+      },
+      {
+        "rfp_id": "RFP_09",
+        "probability": 0.01
+      },
+      {
+        "rfp_id": "RFP_10",
+        "probability": 0.01
+      }
+    ],
+    "category": "Other Business Document",
+    "category_confidence": 0.8,
+    "category_low_confidence": false,
+    "model": "jev-1.13.0"
+  },
+  {
+    "filename": "116_other_company_bank.md",
+    "status": "ok",
+    "chars": 154,
+    "responsive": false,
+    "responsive_probability": 0.03,
+    "rfps": [],
+    "rfp_scores": [
+      {
+        "rfp_id": "RFP_01",
+        "probability": 0.01
+      },
+      {
+        "rfp_id": "RFP_02",
+        "probability": 0.01
+      },
+      {
+        "rfp_id": "RFP_03",
+        "probability": 0.02
+      },
+      {
+        "rfp_id": "RFP_04",
+        "probability": 0.03
+      },
+      {
+        "rfp_id": "RFP_05",
+        "probability": 0.01
+      },
+      {
+        "rfp_id": "RFP_06",
+        "probability": 0.01
+      },
+      {
+        "rfp_id": "RFP_07",
+        "probability": 0.01
+      },
+      {
+        "rfp_id": "RFP_08",
+        "probability": 0.02
+      },
+      {
+        "rfp_id": "RFP_09",
+        "probability": 0.03
+      },
+      {
+        "rfp_id": "RFP_10",
+        "probability": 0.02
+      }
+    ],
+    "category": "Accounting Record or Financial Statement",
+    "category_confidence": 0.67,
+    "category_low_confidence": false,
+    "model": "jev-1.13.0"
+  },
+  {
+    "filename": "117_holiday_party.md",
+    "status": "ok",
+    "chars": 99,
+    "responsive": false,
+    "responsive_probability": 0.01,
+    "rfps": [],
+    "rfp_scores": [
+      {
+        "rfp_id": "RFP_01",
+        "probability": 0.01
+      },
+      {
+        "rfp_id": "RFP_02",
+        "probability": 0.01
+      },
+      {
+        "rfp_id": "RFP_03",
+        "probability": 0.01
+      },
+      {
+        "rfp_id": "RFP_04",
+        "probability": 0.01
+      },
+      {
+        "rfp_id": "RFP_05",
+        "probability": 0.01
+      },
+      {
+        "rfp_id": "RFP_06",
+        "probability": 0.01
+      },
+      {
+        "rfp_id": "RFP_07",
+        "probability": 0.01
+      },
+      {
+        "rfp_id": "RFP_08",
+        "probability": 0.01
+      },
+      {
+        "rfp_id": "RFP_09",
+        "probability": 0.01
+      },
+      {
+        "rfp_id": "RFP_10",
+        "probability": 0.01
+      }
+    ],
+    "category": "Other Business Document",
+    "category_confidence": 0.76,
+    "category_low_confidence": false,
+    "model": "jev-1.13.0"
+  },
+  {
+    "filename": "118_it_password_reset.md",
+    "status": "ok",
+    "chars": 119,
+    "responsive": false,
+    "responsive_probability": 0.02,
+    "rfps": [],
+    "rfp_scores": [
+      {
+        "rfp_id": "RFP_01",
+        "probability": 0.01
+      },
+      {
+        "rfp_id": "RFP_02",
+        "probability": 0.01
+      },
+      {
+        "rfp_id": "RFP_03",
+        "probability": 0.01
+      },
+      {
+        "rfp_id": "RFP_04",
+        "probability": 0.02
+      },
+      {
+        "rfp_id": "RFP_05",
+        "probability": 0.01
+      },
+      {
+        "rfp_id": "RFP_06",
+        "probability": 0.01
+      },
+      {
+        "rfp_id": "RFP_07",
+        "probability": 0.01
+      },
+      {
+        "rfp_id": "RFP_08",
+        "probability": 0.01
+      },
+      {
+        "rfp_id": "RFP_09",
+        "probability": 0.01
+      },
+      {
+        "rfp_id": "RFP_10",
+        "probability": 0.01
+      }
+    ],
+    "category": "Email or Message",
+    "category_confidence": 1,
+    "category_low_confidence": false,
+    "model": "jev-1.13.0"
+  },
+  {
+    "filename": "119_gym_receipt.md",
+    "status": "ok",
+    "chars": 75,
+    "responsive": false,
+    "responsive_probability": 0.05,
+    "rfps": [],
+    "rfp_scores": [
+      {
+        "rfp_id": "RFP_01",
+        "probability": 0.02
+      },
+      {
+        "rfp_id": "RFP_02",
+        "probability": 0.01
+      },
+      {
+        "rfp_id": "RFP_03",
+        "probability": 0.02
+      },
+      {
+        "rfp_id": "RFP_04",
+        "probability": 0.04
+      },
+      {
+        "rfp_id": "RFP_05",
+        "probability": 0.01
+      },
+      {
+        "rfp_id": "RFP_06",
+        "probability": 0.01
+      },
+      {
+        "rfp_id": "RFP_07",
+        "probability": 0.01
+      },
+      {
+        "rfp_id": "RFP_08",
+        "probability": 0.04
+      },
+      {
+        "rfp_id": "RFP_09",
+        "probability": 0.05
+      },
+      {
+        "rfp_id": "RFP_10",
+        "probability": 0.02
+      }
+    ],
+    "category": "Invoice or Receipt",
+    "category_confidence": 1,
+    "category_low_confidence": false,
+    "model": "jev-1.13.0"
+  },
+  {
+    "filename": "120_recipe_share.md",
+    "status": "ok",
+    "chars": 78,
+    "responsive": false,
+    "responsive_probability": 0.01,
+    "rfps": [],
+    "rfp_scores": [
+      {
+        "rfp_id": "RFP_01",
+        "probability": 0.01
+      },
+      {
+        "rfp_id": "RFP_02",
+        "probability": 0.01
+      },
+      {
+        "rfp_id": "RFP_03",
+        "probability": 0.01
+      },
+      {
+        "rfp_id": "RFP_04",
+        "probability": 0.01
+      },
+      {
+        "rfp_id": "RFP_05",
+        "probability": 0.01
+      },
+      {
+        "rfp_id": "RFP_06",
+        "probability": 0.01
+      },
+      {
+        "rfp_id": "RFP_07",
+        "probability": 0.01
+      },
+      {
+        "rfp_id": "RFP_08",
+        "probability": 0.01
+      },
+      {
+        "rfp_id": "RFP_09",
+        "probability": 0.01
+      },
+      {
+        "rfp_id": "RFP_10",
+        "probability": 0.01
+      }
+    ],
+    "category": "Personal or Social Communication",
+    "category_confidence": 0.7,
+    "category_low_confidence": false,
+    "model": "jev-1.13.0"
+  },
+  {
+    "filename": "121_newsletter.md",
+    "status": "ok",
+    "chars": 86,
+    "responsive": false,
+    "responsive_probability": 0.02,
+    "rfps": [],
+    "rfp_scores": [
+      {
+        "rfp_id": "RFP_01",
+        "probability": 0.01
+      },
+      {
+        "rfp_id": "RFP_02",
+        "probability": 0.01
+      },
+      {
+        "rfp_id": "RFP_03",
+        "probability": 0.02
+      },
+      {
+        "rfp_id": "RFP_04",
+        "probability": 0.02
+      },
+      {
+        "rfp_id": "RFP_05",
+        "probability": 0.01
+      },
+      {
+        "rfp_id": "RFP_06",
+        "probability": 0.01
+      },
+      {
+        "rfp_id": "RFP_07",
+        "probability": 0.02
+      },
+      {
+        "rfp_id": "RFP_08",
+        "probability": 0.01
+      },
+      {
+        "rfp_id": "RFP_09",
+        "probability": 0.01
+      },
+      {
+        "rfp_id": "RFP_10",
+        "probability": 0.02
+      }
+    ],
+    "category": "Marketing, Newsletter or Spam",
+    "category_confidence": 1,
+    "category_low_confidence": false,
+    "model": "jev-1.13.0"
+  },
+  {
+    "filename": "122_lunch_order.md",
+    "status": "ok",
+    "chars": 77,
+    "responsive": false,
+    "responsive_probability": 0.02,
+    "rfps": [],
+    "rfp_scores": [
+      {
+        "rfp_id": "RFP_01",
+        "probability": 0.01
+      },
+      {
+        "rfp_id": "RFP_02",
+        "probability": 0.01
+      },
+      {
+        "rfp_id": "RFP_03",
+        "probability": 0.01
+      },
+      {
+        "rfp_id": "RFP_04",
+        "probability": 0.02
+      },
+      {
+        "rfp_id": "RFP_05",
+        "probability": 0.01
+      },
+      {
+        "rfp_id": "RFP_06",
+        "probability": 0.01
+      },
+      {
+        "rfp_id": "RFP_07",
+        "probability": 0.01
+      },
+      {
+        "rfp_id": "RFP_08",
+        "probability": 0.02
+      },
+      {
+        "rfp_id": "RFP_09",
+        "probability": 0.01
+      },
+      {
+        "rfp_id": "RFP_10",
+        "probability": 0.01
+      }
+    ],
+    "category": "Email or Message",
+    "category_confidence": 0.51,
+    "category_low_confidence": false,
+    "model": "jev-1.13.0"
+  },
+  {
+    "filename": "123_vendor_spam.md",
+    "status": "ok",
+    "chars": 120,
+    "responsive": false,
+    "responsive_probability": 0.02,
+    "rfps": [],
+    "rfp_scores": [
+      {
+        "rfp_id": "RFP_01",
+        "probability": 0.01
+      },
+      {
+        "rfp_id": "RFP_02",
+        "probability": 0.01
+      },
+      {
+        "rfp_id": "RFP_03",
+        "probability": 0.01
+      },
+      {
+        "rfp_id": "RFP_04",
+        "probability": 0.02
+      },
+      {
+        "rfp_id": "RFP_05",
+        "probability": 0.01
+      },
+      {
+        "rfp_id": "RFP_06",
+        "probability": 0.01
+      },
+      {
+        "rfp_id": "RFP_07",
+        "probability": 0.01
+      },
+      {
+        "rfp_id": "RFP_08",
+        "probability": 0.01
+      },
+      {
+        "rfp_id": "RFP_09",
+        "probability": 0.01
+      },
+      {
+        "rfp_id": "RFP_10",
+        "probability": 0.01
+      }
+    ],
+    "category": "Marketing, Newsletter or Spam",
+    "category_confidence": 1,
+    "category_low_confidence": false,
+    "model": "jev-1.13.0"
+  },
+  {
+    "filename": "124_chitchat.md",
+    "status": "ok",
+    "chars": 110,
+    "responsive": false,
+    "responsive_probability": 0.02,
+    "rfps": [],
+    "rfp_scores": [
+      {
+        "rfp_id": "RFP_01",
+        "probability": 0.01
+      },
+      {
+        "rfp_id": "RFP_02",
+        "probability": 0.01
+      },
+      {
+        "rfp_id": "RFP_03",
+        "probability": 0.01
+      },
+      {
+        "rfp_id": "RFP_04",
+        "probability": 0.02
+      },
+      {
+        "rfp_id": "RFP_05",
+        "probability": 0.01
+      },
+      {
+        "rfp_id": "RFP_06",
+        "probability": 0.01
+      },
+      {
+        "rfp_id": "RFP_07",
+        "probability": 0.01
+      },
+      {
+        "rfp_id": "RFP_08",
+        "probability": 0.01
+      },
+      {
+        "rfp_id": "RFP_09",
+        "probability": 0.01
+      },
+      {
+        "rfp_id": "RFP_10",
+        "probability": 0.01
+      }
+    ],
+    "category": "Personal or Social Communication",
+    "category_confidence": 0.96,
+    "category_low_confidence": false,
+    "model": "jev-1.13.0"
+  },
+  {
+    "filename": "125_hvac_maintenance.md",
+    "status": "ok",
+    "chars": 126,
+    "responsive": false,
+    "responsive_probability": 0.01,
+    "rfps": [],
+    "rfp_scores": [
+      {
+        "rfp_id": "RFP_01",
+        "probability": 0.01
+      },
+      {
+        "rfp_id": "RFP_02",
+        "probability": 0.01
+      },
+      {
+        "rfp_id": "RFP_03",
+        "probability": 0.01
+      },
+      {
+        "rfp_id": "RFP_04",
+        "probability": 0.01
+      },
+      {
+        "rfp_id": "RFP_05",
+        "probability": 0.01
+      },
+      {
+        "rfp_id": "RFP_06",
+        "probability": 0.01
+      },
+      {
+        "rfp_id": "RFP_07",
+        "probability": 0.01
+      },
+      {
+        "rfp_id": "RFP_08",
+        "probability": 0.01
+      },
+      {
+        "rfp_id": "RFP_09",
+        "probability": 0.01
+      },
+      {
+        "rfp_id": "RFP_10",
+        "probability": 0.01
+      }
+    ],
+    "category": "Other Business Document",
+    "category_confidence": 0.74,
+    "category_low_confidence": false,
+    "model": "jev-1.13.0"
+  },
+  {
+    "filename": "126_other_company_bank.md",
+    "status": "ok",
+    "chars": 153,
+    "responsive": false,
+    "responsive_probability": 0.03,
+    "rfps": [],
+    "rfp_scores": [
+      {
+        "rfp_id": "RFP_01",
+        "probability": 0.01
+      },
+      {
+        "rfp_id": "RFP_02",
+        "probability": 0.01
+      },
+      {
+        "rfp_id": "RFP_03",
+        "probability": 0.02
+      },
+      {
+        "rfp_id": "RFP_04",
+        "probability": 0.02
+      },
+      {
+        "rfp_id": "RFP_05",
+        "probability": 0.01
+      },
+      {
+        "rfp_id": "RFP_06",
+        "probability": 0.01
+      },
+      {
+        "rfp_id": "RFP_07",
+        "probability": 0.01
+      },
+      {
+        "rfp_id": "RFP_08",
+        "probability": 0.02
+      },
+      {
+        "rfp_id": "RFP_09",
+        "probability": 0.03
+      },
+      {
+        "rfp_id": "RFP_10",
+        "probability": 0.02
+      }
+    ],
+    "category": "Accounting Record or Financial Statement",
+    "category_confidence": 0.7,
+    "category_low_confidence": false,
+    "model": "jev-1.13.0"
+  },
+  {
+    "filename": "127_holiday_party.md",
+    "status": "ok",
+    "chars": 104,
+    "responsive": false,
+    "responsive_probability": 0.02,
+    "rfps": [],
+    "rfp_scores": [
+      {
+        "rfp_id": "RFP_01",
+        "probability": 0.01
+      },
+      {
+        "rfp_id": "RFP_02",
+        "probability": 0.01
+      },
+      {
+        "rfp_id": "RFP_03",
+        "probability": 0.01
+      },
+      {
+        "rfp_id": "RFP_04",
+        "probability": 0.02
+      },
+      {
+        "rfp_id": "RFP_05",
+        "probability": 0.01
+      },
+      {
+        "rfp_id": "RFP_06",
+        "probability": 0.01
+      },
+      {
+        "rfp_id": "RFP_07",
+        "probability": 0.01
+      },
+      {
+        "rfp_id": "RFP_08",
+        "probability": 0.01
+      },
+      {
+        "rfp_id": "RFP_09",
+        "probability": 0.01
+      },
+      {
+        "rfp_id": "RFP_10",
+        "probability": 0.01
+      }
+    ],
+    "category": "Other Business Document",
+    "category_confidence": 0.72,
+    "category_low_confidence": false,
+    "model": "jev-1.13.0"
+  },
+  {
+    "filename": "128_it_password_reset.md",
+    "status": "ok",
+    "chars": 118,
+    "responsive": false,
+    "responsive_probability": 0.02,
+    "rfps": [],
+    "rfp_scores": [
+      {
+        "rfp_id": "RFP_01",
+        "probability": 0.01
+      },
+      {
+        "rfp_id": "RFP_02",
+        "probability": 0.01
+      },
+      {
+        "rfp_id": "RFP_03",
+        "probability": 0.01
+      },
+      {
+        "rfp_id": "RFP_04",
+        "probability": 0.02
+      },
+      {
+        "rfp_id": "RFP_05",
+        "probability": 0.01
+      },
+      {
+        "rfp_id": "RFP_06",
+        "probability": 0.01
+      },
+      {
+        "rfp_id": "RFP_07",
+        "probability": 0.01
+      },
+      {
+        "rfp_id": "RFP_08",
+        "probability": 0.01
+      },
+      {
+        "rfp_id": "RFP_09",
+        "probability": 0.01
+      },
+      {
+        "rfp_id": "RFP_10",
+        "probability": 0.01
+      }
+    ],
+    "category": "Email or Message",
+    "category_confidence": 1,
+    "category_low_confidence": false,
+    "model": "jev-1.13.0"
+  },
+  {
+    "filename": "129_gym_receipt.md",
+    "status": "ok",
+    "chars": 76,
+    "responsive": false,
+    "responsive_probability": 0.04,
+    "rfps": [],
+    "rfp_scores": [
+      {
+        "rfp_id": "RFP_01",
+        "probability": 0.01
+      },
+      {
+        "rfp_id": "RFP_02",
+        "probability": 0.01
+      },
+      {
+        "rfp_id": "RFP_03",
+        "probability": 0.01
+      },
+      {
+        "rfp_id": "RFP_04",
+        "probability": 0.03
+      },
+      {
+        "rfp_id": "RFP_05",
+        "probability": 0.01
+      },
+      {
+        "rfp_id": "RFP_06",
+        "probability": 0.01
+      },
+      {
+        "rfp_id": "RFP_07",
+        "probability": 0.01
+      },
+      {
+        "rfp_id": "RFP_08",
+        "probability": 0.03
+      },
+      {
+        "rfp_id": "RFP_09",
+        "probability": 0.04
+      },
+      {
+        "rfp_id": "RFP_10",
+        "probability": 0.01
+      }
+    ],
+    "category": "Invoice or Receipt",
+    "category_confidence": 1,
+    "category_low_confidence": false,
+    "model": "jev-1.13.0"
+  },
+  {
+    "filename": "130_recipe_share.md",
+    "status": "ok",
+    "chars": 76,
+    "responsive": false,
+    "responsive_probability": 0.01,
+    "rfps": [],
+    "rfp_scores": [
+      {
+        "rfp_id": "RFP_01",
+        "probability": 0.01
+      },
+      {
+        "rfp_id": "RFP_02",
+        "probability": 0.01
+      },
+      {
+        "rfp_id": "RFP_03",
+        "probability": 0.01
+      },
+      {
+        "rfp_id": "RFP_04",
+        "probability": 0.01
+      },
+      {
+        "rfp_id": "RFP_05",
+        "probability": 0.01
+      },
+      {
+        "rfp_id": "RFP_06",
+        "probability": 0.01
+      },
+      {
+        "rfp_id": "RFP_07",
+        "probability": 0.01
+      },
+      {
+        "rfp_id": "RFP_08",
+        "probability": 0.01
+      },
+      {
+        "rfp_id": "RFP_09",
+        "probability": 0.01
+      },
+      {
+        "rfp_id": "RFP_10",
+        "probability": 0.01
+      }
+    ],
+    "category": "Personal or Social Communication",
+    "category_confidence": 0.65,
+    "category_low_confidence": false,
+    "model": "jev-1.13.0"
+  },
+  {
+    "filename": "131_newsletter.md",
+    "status": "ok",
+    "chars": 83,
+    "responsive": false,
+    "responsive_probability": 0.02,
+    "rfps": [],
+    "rfp_scores": [
+      {
+        "rfp_id": "RFP_01",
+        "probability": 0.01
+      },
+      {
+        "rfp_id": "RFP_02",
+        "probability": 0.01
+      },
+      {
+        "rfp_id": "RFP_03",
+        "probability": 0.02
+      },
+      {
+        "rfp_id": "RFP_04",
+        "probability": 0.02
+      },
+      {
+        "rfp_id": "RFP_05",
+        "probability": 0.01
+      },
+      {
+        "rfp_id": "RFP_06",
+        "probability": 0.01
+      },
+      {
+        "rfp_id": "RFP_07",
+        "probability": 0.02
+      },
+      {
+        "rfp_id": "RFP_08",
+        "probability": 0.01
+      },
+      {
+        "rfp_id": "RFP_09",
+        "probability": 0.01
+      },
+      {
+        "rfp_id": "RFP_10",
+        "probability": 0.02
+      }
+    ],
+    "category": "Marketing, Newsletter or Spam",
+    "category_confidence": 1,
+    "category_low_confidence": false,
+    "model": "jev-1.13.0"
+  },
+  {
+    "filename": "132_lunch_order.md",
+    "status": "ok",
+    "chars": 96,
+    "responsive": false,
+    "responsive_probability": 0.02,
+    "rfps": [],
+    "rfp_scores": [
+      {
+        "rfp_id": "RFP_01",
+        "probability": 0.01
+      },
+      {
+        "rfp_id": "RFP_02",
+        "probability": 0.01
+      },
+      {
+        "rfp_id": "RFP_03",
+        "probability": 0.01
+      },
+      {
+        "rfp_id": "RFP_04",
+        "probability": 0.02
+      },
+      {
+        "rfp_id": "RFP_05",
+        "probability": 0.01
+      },
+      {
+        "rfp_id": "RFP_06",
+        "probability": 0.01
+      },
+      {
+        "rfp_id": "RFP_07",
+        "probability": 0.01
+      },
+      {
+        "rfp_id": "RFP_08",
+        "probability": 0.02
+      },
+      {
+        "rfp_id": "RFP_09",
+        "probability": 0.01
+      },
+      {
+        "rfp_id": "RFP_10",
+        "probability": 0.01
+      }
+    ],
+    "category": "Email or Message",
+    "category_confidence": 0.49,
+    "category_low_confidence": false,
+    "model": "jev-1.13.0"
+  },
+  {
+    "filename": "133_vendor_spam.md",
+    "status": "ok",
+    "chars": 120,
+    "responsive": false,
+    "responsive_probability": 0.02,
+    "rfps": [],
+    "rfp_scores": [
+      {
+        "rfp_id": "RFP_01",
+        "probability": 0.01
+      },
+      {
+        "rfp_id": "RFP_02",
+        "probability": 0.01
+      },
+      {
+        "rfp_id": "RFP_03",
+        "probability": 0.01
+      },
+      {
+        "rfp_id": "RFP_04",
+        "probability": 0.02
+      },
+      {
+        "rfp_id": "RFP_05",
+        "probability": 0.01
+      },
+      {
+        "rfp_id": "RFP_06",
+        "probability": 0.01
+      },
+      {
+        "rfp_id": "RFP_07",
+        "probability": 0.01
+      },
+      {
+        "rfp_id": "RFP_08",
+        "probability": 0.01
+      },
+      {
+        "rfp_id": "RFP_09",
+        "probability": 0.01
+      },
+      {
+        "rfp_id": "RFP_10",
+        "probability": 0.02
+      }
+    ],
+    "category": "Marketing, Newsletter or Spam",
+    "category_confidence": 0.99,
+    "category_low_confidence": false,
+    "model": "jev-1.13.0"
+  },
+  {
+    "filename": "134_chitchat.md",
+    "status": "ok",
+    "chars": 107,
+    "responsive": false,
+    "responsive_probability": 0.02,
+    "rfps": [],
+    "rfp_scores": [
+      {
+        "rfp_id": "RFP_01",
+        "probability": 0.01
+      },
+      {
+        "rfp_id": "RFP_02",
+        "probability": 0.01
+      },
+      {
+        "rfp_id": "RFP_03",
+        "probability": 0.01
+      },
+      {
+        "rfp_id": "RFP_04",
+        "probability": 0.02
+      },
+      {
+        "rfp_id": "RFP_05",
+        "probability": 0.01
+      },
+      {
+        "rfp_id": "RFP_06",
+        "probability": 0.01
+      },
+      {
+        "rfp_id": "RFP_07",
+        "probability": 0.01
+      },
+      {
+        "rfp_id": "RFP_08",
+        "probability": 0.01
+      },
+      {
+        "rfp_id": "RFP_09",
+        "probability": 0.01
+      },
+      {
+        "rfp_id": "RFP_10",
+        "probability": 0.02
+      }
+    ],
+    "category": "Personal or Social Communication",
+    "category_confidence": 0.96,
+    "category_low_confidence": false,
+    "model": "jev-1.13.0"
+  },
+  {
+    "filename": "135_hvac_maintenance.md",
+    "status": "ok",
+    "chars": 126,
+    "responsive": false,
+    "responsive_probability": 0.01,
+    "rfps": [],
+    "rfp_scores": [
+      {
+        "rfp_id": "RFP_01",
+        "probability": 0.01
+      },
+      {
+        "rfp_id": "RFP_02",
+        "probability": 0.01
+      },
+      {
+        "rfp_id": "RFP_03",
+        "probability": 0.01
+      },
+      {
+        "rfp_id": "RFP_04",
+        "probability": 0.01
+      },
+      {
+        "rfp_id": "RFP_05",
+        "probability": 0.01
+      },
+      {
+        "rfp_id": "RFP_06",
+        "probability": 0.01
+      },
+      {
+        "rfp_id": "RFP_07",
+        "probability": 0.01
+      },
+      {
+        "rfp_id": "RFP_08",
+        "probability": 0.01
+      },
+      {
+        "rfp_id": "RFP_09",
+        "probability": 0.01
+      },
+      {
+        "rfp_id": "RFP_10",
+        "probability": 0.01
+      }
+    ],
+    "category": "Other Business Document",
+    "category_confidence": 0.75,
+    "category_low_confidence": false,
+    "model": "jev-1.13.0"
+  },
+  {
+    "filename": "136_other_company_bank.md",
+    "status": "ok",
+    "chars": 154,
+    "responsive": false,
+    "responsive_probability": 0.03,
+    "rfps": [],
+    "rfp_scores": [
+      {
+        "rfp_id": "RFP_01",
+        "probability": 0.02
+      },
+      {
+        "rfp_id": "RFP_02",
+        "probability": 0.01
+      },
+      {
+        "rfp_id": "RFP_03",
+        "probability": 0.02
+      },
+      {
+        "rfp_id": "RFP_04",
+        "probability": 0.03
+      },
+      {
+        "rfp_id": "RFP_05",
+        "probability": 0.01
+      },
+      {
+        "rfp_id": "RFP_06",
+        "probability": 0.01
+      },
+      {
+        "rfp_id": "RFP_07",
+        "probability": 0.01
+      },
+      {
+        "rfp_id": "RFP_08",
+        "probability": 0.02
+      },
+      {
+        "rfp_id": "RFP_09",
+        "probability": 0.02
+      },
+      {
+        "rfp_id": "RFP_10",
+        "probability": 0.02
+      }
+    ],
+    "category": "Accounting Record or Financial Statement",
+    "category_confidence": 0.65,
+    "category_low_confidence": false,
+    "model": "jev-1.13.0"
+  },
+  {
+    "filename": "137_holiday_party.md",
+    "status": "ok",
+    "chars": 99,
+    "responsive": false,
+    "responsive_probability": 0.01,
+    "rfps": [],
+    "rfp_scores": [
+      {
+        "rfp_id": "RFP_01",
+        "probability": 0.01
+      },
+      {
+        "rfp_id": "RFP_02",
+        "probability": 0.01
+      },
+      {
+        "rfp_id": "RFP_03",
+        "probability": 0.01
+      },
+      {
+        "rfp_id": "RFP_04",
+        "probability": 0.01
+      },
+      {
+        "rfp_id": "RFP_05",
+        "probability": 0.01
+      },
+      {
+        "rfp_id": "RFP_06",
+        "probability": 0.01
+      },
+      {
+        "rfp_id": "RFP_07",
+        "probability": 0.01
+      },
+      {
+        "rfp_id": "RFP_08",
+        "probability": 0.01
+      },
+      {
+        "rfp_id": "RFP_09",
+        "probability": 0.01
+      },
+      {
+        "rfp_id": "RFP_10",
+        "probability": 0.01
+      }
+    ],
+    "category": "Other Business Document",
+    "category_confidence": 0.73,
+    "category_low_confidence": false,
+    "model": "jev-1.13.0"
+  },
+  {
+    "filename": "138_it_password_reset.md",
+    "status": "ok",
+    "chars": 119,
+    "responsive": false,
+    "responsive_probability": 0.02,
+    "rfps": [],
+    "rfp_scores": [
+      {
+        "rfp_id": "RFP_01",
+        "probability": 0.01
+      },
+      {
+        "rfp_id": "RFP_02",
+        "probability": 0.01
+      },
+      {
+        "rfp_id": "RFP_03",
+        "probability": 0.01
+      },
+      {
+        "rfp_id": "RFP_04",
+        "probability": 0.02
+      },
+      {
+        "rfp_id": "RFP_05",
+        "probability": 0.01
+      },
+      {
+        "rfp_id": "RFP_06",
+        "probability": 0.01
+      },
+      {
+        "rfp_id": "RFP_07",
+        "probability": 0.01
+      },
+      {
+        "rfp_id": "RFP_08",
+        "probability": 0.01
+      },
+      {
+        "rfp_id": "RFP_09",
+        "probability": 0.01
+      },
+      {
+        "rfp_id": "RFP_10",
+        "probability": 0.01
+      }
+    ],
+    "category": "Email or Message",
+    "category_confidence": 1,
+    "category_low_confidence": false,
+    "model": "jev-1.13.0"
+  },
+  {
+    "filename": "139_gym_receipt.md",
+    "status": "ok",
+    "chars": 76,
+    "responsive": false,
+    "responsive_probability": 0.06,
+    "rfps": [],
+    "rfp_scores": [
+      {
+        "rfp_id": "RFP_01",
+        "probability": 0.02
+      },
+      {
+        "rfp_id": "RFP_02",
+        "probability": 0.01
+      },
+      {
+        "rfp_id": "RFP_03",
+        "probability": 0.02
+      },
+      {
+        "rfp_id": "RFP_04",
+        "probability": 0.04
+      },
+      {
+        "rfp_id": "RFP_05",
+        "probability": 0.01
+      },
+      {
+        "rfp_id": "RFP_06",
+        "probability": 0.01
+      },
+      {
+        "rfp_id": "RFP_07",
+        "probability": 0.01
+      },
+      {
+        "rfp_id": "RFP_08",
+        "probability": 0.04
+      },
+      {
+        "rfp_id": "RFP_09",
+        "probability": 0.06
+      },
+      {
+        "rfp_id": "RFP_10",
+        "probability": 0.02
+      }
+    ],
+    "category": "Invoice or Receipt",
+    "category_confidence": 1,
+    "category_low_confidence": false,
+    "model": "jev-1.13.0"
+  },
+  {
+    "filename": "140_recipe_share.md",
+    "status": "ok",
+    "chars": 84,
+    "responsive": false,
+    "responsive_probability": 0.01,
+    "rfps": [],
+    "rfp_scores": [
+      {
+        "rfp_id": "RFP_01",
+        "probability": 0.01
+      },
+      {
+        "rfp_id": "RFP_02",
+        "probability": 0.01
+      },
+      {
+        "rfp_id": "RFP_03",
+        "probability": 0.01
+      },
+      {
+        "rfp_id": "RFP_04",
+        "probability": 0.01
+      },
+      {
+        "rfp_id": "RFP_05",
+        "probability": 0.01
+      },
+      {
+        "rfp_id": "RFP_06",
+        "probability": 0.01
+      },
+      {
+        "rfp_id": "RFP_07",
+        "probability": 0.01
+      },
+      {
+        "rfp_id": "RFP_08",
+        "probability": 0.01
+      },
+      {
+        "rfp_id": "RFP_09",
+        "probability": 0.01
+      },
+      {
+        "rfp_id": "RFP_10",
+        "probability": 0.01
+      }
+    ],
+    "category": "Personal or Social Communication",
+    "category_confidence": 0.58,
+    "category_low_confidence": false,
+    "model": "jev-1.13.0"
+  },
+  {
+    "filename": "141_newsletter.md",
+    "status": "ok",
+    "chars": 82,
+    "responsive": false,
+    "responsive_probability": 0.02,
+    "rfps": [],
+    "rfp_scores": [
+      {
+        "rfp_id": "RFP_01",
+        "probability": 0.02
+      },
+      {
+        "rfp_id": "RFP_02",
+        "probability": 0.01
+      },
+      {
+        "rfp_id": "RFP_03",
+        "probability": 0.02
+      },
+      {
+        "rfp_id": "RFP_04",
+        "probability": 0.02
+      },
+      {
+        "rfp_id": "RFP_05",
+        "probability": 0.01
+      },
+      {
+        "rfp_id": "RFP_06",
+        "probability": 0.01
+      },
+      {
+        "rfp_id": "RFP_07",
+        "probability": 0.01
+      },
+      {
+        "rfp_id": "RFP_08",
+        "probability": 0.01
+      },
+      {
+        "rfp_id": "RFP_09",
+        "probability": 0.01
+      },
+      {
+        "rfp_id": "RFP_10",
+        "probability": 0.02
+      }
+    ],
+    "category": "Marketing, Newsletter or Spam",
+    "category_confidence": 1,
+    "category_low_confidence": false,
+    "model": "jev-1.13.0"
+  },
+  {
+    "filename": "142_lunch_order.md",
+    "status": "ok",
+    "chars": 92,
+    "responsive": false,
+    "responsive_probability": 0.02,
+    "rfps": [],
+    "rfp_scores": [
+      {
+        "rfp_id": "RFP_01",
+        "probability": 0.01
+      },
+      {
+        "rfp_id": "RFP_02",
+        "probability": 0.01
+      },
+      {
+        "rfp_id": "RFP_03",
+        "probability": 0.01
+      },
+      {
+        "rfp_id": "RFP_04",
+        "probability": 0.02
+      },
+      {
+        "rfp_id": "RFP_05",
+        "probability": 0.01
+      },
+      {
+        "rfp_id": "RFP_06",
+        "probability": 0.01
+      },
+      {
+        "rfp_id": "RFP_07",
+        "probability": 0.01
+      },
+      {
+        "rfp_id": "RFP_08",
+        "probability": 0.02
+      },
+      {
+        "rfp_id": "RFP_09",
+        "probability": 0.01
+      },
+      {
+        "rfp_id": "RFP_10",
+        "probability": 0.01
+      }
+    ],
+    "category": "Email or Message",
+    "category_confidence": 0.49,
+    "category_low_confidence": false,
+    "model": "jev-1.13.0"
+  },
+  {
+    "filename": "143_vendor_spam.md",
+    "status": "ok",
+    "chars": 118,
+    "responsive": false,
+    "responsive_probability": 0.02,
+    "rfps": [],
+    "rfp_scores": [
+      {
+        "rfp_id": "RFP_01",
+        "probability": 0.02
+      },
+      {
+        "rfp_id": "RFP_02",
+        "probability": 0.01
+      },
+      {
+        "rfp_id": "RFP_03",
+        "probability": 0.02
+      },
+      {
+        "rfp_id": "RFP_04",
+        "probability": 0.02
+      },
+      {
+        "rfp_id": "RFP_05",
+        "probability": 0.01
+      },
+      {
+        "rfp_id": "RFP_06",
+        "probability": 0.02
+      },
+      {
+        "rfp_id": "RFP_07",
+        "probability": 0.02
+      },
+      {
+        "rfp_id": "RFP_08",
+        "probability": 0.01
+      },
+      {
+        "rfp_id": "RFP_09",
+        "probability": 0.01
+      },
+      {
+        "rfp_id": "RFP_10",
+        "probability": 0.02
+      }
+    ],
+    "category": "Marketing, Newsletter or Spam",
+    "category_confidence": 0.95,
+    "category_low_confidence": false,
+    "model": "jev-1.13.0"
+  },
+  {
+    "filename": "144_chitchat.md",
+    "status": "ok",
+    "chars": 108,
+    "responsive": false,
+    "responsive_probability": 0.02,
+    "rfps": [],
+    "rfp_scores": [
+      {
+        "rfp_id": "RFP_01",
+        "probability": 0.01
+      },
+      {
+        "rfp_id": "RFP_02",
+        "probability": 0.01
+      },
+      {
+        "rfp_id": "RFP_03",
+        "probability": 0.02
+      },
+      {
+        "rfp_id": "RFP_04",
+        "probability": 0.02
+      },
+      {
+        "rfp_id": "RFP_05",
+        "probability": 0.01
+      },
+      {
+        "rfp_id": "RFP_06",
+        "probability": 0.01
+      },
+      {
+        "rfp_id": "RFP_07",
+        "probability": 0.01
+      },
+      {
+        "rfp_id": "RFP_08",
+        "probability": 0.01
+      },
+      {
+        "rfp_id": "RFP_09",
+        "probability": 0.01
+      },
+      {
+        "rfp_id": "RFP_10",
+        "probability": 0.02
+      }
+    ],
+    "category": "Personal or Social Communication",
+    "category_confidence": 0.94,
+    "category_low_confidence": false,
+    "model": "jev-1.13.0"
+  },
+  {
+    "filename": "145_hvac_maintenance.md",
+    "status": "ok",
+    "chars": 126,
+    "responsive": false,
+    "responsive_probability": 0.01,
+    "rfps": [],
+    "rfp_scores": [
+      {
+        "rfp_id": "RFP_01",
+        "probability": 0.01
+      },
+      {
+        "rfp_id": "RFP_02",
+        "probability": 0.01
+      },
+      {
+        "rfp_id": "RFP_03",
+        "probability": 0.01
+      },
+      {
+        "rfp_id": "RFP_04",
+        "probability": 0.01
+      },
+      {
+        "rfp_id": "RFP_05",
+        "probability": 0.01
+      },
+      {
+        "rfp_id": "RFP_06",
+        "probability": 0.01
+      },
+      {
+        "rfp_id": "RFP_07",
+        "probability": 0.01
+      },
+      {
+        "rfp_id": "RFP_08",
+        "probability": 0.01
+      },
+      {
+        "rfp_id": "RFP_09",
+        "probability": 0.01
+      },
+      {
+        "rfp_id": "RFP_10",
+        "probability": 0.01
+      }
+    ],
+    "category": "Other Business Document",
+    "category_confidence": 0.75,
+    "category_low_confidence": false,
+    "model": "jev-1.13.0"
+  },
+  {
+    "filename": "146_other_company_bank.md",
+    "status": "ok",
+    "chars": 154,
+    "responsive": false,
+    "responsive_probability": 0.03,
+    "rfps": [],
+    "rfp_scores": [
+      {
+        "rfp_id": "RFP_01",
+        "probability": 0.02
+      },
+      {
+        "rfp_id": "RFP_02",
+        "probability": 0.01
+      },
+      {
+        "rfp_id": "RFP_03",
+        "probability": 0.02
+      },
+      {
+        "rfp_id": "RFP_04",
+        "probability": 0.03
+      },
+      {
+        "rfp_id": "RFP_05",
+        "probability": 0.01
+      },
+      {
+        "rfp_id": "RFP_06",
+        "probability": 0.01
+      },
+      {
+        "rfp_id": "RFP_07",
+        "probability": 0.01
+      },
+      {
+        "rfp_id": "RFP_08",
+        "probability": 0.02
+      },
+      {
+        "rfp_id": "RFP_09",
+        "probability": 0.03
+      },
+      {
+        "rfp_id": "RFP_10",
+        "probability": 0.02
+      }
+    ],
+    "category": "Accounting Record or Financial Statement",
+    "category_confidence": 0.67,
+    "category_low_confidence": false,
+    "model": "jev-1.13.0"
+  },
+  {
+    "filename": "147_holiday_party.md",
+    "status": "ok",
+    "chars": 99,
+    "responsive": false,
+    "responsive_probability": 0.02,
+    "rfps": [],
+    "rfp_scores": [
+      {
+        "rfp_id": "RFP_01",
+        "probability": 0.01
+      },
+      {
+        "rfp_id": "RFP_02",
+        "probability": 0.01
+      },
+      {
+        "rfp_id": "RFP_03",
+        "probability": 0.01
+      },
+      {
+        "rfp_id": "RFP_04",
+        "probability": 0.02
+      },
+      {
+        "rfp_id": "RFP_05",
+        "probability": 0.01
+      },
+      {
+        "rfp_id": "RFP_06",
+        "probability": 0.01
+      },
+      {
+        "rfp_id": "RFP_07",
+        "probability": 0.01
+      },
+      {
+        "rfp_id": "RFP_08",
+        "probability": 0.01
+      },
+      {
+        "rfp_id": "RFP_09",
+        "probability": 0.01
+      },
+      {
+        "rfp_id": "RFP_10",
+        "probability": 0.01
+      }
+    ],
+    "category": "Other Business Document",
+    "category_confidence": 0.75,
+    "category_low_confidence": false,
+    "model": "jev-1.13.0"
+  },
+  {
+    "filename": "148_it_password_reset.md",
+    "status": "ok",
+    "chars": 119,
+    "responsive": false,
+    "responsive_probability": 0.02,
+    "rfps": [],
+    "rfp_scores": [
+      {
+        "rfp_id": "RFP_01",
+        "probability": 0.01
+      },
+      {
+        "rfp_id": "RFP_02",
+        "probability": 0.01
+      },
+      {
+        "rfp_id": "RFP_03",
+        "probability": 0.01
+      },
+      {
+        "rfp_id": "RFP_04",
+        "probability": 0.02
+      },
+      {
+        "rfp_id": "RFP_05",
+        "probability": 0.01
+      },
+      {
+        "rfp_id": "RFP_06",
+        "probability": 0.01
+      },
+      {
+        "rfp_id": "RFP_07",
+        "probability": 0.01
+      },
+      {
+        "rfp_id": "RFP_08",
+        "probability": 0.01
+      },
+      {
+        "rfp_id": "RFP_09",
+        "probability": 0.01
+      },
+      {
+        "rfp_id": "RFP_10",
+        "probability": 0.01
+      }
+    ],
+    "category": "Email or Message",
+    "category_confidence": 1,
+    "category_low_confidence": false,
+    "model": "jev-1.13.0"
+  },
+  {
+    "filename": "149_gym_receipt.md",
+    "status": "ok",
+    "chars": 76,
+    "responsive": false,
+    "responsive_probability": 0.05,
+    "rfps": [],
+    "rfp_scores": [
+      {
+        "rfp_id": "RFP_01",
+        "probability": 0.02
+      },
+      {
+        "rfp_id": "RFP_02",
+        "probability": 0.01
+      },
+      {
+        "rfp_id": "RFP_03",
+        "probability": 0.02
+      },
+      {
+        "rfp_id": "RFP_04",
+        "probability": 0.04
+      },
+      {
+        "rfp_id": "RFP_05",
+        "probability": 0.01
+      },
+      {
+        "rfp_id": "RFP_06",
+        "probability": 0.01
+      },
+      {
+        "rfp_id": "RFP_07",
+        "probability": 0.01
+      },
+      {
+        "rfp_id": "RFP_08",
+        "probability": 0.03
+      },
+      {
+        "rfp_id": "RFP_09",
+        "probability": 0.05
+      },
+      {
+        "rfp_id": "RFP_10",
+        "probability": 0.02
+      }
+    ],
+    "category": "Invoice or Receipt",
+    "category_confidence": 1,
+    "category_low_confidence": false,
+    "model": "jev-1.13.0"
+  },
+  {
+    "filename": "150_recipe_share.md",
+    "status": "ok",
+    "chars": 78,
+    "responsive": false,
+    "responsive_probability": 0.01,
+    "rfps": [],
+    "rfp_scores": [
+      {
+        "rfp_id": "RFP_01",
+        "probability": 0.01
+      },
+      {
+        "rfp_id": "RFP_02",
+        "probability": 0.01
+      },
+      {
+        "rfp_id": "RFP_03",
+        "probability": 0.01
+      },
+      {
+        "rfp_id": "RFP_04",
+        "probability": 0.01
+      },
+      {
+        "rfp_id": "RFP_05",
+        "probability": 0.01
+      },
+      {
+        "rfp_id": "RFP_06",
+        "probability": 0.01
+      },
+      {
+        "rfp_id": "RFP_07",
+        "probability": 0.01
+      },
+      {
+        "rfp_id": "RFP_08",
+        "probability": 0.01
+      },
+      {
+        "rfp_id": "RFP_09",
+        "probability": 0.01
+      },
+      {
+        "rfp_id": "RFP_10",
+        "probability": 0.01
+      }
+    ],
+    "category": "Personal or Social Communication",
+    "category_confidence": 0.6,
+    "category_low_confidence": false,
+    "model": "jev-1.13.0"
+  }
+]

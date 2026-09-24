@@ -1,0 +1,5 @@
+CITY OF FRESNO — PARKING CITATION #57053452
+Plate 5KLM729  Violation: Expired meter
+Fine $65.00  Due 03/11/2023
+
+Doc ID 955201844

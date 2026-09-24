@@ -1,0 +1,4 @@
+CVS Pharmacy
+RX #0855293  qty 84
+Copay $35.60
+11/07/2019  ExtraCare 0435325538

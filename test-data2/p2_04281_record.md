@@ -1,0 +1,5 @@
+CONFIDENTIAL
+Rite Aid Pharmacy
+RX #0718273  qty 28
+Copay $7.02
+04/20/2021  ExtraCare 1439172293

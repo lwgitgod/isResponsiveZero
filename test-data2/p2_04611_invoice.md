@@ -1,0 +1,4 @@
+CVS Pharmacy
+RX #3415425  qty 56
+Copay $10.09
+10/08/2025  ExtraCare 8064013928

@@ -1,0 +1,4 @@
+CVS Pharmacy
+RX #8049297  qty 64
+Copay $33.08
+08/27/2022  ExtraCare 0304704589

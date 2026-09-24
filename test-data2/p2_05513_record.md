@@ -1,0 +1,21 @@
+## Pacific Crest Bank — Business Checking
+CEDAR RIDGE LANDSCAPING   ****3906
+
+| Date | Description | Amount |
+|---|---|---|
+| 12/10 | WIRE OUT BLAKE HARDWARE SUPPLY | $14,108.94 |
+| 12/15 | DEPOSIT | $12,338.34 |
+| 12/15 | DEPOSIT | $14,529.92 |
+| 12/15 | WIRE OUT BLAKE HARDWARE SUPPLY | $13,776.93 |
+| 12/18 | CHECK 431 | $16,694.53 |
+| 12/20 | DEPOSIT | $2,695.12 |
+| 12/22 | DEPOSIT | $16,516.86 |
+| 12/25 | PAYROLL ADP | $4,973.36 |
+| 12/26 | ACH SYSCO | $7,520.84 |
+| 12/27 | WIRE OUT BLAKE HARDWARE SUPPLY | $12,751.06 |
+| 12/30 | WIRE OUT BLAKELY & SONS | $4,807.66 |
+| 01/02 | DEPOSIT | $137.68 |
+| 01/04 | WIRE OUT BLAKE HARDWARE SUPPLY | $1,275.86 |
+| 01/07 | CHECK 842 | $5,830.47 |
+
+-- end of document --

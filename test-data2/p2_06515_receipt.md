@@ -1,0 +1,4 @@
+CVS Pharmacy
+RX #5147337  qty 76
+Copay $21.57
+02/14/2021  ExtraCare 7485813716

@@ -1,0 +1,4 @@
+CVS Pharmacy
+RX #0764479  qty 36
+Copay $35.43
+04/17/2019  ExtraCare 8740984022

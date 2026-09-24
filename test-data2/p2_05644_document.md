@@ -1,0 +1,5 @@
+DRAFT
+
+CITY OF RENO — PARKING CITATION #07538742
+Plate 8XYZ340  Violation: Expired meter
+Fine $45.00  Due 11/22/2025

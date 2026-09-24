@@ -1,0 +1,18 @@
+# CORPORATE CARD STATEMENT
+Company: Brightline Ventures, Inc.   Card ****7781   Cardholder: JORDAN BLAKE
+Closing date: 2022-03-03
+
+| Post | Merchant | Amount |
+|---|---|---|
+| 02/19 | UBER | $2,250.23 |
+| 02/11 | DELTA AIR LINES | $688.55 |
+| 02/28 | PINECREST LEGAL LLP | $2,128.46 |
+| 02/26 | PETSMART | $7,822.91 |
+| 02/07 | DELTA AIR LINES | $949.74 |
+| 02/09 | AMAZON WEB SERVICES | $2,125.21 |
+| 02/25 | PORSCHE CENTER OAKMONT | $4,334.12 |
+| 02/17 | CLOUDNINE HOSTING | $2,397.22 |
+| 02/13 | LEDGERLY BOOKKEEPING | $1,192.92 |
+| 02/18 | ADOBE | $1,517.96 |
+
+Paid in full from BRIGHTLINE VENTURES INC ****4417.

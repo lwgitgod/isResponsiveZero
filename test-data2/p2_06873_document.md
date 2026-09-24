@@ -1,0 +1,3 @@
+CITY OF BOISE — PARKING CITATION #80650188
+Plate 1XYZ234  Violation: Expired meter
+Fine $45.00  Due 11/19/2020

@@ -1,0 +1,3 @@
+CITY OF EUGENE — PARKING CITATION #67541835
+Plate 2XYZ357  Violation: Expired meter
+Fine $45.00  Due 12/20/2024

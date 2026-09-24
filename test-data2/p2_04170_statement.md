@@ -1,0 +1,28 @@
+MERIDIAN NATIONAL BANK BUSINESS ANALYZED CHECKING
+BRIGHTLINE VENTURES INC
+400 Harbor Blvd, Suite 210, Oakmont, CA 94021
+Account number: XXXX-XXXX-4417   Period ending 03/05/2021
+
+Beginning balance $97,558.12
+| Date | Description | Debit | Credit | Balance |
+|---|---|---|---|---|
+| 2021-02-03 | ACH DEBIT UBER | $173.17 |  | $32,673.43 |
+| 2021-02-05 | POS PG&E 2721 | $4,471.21 |  | $28,202.22 |
+| 2021-02-05 | Bill pay: Amazon Web Services | $2,424.97 |  | $25,777.25 |
+| 2021-02-06 | POS KEYSTONE INSURANCE 6105 | $878.21 |  | $24,899.04 |
+| 2021-02-07 | POS PG&E 1853 | $7,965.07 |  | $16,933.97 |
+| 2021-02-10 | STRIPE TRANSFER ST-742323 |  | $13,249.80 | $30,183.77 |
+| 2021-02-12 | ACH DEBIT FIGMA | $619.15 |  | $29,564.62 |
+| 2021-02-13 | POS LINKEDIN ADS 4089 | $6,939.21 |  | $22,625.41 |
+| 2021-02-13 | WeWork — Rent | $8,977.33 |  | $13,648.08 |
+| 2021-02-14 | ACH DEBIT STAPLES | $7,215.28 |  | $6,432.80 |
+| 2021-02-15 | ACH CREDIT BAYVIEW DENTAL |  | $8,892.43 | $15,325.23 |
+| 2021-02-17 | POS GUSTO 6393 | $4,913.22 |  | $10,412.01 |
+| 2021-02-19 | ACH CREDIT BAYVIEW DENTAL |  | $8,792.08 | $19,204.09 |
+| 2021-02-22 | ACH DEBIT WEWORK | $5,138.37 |  | $14,065.72 |
+| 2021-02-22 | PG&E — Utilities | $1,768.35 |  | $12,297.37 |
+| 2021-02-25 | ACH DEBIT WEWORK | $4,979.25 |  | $7,318.12 |
+| 2021-02-25 | Cloudnine Hosting — Hosting | $1,699.60 |  | $5,618.52 |
+| 2021-03-05 | ACH CREDIT CEDAR HEALTH PARTNERS |  | $38,682.90 | $44,301.42 |
+
+Total fees: $4.98

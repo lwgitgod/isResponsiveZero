@@ -1,0 +1,4 @@
+CVS Pharmacy
+RX #8350361  qty 74
+Copay $35.26
+06/18/2023  ExtraCare 7182184052

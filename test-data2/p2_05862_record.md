@@ -1,0 +1,19 @@
+Corner Hardware inventory 2021-04-03
+
+```csv
+SKU,Item,Qty,Unit cost
+731004,nails,43,14.93
+479684,nails,168,10.68
+814154,sugar,39,23.65
+269094,tulips,90,22.33
+281239,nails,36,8.08
+561816,hammer,179,7.00
+822200,sugar,63,5.28
+194001,flour 25lb,109,30.66
+709609,hammer,7,23.73
+148908,nails,49,8.80
+048242,sugar,123,29.06
+925201,tulips,103,21.17
+090061,sugar,160,12.26
+908574,tulips,90,38.12
+```

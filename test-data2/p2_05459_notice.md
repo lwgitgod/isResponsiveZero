@@ -1,0 +1,3 @@
+CITY OF SACRAMENTO — PARKING CITATION #64036588
+Plate 4ABC745  Violation: Expired meter
+Fine $65.00  Due 04/16/2022

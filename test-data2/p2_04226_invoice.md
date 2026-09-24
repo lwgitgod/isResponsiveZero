@@ -1,0 +1,4 @@
+CVS Pharmacy
+RX #2939915  qty 38
+Copay $19.71
+01/21/2020  ExtraCare 1430623175

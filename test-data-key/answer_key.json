@@ -1,0 +1,1135 @@
+{
+  "001_stock_ledger.md": {
+    "responsive": true,
+    "strength": "strong",
+    "rfps": [
+      "RFP_01",
+      "RFP_02",
+      "RFP_06"
+    ],
+    "category": "Stock Certificate, Ledger or Cap Table"
+  },
+  "002_articles_of_incorporation.md": {
+    "responsive": true,
+    "strength": "strong",
+    "rfps": [
+      "RFP_05",
+      "RFP_01"
+    ],
+    "category": "Corporate Formation or Governance Document"
+  },
+  "003_bank_statement_transfers.md": {
+    "responsive": true,
+    "strength": "strong",
+    "rfps": [
+      "RFP_09",
+      "RFP_08"
+    ],
+    "category": "Bank Statement or Transaction Record"
+  },
+  "004_board_minutes.md": {
+    "responsive": true,
+    "strength": "strong",
+    "rfps": [
+      "RFP_05",
+      "RFP_01",
+      "RFP_06"
+    ],
+    "category": "Corporate Formation or Governance Document"
+  },
+  "005_wire_confirmation.md": {
+    "responsive": true,
+    "strength": "strong",
+    "rfps": [
+      "RFP_08",
+      "RFP_09"
+    ],
+    "category": "Bank Statement or Transaction Record"
+  },
+  "006_general_ledger.md": {
+    "responsive": true,
+    "strength": "strong",
+    "rfps": [
+      "RFP_09",
+      "RFP_08"
+    ],
+    "category": "Accounting Record or Financial Statement"
+  },
+  "007_founder_agreement.md": {
+    "responsive": true,
+    "strength": "strong",
+    "rfps": [
+      "RFP_03",
+      "RFP_01",
+      "RFP_06",
+      "RFP_04"
+    ],
+    "category": "Ownership or Equity Agreement"
+  },
+  "008_subscription_agreement.md": {
+    "responsive": true,
+    "strength": "strong",
+    "rfps": [
+      "RFP_02",
+      "RFP_04",
+      "RFP_06"
+    ],
+    "category": "Ownership or Equity Agreement"
+  },
+  "009_cap_table.md": {
+    "responsive": true,
+    "strength": "strong",
+    "rfps": [
+      "RFP_02",
+      "RFP_01"
+    ],
+    "category": "Stock Certificate, Ledger or Cap Table"
+  },
+  "010_bylaws.md": {
+    "responsive": true,
+    "strength": "strong",
+    "rfps": [
+      "RFP_05"
+    ],
+    "category": "Corporate Formation or Governance Document"
+  },
+  "011_stock_ledger.md": {
+    "responsive": true,
+    "strength": "strong",
+    "rfps": [
+      "RFP_01",
+      "RFP_02",
+      "RFP_06"
+    ],
+    "category": "Stock Certificate, Ledger or Cap Table"
+  },
+  "012_articles_of_incorporation.md": {
+    "responsive": true,
+    "strength": "strong",
+    "rfps": [
+      "RFP_05",
+      "RFP_01"
+    ],
+    "category": "Corporate Formation or Governance Document"
+  },
+  "013_bank_statement_transfers.md": {
+    "responsive": true,
+    "strength": "strong",
+    "rfps": [
+      "RFP_09",
+      "RFP_08"
+    ],
+    "category": "Bank Statement or Transaction Record"
+  },
+  "014_board_minutes.md": {
+    "responsive": true,
+    "strength": "strong",
+    "rfps": [
+      "RFP_05",
+      "RFP_01",
+      "RFP_06"
+    ],
+    "category": "Corporate Formation or Governance Document"
+  },
+  "015_wire_confirmation.md": {
+    "responsive": true,
+    "strength": "strong",
+    "rfps": [
+      "RFP_08",
+      "RFP_09"
+    ],
+    "category": "Bank Statement or Transaction Record"
+  },
+  "016_general_ledger.md": {
+    "responsive": true,
+    "strength": "strong",
+    "rfps": [
+      "RFP_09",
+      "RFP_08"
+    ],
+    "category": "Accounting Record or Financial Statement"
+  },
+  "017_founder_agreement.md": {
+    "responsive": true,
+    "strength": "strong",
+    "rfps": [
+      "RFP_03",
+      "RFP_01",
+      "RFP_06",
+      "RFP_04"
+    ],
+    "category": "Ownership or Equity Agreement"
+  },
+  "018_subscription_agreement.md": {
+    "responsive": true,
+    "strength": "strong",
+    "rfps": [
+      "RFP_02",
+      "RFP_04",
+      "RFP_06"
+    ],
+    "category": "Ownership or Equity Agreement"
+  },
+  "019_cap_table.md": {
+    "responsive": true,
+    "strength": "strong",
+    "rfps": [
+      "RFP_02",
+      "RFP_01"
+    ],
+    "category": "Stock Certificate, Ledger or Cap Table"
+  },
+  "020_bylaws.md": {
+    "responsive": true,
+    "strength": "strong",
+    "rfps": [
+      "RFP_05"
+    ],
+    "category": "Corporate Formation or Governance Document"
+  },
+  "021_stock_ledger.md": {
+    "responsive": true,
+    "strength": "strong",
+    "rfps": [
+      "RFP_01",
+      "RFP_02",
+      "RFP_06"
+    ],
+    "category": "Stock Certificate, Ledger or Cap Table"
+  },
+  "022_articles_of_incorporation.md": {
+    "responsive": true,
+    "strength": "strong",
+    "rfps": [
+      "RFP_05",
+      "RFP_01"
+    ],
+    "category": "Corporate Formation or Governance Document"
+  },
+  "023_bank_statement_transfers.md": {
+    "responsive": true,
+    "strength": "strong",
+    "rfps": [
+      "RFP_09",
+      "RFP_08"
+    ],
+    "category": "Bank Statement or Transaction Record"
+  },
+  "024_board_minutes.md": {
+    "responsive": true,
+    "strength": "strong",
+    "rfps": [
+      "RFP_05",
+      "RFP_01",
+      "RFP_06"
+    ],
+    "category": "Corporate Formation or Governance Document"
+  },
+  "025_wire_confirmation.md": {
+    "responsive": true,
+    "strength": "strong",
+    "rfps": [
+      "RFP_08",
+      "RFP_09"
+    ],
+    "category": "Bank Statement or Transaction Record"
+  },
+  "026_general_ledger.md": {
+    "responsive": true,
+    "strength": "strong",
+    "rfps": [
+      "RFP_09",
+      "RFP_08"
+    ],
+    "category": "Accounting Record or Financial Statement"
+  },
+  "027_founder_agreement.md": {
+    "responsive": true,
+    "strength": "strong",
+    "rfps": [
+      "RFP_03",
+      "RFP_01",
+      "RFP_06",
+      "RFP_04"
+    ],
+    "category": "Ownership or Equity Agreement"
+  },
+  "028_subscription_agreement.md": {
+    "responsive": true,
+    "strength": "strong",
+    "rfps": [
+      "RFP_02",
+      "RFP_04",
+      "RFP_06"
+    ],
+    "category": "Ownership or Equity Agreement"
+  },
+  "029_cap_table.md": {
+    "responsive": true,
+    "strength": "strong",
+    "rfps": [
+      "RFP_02",
+      "RFP_01"
+    ],
+    "category": "Stock Certificate, Ledger or Cap Table"
+  },
+  "030_bylaws.md": {
+    "responsive": true,
+    "strength": "strong",
+    "rfps": [
+      "RFP_05"
+    ],
+    "category": "Corporate Formation or Governance Document"
+  },
+  "031_email_ownership_split.md": {
+    "responsive": true,
+    "strength": "medium",
+    "rfps": [
+      "RFP_03",
+      "RFP_06"
+    ],
+    "category": "Email or Message"
+  },
+  "032_email_blake_to_investor.md": {
+    "responsive": true,
+    "strength": "medium",
+    "rfps": [
+      "RFP_07",
+      "RFP_01"
+    ],
+    "category": "Email or Message"
+  },
+  "033_email_seed_contribution.md": {
+    "responsive": true,
+    "strength": "medium",
+    "rfps": [
+      "RFP_04",
+      "RFP_06"
+    ],
+    "category": "Email or Message"
+  },
+  "034_email_dispute.md": {
+    "responsive": true,
+    "strength": "medium",
+    "rfps": [
+      "RFP_10",
+      "RFP_03"
+    ],
+    "category": "Email or Message"
+  },
+  "035_dilution_notice.md": {
+    "responsive": true,
+    "strength": "medium",
+    "rfps": [
+      "RFP_10",
+      "RFP_02"
+    ],
+    "category": "Corporate Formation or Governance Document"
+  },
+  "036_text_messages_percentages.md": {
+    "responsive": true,
+    "strength": "medium",
+    "rfps": [
+      "RFP_03"
+    ],
+    "category": "Email or Message"
+  },
+  "037_bank_loan_application.md": {
+    "responsive": true,
+    "strength": "medium",
+    "rfps": [
+      "RFP_07",
+      "RFP_01"
+    ],
+    "category": "Other Business Document"
+  },
+  "038_email_expense_questions.md": {
+    "responsive": true,
+    "strength": "medium",
+    "rfps": [
+      "RFP_08",
+      "RFP_09"
+    ],
+    "category": "Email or Message"
+  },
+  "039_linkedin_cofounder.md": {
+    "responsive": true,
+    "strength": "medium",
+    "rfps": [
+      "RFP_06"
+    ],
+    "category": "Marketing, Newsletter or Spam"
+  },
+  "040_demand_letter.md": {
+    "responsive": true,
+    "strength": "medium",
+    "rfps": [
+      "RFP_10",
+      "RFP_01",
+      "RFP_08"
+    ],
+    "category": "Other Business Document"
+  },
+  "041_email_ownership_split.md": {
+    "responsive": true,
+    "strength": "medium",
+    "rfps": [
+      "RFP_03",
+      "RFP_06"
+    ],
+    "category": "Email or Message"
+  },
+  "042_email_blake_to_investor.md": {
+    "responsive": true,
+    "strength": "medium",
+    "rfps": [
+      "RFP_07",
+      "RFP_01"
+    ],
+    "category": "Email or Message"
+  },
+  "043_email_seed_contribution.md": {
+    "responsive": true,
+    "strength": "medium",
+    "rfps": [
+      "RFP_04",
+      "RFP_06"
+    ],
+    "category": "Email or Message"
+  },
+  "044_email_dispute.md": {
+    "responsive": true,
+    "strength": "medium",
+    "rfps": [
+      "RFP_10",
+      "RFP_03"
+    ],
+    "category": "Email or Message"
+  },
+  "045_dilution_notice.md": {
+    "responsive": true,
+    "strength": "medium",
+    "rfps": [
+      "RFP_10",
+      "RFP_02"
+    ],
+    "category": "Corporate Formation or Governance Document"
+  },
+  "046_text_messages_percentages.md": {
+    "responsive": true,
+    "strength": "medium",
+    "rfps": [
+      "RFP_03"
+    ],
+    "category": "Email or Message"
+  },
+  "047_bank_loan_application.md": {
+    "responsive": true,
+    "strength": "medium",
+    "rfps": [
+      "RFP_07",
+      "RFP_01"
+    ],
+    "category": "Other Business Document"
+  },
+  "048_email_expense_questions.md": {
+    "responsive": true,
+    "strength": "medium",
+    "rfps": [
+      "RFP_08",
+      "RFP_09"
+    ],
+    "category": "Email or Message"
+  },
+  "049_linkedin_cofounder.md": {
+    "responsive": true,
+    "strength": "medium",
+    "rfps": [
+      "RFP_06"
+    ],
+    "category": "Marketing, Newsletter or Spam"
+  },
+  "050_demand_letter.md": {
+    "responsive": true,
+    "strength": "medium",
+    "rfps": [
+      "RFP_10",
+      "RFP_01",
+      "RFP_08"
+    ],
+    "category": "Other Business Document"
+  },
+  "051_email_ownership_split.md": {
+    "responsive": true,
+    "strength": "medium",
+    "rfps": [
+      "RFP_03",
+      "RFP_06"
+    ],
+    "category": "Email or Message"
+  },
+  "052_email_blake_to_investor.md": {
+    "responsive": true,
+    "strength": "medium",
+    "rfps": [
+      "RFP_07",
+      "RFP_01"
+    ],
+    "category": "Email or Message"
+  },
+  "053_email_seed_contribution.md": {
+    "responsive": true,
+    "strength": "medium",
+    "rfps": [
+      "RFP_04",
+      "RFP_06"
+    ],
+    "category": "Email or Message"
+  },
+  "054_email_dispute.md": {
+    "responsive": true,
+    "strength": "medium",
+    "rfps": [
+      "RFP_10",
+      "RFP_03"
+    ],
+    "category": "Email or Message"
+  },
+  "055_dilution_notice.md": {
+    "responsive": true,
+    "strength": "medium",
+    "rfps": [
+      "RFP_10",
+      "RFP_02"
+    ],
+    "category": "Corporate Formation or Governance Document"
+  },
+  "056_text_messages_percentages.md": {
+    "responsive": true,
+    "strength": "medium",
+    "rfps": [
+      "RFP_03"
+    ],
+    "category": "Email or Message"
+  },
+  "057_bank_loan_application.md": {
+    "responsive": true,
+    "strength": "medium",
+    "rfps": [
+      "RFP_07",
+      "RFP_01"
+    ],
+    "category": "Other Business Document"
+  },
+  "058_email_expense_questions.md": {
+    "responsive": true,
+    "strength": "medium",
+    "rfps": [
+      "RFP_08",
+      "RFP_09"
+    ],
+    "category": "Email or Message"
+  },
+  "059_linkedin_cofounder.md": {
+    "responsive": true,
+    "strength": "medium",
+    "rfps": [
+      "RFP_06"
+    ],
+    "category": "Marketing, Newsletter or Spam"
+  },
+  "060_demand_letter.md": {
+    "responsive": true,
+    "strength": "medium",
+    "rfps": [
+      "RFP_10",
+      "RFP_01",
+      "RFP_08"
+    ],
+    "category": "Other Business Document"
+  },
+  "061_calendar_note.md": {
+    "responsive": true,
+    "strength": "weak",
+    "rfps": [
+      "RFP_03"
+    ],
+    "category": "Other Business Document"
+  },
+  "062_chat_car.md": {
+    "responsive": true,
+    "strength": "weak",
+    "rfps": [
+      "RFP_08"
+    ],
+    "category": "Personal or Social Communication"
+  },
+  "063_expense_report.md": {
+    "responsive": true,
+    "strength": "weak",
+    "rfps": [
+      "RFP_08",
+      "RFP_09"
+    ],
+    "category": "Accounting Record or Financial Statement"
+  },
+  "064_email_passing_founder.md": {
+    "responsive": true,
+    "strength": "weak",
+    "rfps": [
+      "RFP_06"
+    ],
+    "category": "Email or Message"
+  },
+  "065_accountant_voicemail.md": {
+    "responsive": true,
+    "strength": "weak",
+    "rfps": [
+      "RFP_09"
+    ],
+    "category": "Other Business Document"
+  },
+  "066_calendar_note.md": {
+    "responsive": true,
+    "strength": "weak",
+    "rfps": [
+      "RFP_03"
+    ],
+    "category": "Other Business Document"
+  },
+  "067_chat_car.md": {
+    "responsive": true,
+    "strength": "weak",
+    "rfps": [
+      "RFP_08"
+    ],
+    "category": "Personal or Social Communication"
+  },
+  "068_expense_report.md": {
+    "responsive": true,
+    "strength": "weak",
+    "rfps": [
+      "RFP_08",
+      "RFP_09"
+    ],
+    "category": "Accounting Record or Financial Statement"
+  },
+  "069_email_passing_founder.md": {
+    "responsive": true,
+    "strength": "weak",
+    "rfps": [
+      "RFP_06"
+    ],
+    "category": "Email or Message"
+  },
+  "070_accountant_voicemail.md": {
+    "responsive": true,
+    "strength": "weak",
+    "rfps": [
+      "RFP_09"
+    ],
+    "category": "Other Business Document"
+  },
+  "071_calendar_note.md": {
+    "responsive": true,
+    "strength": "weak",
+    "rfps": [
+      "RFP_03"
+    ],
+    "category": "Other Business Document"
+  },
+  "072_chat_car.md": {
+    "responsive": true,
+    "strength": "weak",
+    "rfps": [
+      "RFP_08"
+    ],
+    "category": "Personal or Social Communication"
+  },
+  "073_expense_report.md": {
+    "responsive": true,
+    "strength": "weak",
+    "rfps": [
+      "RFP_08",
+      "RFP_09"
+    ],
+    "category": "Accounting Record or Financial Statement"
+  },
+  "074_email_passing_founder.md": {
+    "responsive": true,
+    "strength": "weak",
+    "rfps": [
+      "RFP_06"
+    ],
+    "category": "Email or Message"
+  },
+  "075_accountant_voicemail.md": {
+    "responsive": true,
+    "strength": "weak",
+    "rfps": [
+      "RFP_09"
+    ],
+    "category": "Other Business Document"
+  },
+  "076_calendar_note.md": {
+    "responsive": true,
+    "strength": "weak",
+    "rfps": [
+      "RFP_03"
+    ],
+    "category": "Other Business Document"
+  },
+  "077_chat_car.md": {
+    "responsive": true,
+    "strength": "weak",
+    "rfps": [
+      "RFP_08"
+    ],
+    "category": "Personal or Social Communication"
+  },
+  "078_expense_report.md": {
+    "responsive": true,
+    "strength": "weak",
+    "rfps": [
+      "RFP_08",
+      "RFP_09"
+    ],
+    "category": "Accounting Record or Financial Statement"
+  },
+  "079_email_passing_founder.md": {
+    "responsive": true,
+    "strength": "weak",
+    "rfps": [
+      "RFP_06"
+    ],
+    "category": "Email or Message"
+  },
+  "080_accountant_voicemail.md": {
+    "responsive": true,
+    "strength": "weak",
+    "rfps": [
+      "RFP_09"
+    ],
+    "category": "Other Business Document"
+  },
+  "081_newsletter.md": {
+    "responsive": false,
+    "strength": "none",
+    "rfps": [],
+    "category": "Marketing, Newsletter or Spam"
+  },
+  "082_lunch_order.md": {
+    "responsive": false,
+    "strength": "none",
+    "rfps": [],
+    "category": "Personal or Social Communication"
+  },
+  "083_vendor_spam.md": {
+    "responsive": false,
+    "strength": "none",
+    "rfps": [],
+    "category": "Marketing, Newsletter or Spam"
+  },
+  "084_chitchat.md": {
+    "responsive": false,
+    "strength": "none",
+    "rfps": [],
+    "category": "Personal or Social Communication"
+  },
+  "085_hvac_maintenance.md": {
+    "responsive": false,
+    "strength": "none",
+    "rfps": [],
+    "category": "Other Business Document"
+  },
+  "086_other_company_bank.md": {
+    "responsive": false,
+    "strength": "none",
+    "rfps": [],
+    "category": "Bank Statement or Transaction Record"
+  },
+  "087_holiday_party.md": {
+    "responsive": false,
+    "strength": "none",
+    "rfps": [],
+    "category": "Other Business Document"
+  },
+  "088_it_password_reset.md": {
+    "responsive": false,
+    "strength": "none",
+    "rfps": [],
+    "category": "Email or Message"
+  },
+  "089_gym_receipt.md": {
+    "responsive": false,
+    "strength": "none",
+    "rfps": [],
+    "category": "Invoice or Receipt"
+  },
+  "090_recipe_share.md": {
+    "responsive": false,
+    "strength": "none",
+    "rfps": [],
+    "category": "Personal or Social Communication"
+  },
+  "091_newsletter.md": {
+    "responsive": false,
+    "strength": "none",
+    "rfps": [],
+    "category": "Marketing, Newsletter or Spam"
+  },
+  "092_lunch_order.md": {
+    "responsive": false,
+    "strength": "none",
+    "rfps": [],
+    "category": "Personal or Social Communication"
+  },
+  "093_vendor_spam.md": {
+    "responsive": false,
+    "strength": "none",
+    "rfps": [],
+    "category": "Marketing, Newsletter or Spam"
+  },
+  "094_chitchat.md": {
+    "responsive": false,
+    "strength": "none",
+    "rfps": [],
+    "category": "Personal or Social Communication"
+  },
+  "095_hvac_maintenance.md": {
+    "responsive": false,
+    "strength": "none",
+    "rfps": [],
+    "category": "Other Business Document"
+  },
+  "096_other_company_bank.md": {
+    "responsive": false,
+    "strength": "none",
+    "rfps": [],
+    "category": "Bank Statement or Transaction Record"
+  },
+  "097_holiday_party.md": {
+    "responsive": false,
+    "strength": "none",
+    "rfps": [],
+    "category": "Other Business Document"
+  },
+  "098_it_password_reset.md": {
+    "responsive": false,
+    "strength": "none",
+    "rfps": [],
+    "category": "Email or Message"
+  },
+  "099_gym_receipt.md": {
+    "responsive": false,
+    "strength": "none",
+    "rfps": [],
+    "category": "Invoice or Receipt"
+  },
+  "100_recipe_share.md": {
+    "responsive": false,
+    "strength": "none",
+    "rfps": [],
+    "category": "Personal or Social Communication"
+  },
+  "101_newsletter.md": {
+    "responsive": false,
+    "strength": "none",
+    "rfps": [],
+    "category": "Marketing, Newsletter or Spam"
+  },
+  "102_lunch_order.md": {
+    "responsive": false,
+    "strength": "none",
+    "rfps": [],
+    "category": "Personal or Social Communication"
+  },
+  "103_vendor_spam.md": {
+    "responsive": false,
+    "strength": "none",
+    "rfps": [],
+    "category": "Marketing, Newsletter or Spam"
+  },
+  "104_chitchat.md": {
+    "responsive": false,
+    "strength": "none",
+    "rfps": [],
+    "category": "Personal or Social Communication"
+  },
+  "105_hvac_maintenance.md": {
+    "responsive": false,
+    "strength": "none",
+    "rfps": [],
+    "category": "Other Business Document"
+  },
+  "106_other_company_bank.md": {
+    "responsive": false,
+    "strength": "none",
+    "rfps": [],
+    "category": "Bank Statement or Transaction Record"
+  },
+  "107_holiday_party.md": {
+    "responsive": false,
+    "strength": "none",
+    "rfps": [],
+    "category": "Other Business Document"
+  },
+  "108_it_password_reset.md": {
+    "responsive": false,
+    "strength": "none",
+    "rfps": [],
+    "category": "Email or Message"
+  },
+  "109_gym_receipt.md": {
+    "responsive": false,
+    "strength": "none",
+    "rfps": [],
+    "category": "Invoice or Receipt"
+  },
+  "110_recipe_share.md": {
+    "responsive": false,
+    "strength": "none",
+    "rfps": [],
+    "category": "Personal or Social Communication"
+  },
+  "111_newsletter.md": {
+    "responsive": false,
+    "strength": "none",
+    "rfps": [],
+    "category": "Marketing, Newsletter or Spam"
+  },
+  "112_lunch_order.md": {
+    "responsive": false,
+    "strength": "none",
+    "rfps": [],
+    "category": "Personal or Social Communication"
+  },
+  "113_vendor_spam.md": {
+    "responsive": false,
+    "strength": "none",
+    "rfps": [],
+    "category": "Marketing, Newsletter or Spam"
+  },
+  "114_chitchat.md": {
+    "responsive": false,
+    "strength": "none",
+    "rfps": [],
+    "category": "Personal or Social Communication"
+  },
+  "115_hvac_maintenance.md": {
+    "responsive": false,
+    "strength": "none",
+    "rfps": [],
+    "category": "Other Business Document"
+  },
+  "116_other_company_bank.md": {
+    "responsive": false,
+    "strength": "none",
+    "rfps": [],
+    "category": "Bank Statement or Transaction Record"
+  },
+  "117_holiday_party.md": {
+    "responsive": false,
+    "strength": "none",
+    "rfps": [],
+    "category": "Other Business Document"
+  },
+  "118_it_password_reset.md": {
+    "responsive": false,
+    "strength": "none",
+    "rfps": [],
+    "category": "Email or Message"
+  },
+  "119_gym_receipt.md": {
+    "responsive": false,
+    "strength": "none",
+    "rfps": [],
+    "category": "Invoice or Receipt"
+  },
+  "120_recipe_share.md": {
+    "responsive": false,
+    "strength": "none",
+    "rfps": [],
+    "category": "Personal or Social Communication"
+  },
+  "121_newsletter.md": {
+    "responsive": false,
+    "strength": "none",
+    "rfps": [],
+    "category": "Marketing, Newsletter or Spam"
+  },
+  "122_lunch_order.md": {
+    "responsive": false,
+    "strength": "none",
+    "rfps": [],
+    "category": "Personal or Social Communication"
+  },
+  "123_vendor_spam.md": {
+    "responsive": false,
+    "strength": "none",
+    "rfps": [],
+    "category": "Marketing, Newsletter or Spam"
+  },
+  "124_chitchat.md": {
+    "responsive": false,
+    "strength": "none",
+    "rfps": [],
+    "category": "Personal or Social Communication"
+  },
+  "125_hvac_maintenance.md": {
+    "responsive": false,
+    "strength": "none",
+    "rfps": [],
+    "category": "Other Business Document"
+  },
+  "126_other_company_bank.md": {
+    "responsive": false,
+    "strength": "none",
+    "rfps": [],
+    "category": "Bank Statement or Transaction Record"
+  },
+  "127_holiday_party.md": {
+    "responsive": false,
+    "strength": "none",
+    "rfps": [],
+    "category": "Other Business Document"
+  },
+  "128_it_password_reset.md": {
+    "responsive": false,
+    "strength": "none",
+    "rfps": [],
+    "category": "Email or Message"
+  },
+  "129_gym_receipt.md": {
+    "responsive": false,
+    "strength": "none",
+    "rfps": [],
+    "category": "Invoice or Receipt"
+  },
+  "130_recipe_share.md": {
+    "responsive": false,
+    "strength": "none",
+    "rfps": [],
+    "category": "Personal or Social Communication"
+  },
+  "131_newsletter.md": {
+    "responsive": false,
+    "strength": "none",
+    "rfps": [],
+    "category": "Marketing, Newsletter or Spam"
+  },
+  "132_lunch_order.md": {
+    "responsive": false,
+    "strength": "none",
+    "rfps": [],
+    "category": "Personal or Social Communication"
+  },
+  "133_vendor_spam.md": {
+    "responsive": false,
+    "strength": "none",
+    "rfps": [],
+    "category": "Marketing, Newsletter or Spam"
+  },
+  "134_chitchat.md": {
+    "responsive": false,
+    "strength": "none",
+    "rfps": [],
+    "category": "Personal or Social Communication"
+  },
+  "135_hvac_maintenance.md": {
+    "responsive": false,
+    "strength": "none",
+    "rfps": [],
+    "category": "Other Business Document"
+  },
+  "136_other_company_bank.md": {
+    "responsive": false,
+    "strength": "none",
+    "rfps": [],
+    "category": "Bank Statement or Transaction Record"
+  },
+  "137_holiday_party.md": {
+    "responsive": false,
+    "strength": "none",
+    "rfps": [],
+    "category": "Other Business Document"
+  },
+  "138_it_password_reset.md": {
+    "responsive": false,
+    "strength": "none",
+    "rfps": [],
+    "category": "Email or Message"
+  },
+  "139_gym_receipt.md": {
+    "responsive": false,
+    "strength": "none",
+    "rfps": [],
+    "category": "Invoice or Receipt"
+  },
+  "140_recipe_share.md": {
+    "responsive": false,
+    "strength": "none",
+    "rfps": [],
+    "category": "Personal or Social Communication"
+  },
+  "141_newsletter.md": {
+    "responsive": false,
+    "strength": "none",
+    "rfps": [],
+    "category": "Marketing, Newsletter or Spam"
+  },
+  "142_lunch_order.md": {
+    "responsive": false,
+    "strength": "none",
+    "rfps": [],
+    "category": "Personal or Social Communication"
+  },
+  "143_vendor_spam.md": {
+    "responsive": false,
+    "strength": "none",
+    "rfps": [],
+    "category": "Marketing, Newsletter or Spam"
+  },
+  "144_chitchat.md": {
+    "responsive": false,
+    "strength": "none",
+    "rfps": [],
+    "category": "Personal or Social Communication"
+  },
+  "145_hvac_maintenance.md": {
+    "responsive": false,
+    "strength": "none",
+    "rfps": [],
+    "category": "Other Business Document"
+  },
+  "146_other_company_bank.md": {
+    "responsive": false,
+    "strength": "none",
+    "rfps": [],
+    "category": "Bank Statement or Transaction Record"
+  },
+  "147_holiday_party.md": {
+    "responsive": false,
+    "strength": "none",
+    "rfps": [],
+    "category": "Other Business Document"
+  },
+  "148_it_password_reset.md": {
+    "responsive": false,
+    "strength": "none",
+    "rfps": [],
+    "category": "Email or Message"
+  },
+  "149_gym_receipt.md": {
+    "responsive": false,
+    "strength": "none",
+    "rfps": [],
+    "category": "Invoice or Receipt"
+  },
+  "150_recipe_share.md": {
+    "responsive": false,
+    "strength": "none",
+    "rfps": [],
+    "category": "Personal or Social Communication"
+  }
+}

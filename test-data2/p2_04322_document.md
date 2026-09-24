@@ -1,0 +1,3 @@
+CITY OF EUGENE — PARKING CITATION #41696717
+Plate 4KLM203  Violation: Red zone
+Fine $95.00  Due 08/21/2020

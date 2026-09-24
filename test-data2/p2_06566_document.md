@@ -1,0 +1,3 @@
+CITY OF BOISE — PARKING CITATION #63004226
+Plate 3ABC342  Violation: Red zone
+Fine $45.00  Due 02/25/2019

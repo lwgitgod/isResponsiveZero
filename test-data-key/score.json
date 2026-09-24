@@ -1,0 +1,34 @@
+{
+  "classified": 150,
+  "errors_or_skipped": 0,
+  "confusion": {
+    "tp": 76,
+    "fp": 0,
+    "fn": 4,
+    "tn": 70
+  },
+  "precision": 1,
+  "recall": 0.95,
+  "f1": 0.974,
+  "category_accuracy": 0.8,
+  "true_positives_with_an_expected_rfp": "76/76",
+  "flagged_responsive_by_strength": {
+    "strong": {
+      "total": 30,
+      "found": 30
+    },
+    "medium": {
+      "total": 30,
+      "found": 30
+    },
+    "weak": {
+      "total": 20,
+      "found": 16
+    },
+    "none": {
+      "total": 70,
+      "found": 0
+    }
+  },
+  "classify_seconds": 8
+}

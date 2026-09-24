@@ -1,0 +1,3 @@
+CITY OF SPOKANE — PARKING CITATION #46096445
+Plate 4KLM311  Violation: Street cleaning
+Fine $45.00  Due 01/13/2023

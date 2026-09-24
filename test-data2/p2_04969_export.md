@@ -1,0 +1,15 @@
+Sample Company Sandbox (test data) — Transaction Detail
+
+```csv
+Date,Memo,Amount
+10/11/2020,Mobile deposit #2908,17378.20
+10/12/2020,PG&E — Utilities,-1478.66
+10/16/2020,Mobile deposit #6498,38329.62
+10/21/2020,ACH CREDIT GRANITE TITLE CO,22459.60
+10/21/2020,Gusto — Payroll service fee,-3569.01
+10/22/2020,STRIPE TRANSFER ST-470728,11830.39
+10/23/2020,Comcast Business — Internet,-7423.70
+10/28/2020,Uber — Travel,-7344.14
+10/30/2020,ACH CREDIT HARBOR RETAIL,33828.72
+10/31/2020,STRIPE TRANSFER ST-511651,15248.40
+```

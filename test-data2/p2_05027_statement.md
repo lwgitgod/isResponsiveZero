@@ -1,0 +1,25 @@
+FIRST COASTAL BANK — BUSINESS CHECKING STATEMENT
+Account holder: Brightline Ventures, Inc.   Account ****4417
+Statement period: Dec 07, 2023 – Jan 06, 2024
+Authorized signers: Jordan Blake
+
+| Date | Description | Debit | Credit | Balance |
+|---|---|---|---|---|
+| 2023-12-07 | Mobile deposit #0036 |  | $9,927.19 | $41,130.95 |
+| 2023-12-07 | ACH DEBIT AMAZON WEB SERVICES | $8,378.42 |  | $32,752.53 |
+| 2023-12-10 | WIRE TRF TO BLAKE HOLDINGS LLC REF 83807085 | $79,772.10 |  | $-47,019.57 |
+| 2023-12-17 | Bill pay: LinkedIn Ads | $6,738.45 |  | $-53,758.02 |
+| 2023-12-20 | STRIPE TRANSFER ST-544191 |  | $34,664.41 | $-19,093.61 |
+| 2023-12-21 | Bill pay: Figma | $1,564.87 |  | $-20,658.48 |
+| 2023-12-21 | WIRE TRF TO BLAKE HOLDINGS LLC REF 83237547 | $57,526.49 |  | $-78,184.97 |
+| 2023-12-22 | ACH CREDIT PARKSIDE CLINICS |  | $9,791.40 | $-68,393.57 |
+| 2023-12-25 | POS UBER 7596 | $4,328.45 |  | $-72,722.02 |
+| 2023-12-26 | STRIPE TRANSFER ST-205425 |  | $27,870.62 | $-44,851.40 |
+| 2023-12-26 | Bill pay: PG&E | $6,983.55 |  | $-51,834.95 |
+| 2023-12-29 | STRIPE TRANSFER ST-248896 |  | $22,636.65 | $-29,198.30 |
+| 2023-12-29 | ACH CREDIT BAYVIEW DENTAL |  | $10,028.81 | $-19,169.49 |
+| 2023-12-30 | WIRE OUT BLAKE HOLDINGS LLC | $30,731.05 |  | $-49,900.54 |
+| 2024-01-03 | ACH DEBIT COMCAST BUSINESS | $7,427.31 |  | $-57,327.85 |
+| 2024-01-06 | STRIPE TRANSFER ST-530411 |  | $7,447.70 | $-49,880.15 |
+
+Page 2 of 5

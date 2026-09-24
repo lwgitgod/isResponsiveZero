@@ -1,0 +1,567 @@
+{
+  "case_metadata": {
+    "case_caption": "Alex Rivera v. Jordan Blake, concerning ownership of Brightline Ventures, Inc. and alleged embezzlement of company funds",
+    "summary": "Plaintiff Alex Rivera claims ownership of Brightline Ventures, Inc., which Defendant Jordan Blake incorporated on Rivera's behalf. After incorporation, Blake allegedly gained access to company funds and embezzled money. Rivera seeks documents to establish his ownership and Blake's misappropriation.",
+    "key_actors": [
+      {
+        "role": "Plaintiff",
+        "name": "Alex Rivera",
+        "aliases": [
+          "[PERSON A]"
+        ]
+      },
+      {
+        "role": "Defendant",
+        "name": "Jordan Blake",
+        "aliases": [
+          "[PERSON B]"
+        ]
+      },
+      {
+        "role": "Company",
+        "name": "Brightline Ventures, Inc.",
+        "aliases": [
+          "[COMPANY NAME]"
+        ]
+      },
+      {
+        "role": "Entity controlled by Defendant",
+        "name": "Blake Holdings LLC",
+        "aliases": []
+      }
+    ],
+    "causes_of_action": [
+      {
+        "id": "coa-1",
+        "name": "Declaratory Judgment of Ownership",
+        "elements": [
+          "Plaintiff owns Brightline Ventures, Inc.",
+          "Defendant incorporated company on Plaintiff's behalf",
+          "Ownership interest is disputed"
+        ]
+      },
+      {
+        "id": "coa-2",
+        "name": "Embezzlement / Misappropriation of Company Funds",
+        "elements": [
+          "Defendant had access to company funds",
+          "Defendant embezzled or misappropriated funds",
+          "Plaintiff suffered damages"
+        ]
+      }
+    ],
+    "case_specific_terms": [
+      "Brightline Ventures, Inc.",
+      "Alex Rivera",
+      "Jordan Blake",
+      "Blake Holdings LLC",
+      "ownership",
+      "embezzlement",
+      "company funds",
+      "shares",
+      "equity"
+    ],
+    "extraction_notes": "Complaint is sparse; causes of action are inferred from the narrative. Placeholder mapping provided in the complaint is used to replace [COMPANY NAME], [PERSON A], and [PERSON B] with real names."
+  },
+  "rfp_rubrics": {
+    "RFP_01": {
+      "rfp_id": "RFP_01",
+      "rfp_text_verbatim": "All documents reflecting or relating to the ownership of [COMPANY NAME], including documents identifying shareholders, beneficial owners, founders, members, or persons claiming an ownership interest.",
+      "rfp_text_summary": "Documents about ownership of Brightline Ventures, Inc., including identifying shareholders, beneficial owners, founders, members, or claimants.",
+      "question": "Does `document.text` reflect or relate to the ownership of Brightline Ventures, Inc., including identifying shareholders, beneficial owners, founders, members, or persons claiming an ownership interest?",
+      "covers": "Documents such as stock ledgers, cap tables, shareholder registers, ownership agreements, or any record identifying owners or claimants of Brightline Ventures, Inc.",
+      "not_for": "Documents solely about financial transactions or embezzlement without ownership information; those belong to RFP_08 or RFP_09.",
+      "document_categories": [
+        "Stock Certificate, Ledger or Cap Table",
+        "Ownership or Equity Agreement",
+        "Corporate Formation or Governance Document"
+      ],
+      "responsiveness_criteria": [
+        {
+          "id": "C1",
+          "description": "Document identifies shareholders, beneficial owners, founders, members, or persons claiming an ownership interest in Brightline Ventures, Inc.",
+          "example_phrases": [
+            "shareholder",
+            "beneficial owner",
+            "founder",
+            "member"
+          ],
+          "weight": "primary"
+        },
+        {
+          "id": "C2",
+          "description": "Document reflects or relates to ownership of Brightline Ventures, Inc.",
+          "example_phrases": [
+            "ownership",
+            "equity interest",
+            "shares"
+          ],
+          "weight": "secondary"
+        }
+      ],
+      "exclusions": [],
+      "decision_rule": "Responsive if any primary criterion matches",
+      "causes_of_action_supported": [
+        "coa-1"
+      ]
+    },
+    "RFP_02": {
+      "rfp_id": "RFP_02",
+      "rfp_text_verbatim": "All stock certificates, stock ledgers, capitalization tables, shareholder registers, subscription agreements, stock purchase agreements, or other records reflecting the issuance, transfer, ownership, or allocation of shares or equity interests.",
+      "rfp_text_summary": "Stock certificates, ledgers, cap tables, registers, subscription and purchase agreements, and records of share issuance, transfer, ownership, or allocation.",
+      "question": "Does `document.text` consist of or contain stock certificates, stock ledgers, capitalization tables, shareholder registers, subscription agreements, stock purchase agreements, or other records reflecting the issuance, transfer, ownership, or allocation of shares or equity interests in Brightline Ventures, Inc.?",
+      "covers": "Stock certificates, stock ledgers, capitalization tables, shareholder registers, subscription agreements, stock purchase agreements, and similar records showing share issuance, transfer, ownership, or allocation.",
+      "not_for": "General ownership documents that do not specifically record share issuance, transfer, ownership, or allocation; those belong to RFP_01.",
+      "document_categories": [
+        "Stock Certificate, Ledger or Cap Table",
+        "Ownership or Equity Agreement"
+      ],
+      "responsiveness_criteria": [
+        {
+          "id": "C1",
+          "description": "Document is a stock certificate, stock ledger, capitalization table, shareholder register, subscription agreement, stock purchase agreement, or similar record.",
+          "example_phrases": [
+            "stock certificate",
+            "stock ledger",
+            "capitalization table",
+            "shareholder register"
+          ],
+          "weight": "primary"
+        },
+        {
+          "id": "C2",
+          "description": "Document reflects the issuance, transfer, ownership, or allocation of shares or equity interests.",
+          "example_phrases": [
+            "issuance of shares",
+            "transfer of shares",
+            "allocation of equity"
+          ],
+          "weight": "secondary"
+        }
+      ],
+      "exclusions": [],
+      "decision_rule": "Responsive if any primary criterion matches",
+      "causes_of_action_supported": [
+        "coa-1"
+      ]
+    },
+    "RFP_03": {
+      "rfp_id": "RFP_03",
+      "rfp_text_verbatim": "All agreements, communications, emails, text messages, or other documents concerning any agreement or understanding regarding the percentage ownership of [COMPANY NAME] by [PERSON A] and [PERSON B].",
+      "rfp_text_summary": "Agreements and communications about the percentage ownership of Brightline Ventures, Inc. by Alex Rivera and Jordan Blake.",
+      "question": "Does `document.text` concern any agreement or understanding regarding the percentage ownership of Brightline Ventures, Inc. by Alex Rivera and Jordan Blake?",
+      "covers": "Emails, text messages, agreements, or other communications discussing ownership percentages of Brightline Ventures, Inc. between or about Alex Rivera and Jordan Blake.",
+      "not_for": "Documents about ownership generally without discussing percentages or agreements between Rivera and Blake; those belong to RFP_01 or RFP_06.",
+      "document_categories": [
+        "Email or Message",
+        "Ownership or Equity Agreement"
+      ],
+      "responsiveness_criteria": [
+        {
+          "id": "C1",
+          "description": "Document is an agreement or communication concerning an agreement or understanding about percentage ownership of Brightline Ventures, Inc. by Alex Rivera and Jordan Blake.",
+          "example_phrases": [
+            "percentage ownership",
+            "ownership split",
+            "agreement regarding ownership"
+          ],
+          "weight": "primary"
+        },
+        {
+          "id": "C2",
+          "description": "Document mentions Alex Rivera and Jordan Blake in the context of ownership percentages.",
+          "example_phrases": [
+            "Alex Rivera",
+            "Jordan Blake",
+            "ownership percentage"
+          ],
+          "weight": "secondary"
+        }
+      ],
+      "exclusions": [],
+      "decision_rule": "Responsive if any primary criterion matches",
+      "causes_of_action_supported": [
+        "coa-1"
+      ]
+    },
+    "RFP_04": {
+      "rfp_id": "RFP_04",
+      "rfp_text_verbatim": "All documents reflecting money, property, intellectual property, services, labor, or other consideration contributed by [PERSON A] or [PERSON B] in connection with an ownership interest.",
+      "rfp_text_summary": "Documents showing contributions (money, property, IP, services, labor, etc.) by Alex Rivera or Jordan Blake in connection with an ownership interest.",
+      "question": "Does `document.text` reflect money, property, intellectual property, services, labor, or other consideration contributed by Alex Rivera or Jordan Blake in connection with an ownership interest in Brightline Ventures, Inc.?",
+      "covers": "Records of capital contributions, invoices, receipts, agreements, or communications showing contributions by Rivera or Blake tied to ownership.",
+      "not_for": "Documents about ownership without showing contributions; those belong to RFP_01 or RFP_02.",
+      "document_categories": [
+        "Accounting Record or Financial Statement",
+        "Invoice or Receipt",
+        "Ownership or Equity Agreement"
+      ],
+      "responsiveness_criteria": [
+        {
+          "id": "C1",
+          "description": "Document reflects a contribution of money, property, intellectual property, services, labor, or other consideration by Alex Rivera or Jordan Blake.",
+          "example_phrases": [
+            "capital contribution",
+            "contributed funds",
+            "services rendered",
+            "property contributed"
+          ],
+          "weight": "primary"
+        },
+        {
+          "id": "C2",
+          "description": "Document connects the contribution to an ownership interest in Brightline Ventures, Inc.",
+          "example_phrases": [
+            "in exchange for equity",
+            "ownership interest",
+            "capital account"
+          ],
+          "weight": "secondary"
+        }
+      ],
+      "exclusions": [],
+      "decision_rule": "Responsive if any primary criterion matches",
+      "causes_of_action_supported": [
+        "coa-1"
+      ]
+    },
+    "RFP_05": {
+      "rfp_id": "RFP_05",
+      "rfp_text_verbatim": "All corporate formation and organizational documents, including articles of incorporation, bylaws, organizational minutes, board resolutions, shareholder resolutions, written consents, and amendments.",
+      "rfp_text_summary": "Corporate formation and organizational documents of Brightline Ventures, Inc., such as articles, bylaws, minutes, resolutions, consents, and amendments.",
+      "question": "Does `document.text` consist of or contain corporate formation or organizational documents of Brightline Ventures, Inc., such as articles of incorporation, bylaws, organizational minutes, board resolutions, shareholder resolutions, written consents, or amendments?",
+      "covers": "Articles of incorporation, bylaws, organizational minutes, board and shareholder resolutions, written consents, and amendments for Brightline Ventures, Inc.",
+      "not_for": "Ownership records or stock certificates that are not formation or governance documents; those belong to RFP_01 or RFP_02.",
+      "document_categories": [
+        "Corporate Formation or Governance Document"
+      ],
+      "responsiveness_criteria": [
+        {
+          "id": "C1",
+          "description": "Document is a corporate formation or organizational document of Brightline Ventures, Inc.",
+          "example_phrases": [
+            "articles of incorporation",
+            "bylaws",
+            "organizational minutes",
+            "board resolution"
+          ],
+          "weight": "primary"
+        },
+        {
+          "id": "C2",
+          "description": "Document is an amendment to a formation or organizational document.",
+          "example_phrases": [
+            "amendment to bylaws",
+            "amended articles"
+          ],
+          "weight": "secondary"
+        }
+      ],
+      "exclusions": [],
+      "decision_rule": "Responsive if any primary criterion matches",
+      "causes_of_action_supported": [
+        "coa-1"
+      ]
+    },
+    "RFP_06": {
+      "rfp_id": "RFP_06",
+      "rfp_text_verbatim": "All documents and communications identifying [PERSON A] as an owner, shareholder, founder, co-founder, partner, or equity holder.",
+      "rfp_text_summary": "Documents and communications that identify Alex Rivera as an owner, shareholder, founder, co-founder, partner, or equity holder of Brightline Ventures, Inc.",
+      "question": "Does `document.text` identify Alex Rivera as an owner, shareholder, founder, co-founder, partner, or equity holder of Brightline Ventures, Inc.?",
+      "covers": "Emails, letters, agreements, or any document that names Alex Rivera as an owner, shareholder, founder, co-founder, partner, or equity holder.",
+      "not_for": "Documents identifying other people as owners without mentioning Alex Rivera; those belong to RFP_01 or RFP_07.",
+      "document_categories": [
+        "Email or Message",
+        "Ownership or Equity Agreement",
+        "Corporate Formation or Governance Document"
+      ],
+      "responsiveness_criteria": [
+        {
+          "id": "C1",
+          "description": "Document identifies Alex Rivera as an owner, shareholder, founder, co-founder, partner, or equity holder of Brightline Ventures, Inc.",
+          "example_phrases": [
+            "Alex Rivera, owner",
+            "Alex Rivera, shareholder",
+            "Alex Rivera, founder",
+            "Alex Rivera, partner"
+          ],
+          "weight": "primary"
+        },
+        {
+          "id": "C2",
+          "description": "Document refers to Alex Rivera in a context implying ownership or equity interest.",
+          "example_phrases": [
+            "Rivera's shares",
+            "Rivera's equity",
+            "Rivera's ownership"
+          ],
+          "weight": "secondary"
+        }
+      ],
+      "exclusions": [],
+      "decision_rule": "Responsive if any primary criterion matches",
+      "causes_of_action_supported": [
+        "coa-1"
+      ]
+    },
+    "RFP_07": {
+      "rfp_id": "RFP_07",
+      "rfp_text_verbatim": "All documents and communications in which [PERSON B] represented the ownership interests or ownership percentages of [COMPANY NAME] to any third party.",
+      "rfp_text_summary": "Documents and communications where Jordan Blake represented ownership interests or percentages of Brightline Ventures, Inc. to a third party.",
+      "question": "Does `document.text` show Jordan Blake representing the ownership interests or ownership percentages of Brightline Ventures, Inc. to any third party?",
+      "covers": "Emails, letters, or other communications from Jordan Blake to third parties stating ownership interests or percentages of Brightline Ventures, Inc.",
+      "not_for": "Internal communications not involving a third party, or communications by others; those belong to RFP_03 or RFP_06.",
+      "document_categories": [
+        "Email or Message",
+        "Ownership or Equity Agreement"
+      ],
+      "responsiveness_criteria": [
+        {
+          "id": "C1",
+          "description": "Document is a communication in which Jordan Blake represents ownership interests or ownership percentages of Brightline Ventures, Inc. to a third party.",
+          "example_phrases": [
+            "Jordan Blake stated ownership",
+            "Blake represented ownership",
+            "ownership percentage to third party"
+          ],
+          "weight": "primary"
+        },
+        {
+          "id": "C2",
+          "description": "Document is addressed to a third party and mentions ownership of Brightline Ventures, Inc.",
+          "example_phrases": [
+            "third party",
+            "ownership interest",
+            "Brightline Ventures"
+          ],
+          "weight": "secondary"
+        }
+      ],
+      "exclusions": [],
+      "decision_rule": "Responsive if any primary criterion matches",
+      "causes_of_action_supported": [
+        "coa-1"
+      ]
+    },
+    "RFP_08": {
+      "rfp_id": "RFP_08",
+      "rfp_text_verbatim": "All documents reflecting distributions, dividends, payments, withdrawals, transfers, loans, or other transfers of money or property from [COMPANY NAME] to [PERSON B] or an account/entity controlled by [PERSON B].",
+      "rfp_text_summary": "Documents showing transfers of money or property from Brightline Ventures, Inc. to Jordan Blake or an entity he controls.",
+      "question": "Does `document.text` reflect a distribution, dividend, payment, withdrawal, transfer, loan, or other transfer of money or property from Brightline Ventures, Inc. to Jordan Blake or an account or entity controlled by Jordan Blake?",
+      "covers": "Bank statements, transaction records, invoices, receipts, or accounting records showing funds or property moving from Brightline Ventures, Inc. to Jordan Blake or Blake Holdings LLC.",
+      "not_for": "General financial records of the company not showing transfers to Blake; those belong to RFP_09.",
+      "document_categories": [
+        "Bank Statement or Transaction Record",
+        "Accounting Record or Financial Statement",
+        "Invoice or Receipt"
+      ],
+      "responsiveness_criteria": [
+        {
+          "id": "C1",
+          "description": "Document reflects a transfer of money or property from Brightline Ventures, Inc. to Jordan Blake or an entity he controls.",
+          "example_phrases": [
+            "payment to Jordan Blake",
+            "transfer to Blake Holdings LLC",
+            "distribution to Blake"
+          ],
+          "weight": "primary"
+        },
+        {
+          "id": "C2",
+          "description": "Document shows a withdrawal, loan, or other transfer from Brightline Ventures, Inc. to Blake or his entity.",
+          "example_phrases": [
+            "withdrawal by Blake",
+            "loan to Blake",
+            "transfer to Blake"
+          ],
+          "weight": "secondary"
+        }
+      ],
+      "exclusions": [],
+      "decision_rule": "Responsive if any primary criterion matches",
+      "causes_of_action_supported": [
+        "coa-2"
+      ]
+    },
+    "RFP_09": {
+      "rfp_id": "RFP_09",
+      "rfp_text_verbatim": "All bank statements, transaction records, general ledgers, accounting records, and financial statements reflecting funds received by or transferred from [COMPANY NAME].",
+      "rfp_text_summary": "Bank statements, transaction records, ledgers, accounting records, and financial statements showing funds received by or transferred from Brightline Ventures, Inc.",
+      "question": "Does `document.text` consist of or contain bank statements, transaction records, general ledgers, accounting records, or financial statements reflecting funds received by or transferred from Brightline Ventures, Inc.?",
+      "covers": "Bank statements, transaction records, general ledgers, accounting records, and financial statements of Brightline Ventures, Inc.",
+      "not_for": "Documents showing transfers specifically to Jordan Blake; those belong to RFP_08.",
+      "document_categories": [
+        "Bank Statement or Transaction Record",
+        "Accounting Record or Financial Statement"
+      ],
+      "responsiveness_criteria": [
+        {
+          "id": "C1",
+          "description": "Document is a bank statement, transaction record, general ledger, accounting record, or financial statement of Brightline Ventures, Inc.",
+          "example_phrases": [
+            "bank statement",
+            "transaction record",
+            "general ledger",
+            "financial statement"
+          ],
+          "weight": "primary"
+        },
+        {
+          "id": "C2",
+          "description": "Document reflects funds received by or transferred from Brightline Ventures, Inc.",
+          "example_phrases": [
+            "funds received",
+            "funds transferred",
+            "company account"
+          ],
+          "weight": "secondary"
+        }
+      ],
+      "exclusions": [],
+      "decision_rule": "Responsive if any primary criterion matches",
+      "causes_of_action_supported": [
+        "coa-2"
+      ]
+    },
+    "RFP_10": {
+      "rfp_id": "RFP_10",
+      "rfp_text_verbatim": "All documents concerning any dispute, disagreement, modification, transfer, cancellation, dilution, or termination of an ownership interest claimed by [PERSON A].",
+      "rfp_text_summary": "Documents about any dispute, disagreement, modification, transfer, cancellation, dilution, or termination of an ownership interest claimed by Alex Rivera.",
+      "question": "Does `document.text` concern any dispute, disagreement, modification, transfer, cancellation, dilution, or termination of an ownership interest claimed by Alex Rivera in Brightline Ventures, Inc.?",
+      "covers": "Emails, agreements, or other documents discussing disputes, modifications, transfers, cancellations, dilution, or termination of Alex Rivera's claimed ownership interest.",
+      "not_for": "Documents about ownership generally without a dispute or change; those belong to RFP_01 or RFP_06.",
+      "document_categories": [
+        "Email or Message",
+        "Ownership or Equity Agreement"
+      ],
+      "responsiveness_criteria": [
+        {
+          "id": "C1",
+          "description": "Document concerns a dispute, disagreement, modification, transfer, cancellation, dilution, or termination of an ownership interest claimed by Alex Rivera.",
+          "example_phrases": [
+            "dispute over ownership",
+            "dilution of Rivera's interest",
+            "termination of ownership",
+            "transfer of Rivera's shares"
+          ],
+          "weight": "primary"
+        },
+        {
+          "id": "C2",
+          "description": "Document mentions Alex Rivera and a change or dispute regarding his ownership interest.",
+          "example_phrases": [
+            "Alex Rivera",
+            "ownership dispute",
+            "modification of interest"
+          ],
+          "weight": "secondary"
+        }
+      ],
+      "exclusions": [],
+      "decision_rule": "Responsive if any primary criterion matches",
+      "causes_of_action_supported": [
+        "coa-1"
+      ]
+    }
+  },
+  "expected_rfp_ids": [
+    "RFP_01",
+    "RFP_02",
+    "RFP_03",
+    "RFP_04",
+    "RFP_05",
+    "RFP_06",
+    "RFP_07",
+    "RFP_08",
+    "RFP_09",
+    "RFP_10"
+  ],
+  "category_instructions": {
+    "question": "What type of document is `document.text`? Judge only from the document's content. Pick the single type that best describes the document as a whole.",
+    "note": "`document.text` may be only the opening portion of a longer document."
+  },
+  "no_match_label": "None of the above",
+  "no_match_description": "The content does not clearly fit any of the listed document types, or the text is too short, garbled, or empty to tell.",
+  "document_categories": [
+    {
+      "name": "Bank Statement or Transaction Record",
+      "description": {
+        "covers": "Bank statements, transaction histories, wire transfer records, deposit slips, and similar records of financial transactions.",
+        "not_for": "General accounting ledgers or financial statements that are not bank-issued; those belong to 'Accounting Record or Financial Statement'."
+      },
+      "typically_responsive": true
+    },
+    {
+      "name": "Stock Certificate, Ledger or Cap Table",
+      "description": {
+        "covers": "Stock certificates, stock ledgers, capitalization tables, shareholder registers, and similar records of share ownership.",
+        "not_for": "Ownership agreements or general corporate records; those belong to 'Ownership or Equity Agreement' or 'Corporate Formation or Governance Document'."
+      },
+      "typically_responsive": true
+    },
+    {
+      "name": "Corporate Formation or Governance Document",
+      "description": {
+        "covers": "Articles of incorporation, bylaws, organizational minutes, board resolutions, shareholder resolutions, written consents, and amendments.",
+        "not_for": "Stock certificates or ownership agreements; those belong to 'Stock Certificate, Ledger or Cap Table' or 'Ownership or Equity Agreement'."
+      },
+      "typically_responsive": true
+    },
+    {
+      "name": "Ownership or Equity Agreement",
+      "description": {
+        "covers": "Agreements, contracts, or understandings regarding ownership, equity interests, or percentage ownership of a company.",
+        "not_for": "Stock certificates or corporate formation documents; those belong to 'Stock Certificate, Ledger or Cap Table' or 'Corporate Formation or Governance Document'."
+      },
+      "typically_responsive": true
+    },
+    {
+      "name": "Accounting Record or Financial Statement",
+      "description": {
+        "covers": "General ledgers, accounting records, financial statements, balance sheets, income statements, and similar financial documents.",
+        "not_for": "Bank statements or transaction records; those belong to 'Bank Statement or Transaction Record'."
+      },
+      "typically_responsive": true
+    },
+    {
+      "name": "Email or Message",
+      "description": {
+        "covers": "Emails, text messages, instant messages, and other electronic communications.",
+        "not_for": "Personal or social communications unrelated to business; those belong to 'Personal or Social Communication'."
+      },
+      "typically_responsive": true
+    },
+    {
+      "name": "Invoice or Receipt",
+      "description": {
+        "covers": "Invoices, receipts, bills, and similar records of payment or purchase.",
+        "not_for": "Bank statements or accounting records; those belong to 'Bank Statement or Transaction Record' or 'Accounting Record or Financial Statement'."
+      },
+      "typically_responsive": true
+    },
+    {
+      "name": "Marketing, Newsletter or Spam",
+      "description": {
+        "covers": "Marketing emails, newsletters, promotional materials, and spam messages.",
+        "not_for": "Business communications or personal messages; those belong to 'Email or Message' or 'Personal or Social Communication'."
+      },
+      "typically_responsive": false
+    },
+    {
+      "name": "Personal or Social Communication",
+      "description": {
+        "covers": "Personal emails, social media messages, and non-business communications.",
+        "not_for": "Business-related emails or messages; those belong to 'Email or Message'."
+      },
+      "typically_responsive": false
+    },
+    {
+      "name": "Other Business Document",
+      "description": {
+        "covers": "Business documents that do not fit any other category, such as contracts, memos, or reports.",
+        "not_for": "Documents that clearly fit a more specific category; those should be classified accordingly."
+      },
+      "typically_responsive": true
+    }
+  ]
+}

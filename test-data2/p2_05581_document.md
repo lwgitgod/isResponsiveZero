@@ -1,0 +1,3 @@
+CITY OF FRESNO — PARKING CITATION #32837089
+Plate 2ABC115  Violation: Expired meter
+Fine $45.00  Due 06/28/2020

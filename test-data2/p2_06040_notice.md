@@ -1,0 +1,3 @@
+CITY OF SPOKANE — PARKING CITATION #34881557
+Plate 3XYZ143  Violation: Expired meter
+Fine $65.00  Due 08/15/2021

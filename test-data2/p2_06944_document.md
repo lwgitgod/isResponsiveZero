@@ -1,0 +1,3 @@
+CITY OF BOISE — PARKING CITATION #33084129
+Plate 3ABC457  Violation: Street cleaning
+Fine $95.00  Due 12/18/2020

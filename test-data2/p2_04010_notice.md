@@ -1,3 +1,0 @@
-CITY OF SACRAMENTO — PARKING CITATION #40054285
-Plate 2XYZ749  Violation: Street cleaning
-Fine $45.00  Due 07/05/2023

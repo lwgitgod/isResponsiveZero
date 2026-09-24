@@ -1,4 +1,0 @@
-CVS Pharmacy
-RX #0857827  qty 22
-Copay $18.75
-08/04/2021  ExtraCare 5403662144

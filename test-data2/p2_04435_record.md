@@ -1,6 +1,0 @@
-CVS Pharmacy
-RX #8071814  qty 73
-Copay $18.18
-08/11/2021  ExtraCare 2327415528
-
-Doc ID 152310130

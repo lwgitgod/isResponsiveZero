@@ -1,4 +1,0 @@
-CVS Pharmacy
-RX #6993754  qty 27
-Copay $30.85
-04/18/2023  ExtraCare 4734199809

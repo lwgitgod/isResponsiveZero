@@ -1,3 +1,0 @@
-CITY OF FRESNO — PARKING CITATION #46510225
-Plate 9ABC449  Violation: Street cleaning
-Fine $95.00  Due 11/27/2023

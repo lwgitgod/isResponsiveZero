@@ -1,3 +1,0 @@
-CITY OF TUCSON — PARKING CITATION #71646093
-Plate 2KLM058  Violation: Expired meter
-Fine $65.00  Due 03/12/2024

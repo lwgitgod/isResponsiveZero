@@ -1,3 +1,0 @@
-CITY OF RENO — PARKING CITATION #31862652
-Plate 6KLM256  Violation: Street cleaning
-Fine $95.00  Due 12/22/2019

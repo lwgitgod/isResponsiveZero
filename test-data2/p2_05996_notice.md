@@ -1,3 +1,0 @@
-CITY OF SPOKANE — PARKING CITATION #86294082
-Plate 2ABC269  Violation: Street cleaning
-Fine $95.00  Due 11/19/2020

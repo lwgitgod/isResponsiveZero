@@ -1,4 +1,0 @@
-CVS Pharmacy
-RX #2240043  qty 90
-Copay $35.56
-08/26/2019  ExtraCare 0975027617

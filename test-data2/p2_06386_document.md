@@ -1,3 +1,0 @@
-CITY OF TACOMA — PARKING CITATION #66325590
-Plate 1XYZ847  Violation: Expired meter
-Fine $45.00  Due 08/18/2019

@@ -1,3 +1,0 @@
-CITY OF SPOKANE — PARKING CITATION #06574544
-Plate 9ABC246  Violation: Expired meter
-Fine $45.00  Due 11/20/2020

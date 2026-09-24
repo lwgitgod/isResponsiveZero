@@ -1,6 +1,0 @@
-Form 1040 — 2022 — Jordan Blake  (excerpt)
-Schedule E, Part II — Income or Loss From Partnerships and S Corporations
-| (a) Name | (b) S | (d) EIN | Ownership % |
-|---|---|---|---|
-| Brightline Ventures Inc | S | 89-0230668 | 100 |
-Schedule 1 line 8: other income $1,494.52

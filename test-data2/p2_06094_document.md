@@ -1,3 +1,0 @@
-CITY OF BOISE — PARKING CITATION #08447157
-Plate 9KLM753  Violation: Red zone
-Fine $45.00  Due 10/16/2023

@@ -1,3 +1,0 @@
-CITY OF SPOKANE — PARKING CITATION #47046390
-Plate 2KLM903  Violation: Expired meter
-Fine $45.00  Due 09/23/2019

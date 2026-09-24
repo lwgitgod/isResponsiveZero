@@ -1,4 +1,0 @@
-CVS Pharmacy
-RX #5619069  qty 22
-Copay $11.60
-04/02/2019  ExtraCare 5540153192

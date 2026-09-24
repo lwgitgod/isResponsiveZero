@@ -1,3 +1,0 @@
-CITY OF EUGENE — PARKING CITATION #43278116
-Plate 9KLM820  Violation: Street cleaning
-Fine $65.00  Due 07/15/2024

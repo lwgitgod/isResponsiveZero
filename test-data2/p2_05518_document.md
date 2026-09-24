@@ -1,3 +1,0 @@
-CITY OF TACOMA — PARKING CITATION #54410995
-Plate 5KLM322  Violation: Expired meter
-Fine $65.00  Due 08/10/2020

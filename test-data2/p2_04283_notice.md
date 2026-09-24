@@ -1,3 +1,0 @@
-CITY OF TACOMA — PARKING CITATION #07305555
-Plate 1XYZ297  Violation: Street cleaning
-Fine $45.00  Due 12/22/2020

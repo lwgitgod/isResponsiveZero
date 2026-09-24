@@ -1,3 +1,0 @@
-CITY OF RENO — PARKING CITATION #68604996
-Plate 5XYZ262  Violation: Red zone
-Fine $45.00  Due 01/16/2019

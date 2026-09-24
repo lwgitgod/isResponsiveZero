@@ -1,6 +1,0 @@
-CONFIDENTIAL
-
-CVS Pharmacy
-RX #2065723  qty 31
-Copay $12.40
-02/21/2024  ExtraCare 7420661829

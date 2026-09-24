@@ -1,3 +1,0 @@
-CITY OF RENO — PARKING CITATION #70703419
-Plate 7KLM854  Violation: Street cleaning
-Fine $95.00  Due 02/23/2022

@@ -1,3 +1,0 @@
-CITY OF TUCSON — PARKING CITATION #80084357
-Plate 2KLM042  Violation: Street cleaning
-Fine $95.00  Due 09/05/2020

@@ -1,3 +1,0 @@
-CITY OF SPOKANE — PARKING CITATION #10924278
-Plate 7KLM079  Violation: Street cleaning
-Fine $65.00  Due 12/22/2022

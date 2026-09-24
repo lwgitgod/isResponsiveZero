@@ -1,4 +1,0 @@
-CVS Pharmacy
-RX #3260363  qty 19
-Copay $36.81
-02/09/2022  ExtraCare 6045946912

@@ -1,3 +1,0 @@
-CITY OF RENO — PARKING CITATION #64609526
-Plate 9XYZ045  Violation: Street cleaning
-Fine $65.00  Due 04/23/2023

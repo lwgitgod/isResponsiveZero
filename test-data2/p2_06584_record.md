@@ -1,6 +1,0 @@
-CONFIDENTIAL
-
-Shell #4471
-01/14/2019 11:00
-Unleaded 12.4 gal  $10.54
-Card ****0087

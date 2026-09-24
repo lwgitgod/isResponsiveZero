@@ -1,8 +1,0 @@
-DRAFT
-
-## Brightline Ventures, Inc. — Statement of Shareholders' Equity 2021
-
-| Shareholder | Cash contributed | Non-cash contributed | Shares |
-|---|---|---|---|
-| Alex Rivera | $53,358.13 | Software IP (assigned) | 6,500,000 |
-| Jordan Blake | $0.00 | Incorporation services | 3,000,000 |

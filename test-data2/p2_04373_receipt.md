@@ -1,4 +1,0 @@
-CVS Pharmacy
-RX #4358058  qty 34
-Copay $21.04
-05/12/2023  ExtraCare 3648872390

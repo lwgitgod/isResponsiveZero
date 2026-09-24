@@ -1,3 +1,0 @@
-CITY OF RENO — PARKING CITATION #25440824
-Plate 1ABC160  Violation: Street cleaning
-Fine $45.00  Due 09/05/2020

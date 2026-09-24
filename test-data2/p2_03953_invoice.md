@@ -1,4 +1,0 @@
-CVS Pharmacy
-RX #8091652  qty 59
-Copay $23.58
-10/17/2021  ExtraCare 4626710328

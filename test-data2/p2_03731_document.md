@@ -1,3 +1,0 @@
-CITY OF RENO — PARKING CITATION #02238533
-Plate 4ABC124  Violation: Red zone
-Fine $65.00  Due 01/17/2025

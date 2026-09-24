@@ -1,3 +1,0 @@
-CITY OF TACOMA — PARKING CITATION #03295129
-Plate 6KLM950  Violation: Red zone
-Fine $95.00  Due 12/05/2020

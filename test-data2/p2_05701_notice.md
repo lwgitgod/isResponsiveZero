@@ -1,3 +1,0 @@
-CITY OF EUGENE — PARKING CITATION #75523529
-Plate 4XYZ806  Violation: Red zone
-Fine $65.00  Due 04/20/2021

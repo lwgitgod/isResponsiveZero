@@ -1,4 +1,0 @@
-CVS Pharmacy
-RX #4734792  qty 86
-Copay $27.42
-12/16/2022  ExtraCare 1190452768

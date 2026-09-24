@@ -1,3 +1,0 @@
-CITY OF FRESNO — PARKING CITATION #62937649
-Plate 4ABC544  Violation: Red zone
-Fine $65.00  Due 11/19/2025

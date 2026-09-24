@@ -1,3 +1,0 @@
-CITY OF TUCSON — PARKING CITATION #37447371
-Plate 1ABC897  Violation: Red zone
-Fine $65.00  Due 06/25/2025

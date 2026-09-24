@@ -654,6 +654,16 @@ export default function Home(): ReactElement {
           )}
         </section>
 
+        <p className="runlocal">
+          If you can clone a repo and run <code>python main.py</code>, you can run IsResponsive locally on much larger document sets.
+          Bring your own TypeSafe.ai key, point it at the files, and off you go - including Enron-sized collections. Both the Python
+          and web versions are available here:{" "}
+          <a href="https://github.com/lwgitgod/isResponsiveZero" target="_blank" rel="noopener">
+            lwgitgod/isResponsiveZero
+          </a>
+          . For larger or custom deployments, including bring-your-own-GPU implementations, we are available to help. Enjoy.
+        </p>
+
         <section className="about">
           <div>
             <div className="eyebrow">About Legawrite.AI</div>

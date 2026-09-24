@@ -17,10 +17,10 @@ npm run build && npm start        # http://localhost:3100   (or: npm run dev)
 
 ## Environment (`.env.local`, server-side only, never `NEXT_PUBLIC_`)
 
-| Variable | Used by | Source |
-|---|---|---|
-| `TYPESAFE_API_KEY` | `/api/classify` (Jev) | same key as `_DocClassify_MVP/.env` |
-| `DEEPSEEK_API_KEY` | `/api/rubric` (DeepSeek) | same key as `_DocClassify_MVP/.env` |
+| Variable | Used by |
+|---|---|
+| `TYPESAFE_API_KEY` | `/api/classify` (Jev) | 
+| `DEEPSEEK_API_KEY` | `/api/rubric` (DeepSeek) |
 
 ## Architecture
 

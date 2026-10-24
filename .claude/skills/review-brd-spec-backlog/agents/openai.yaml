@@ -1,0 +1,4 @@
+interface:
+  display_name: "BRD Spec Backlog Review"
+  short_description: "Audit BRD, spec, and backlog for drift"
+  default_prompt: "Use $review-brd-spec-backlog to audit whether this BRD, spec, and backlog still match the project intent."

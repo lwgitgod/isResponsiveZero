@@ -1,0 +1,3 @@
+/plan-functionality CC \SPEC\CC\ComplaintChecker-Spec-v4.6.md, \SPEC\CC\CC-Goal-BRD.md to implement the mock of \SPEC\CC\complaint-checker-mock_4.6.html;
+## Additional Instructions: 
+Make sure that in this version the button to start the workflow located on the "Review Complaint" modal next to the "Approve and Print" for now. Lets create 2 sets of backlogs actually, cc-backend-backlog.md and cc-frontend-backlog.md and the waveplans accordingly. 
